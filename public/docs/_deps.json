@@ -1248,5 +1248,13 @@
     "distutils.errors",
     "distutils.extension",
     "setuptools.extern.six.moves"
+  ],
+  "myapp/Lib/site-packages/setuptools/dist.py": [
+    "myapp/Lib/site-packages/setuptools/config.py",
+    "myapp/Lib/site-packages/setuptools/monkey.py",
+    "myapp/Lib/site-packages/setuptools/depends.py",
+    "myapp/Lib/site-packages/setuptools/extern/packaging/__init__.py",
+    "myapp/Lib/site-packages/setuptools/extern/six.py",
+    "myapp/Lib/site-packages/setuptools/windows_support.py"
   ]
 }
