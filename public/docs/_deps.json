@@ -1108,5 +1108,8 @@
   "myapp/Lib/site-packages/setuptools/command/alias.py": [
     "setuptools.extern.six.moves",
     "setuptools.command.setopt"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/__init__.py": [
+    "setuptools/command/install_scripts.py"
   ]
 }
