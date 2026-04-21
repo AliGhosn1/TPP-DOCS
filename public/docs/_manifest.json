@@ -183,5 +183,10 @@
     "filePath": "myapp/Lib/site-packages/flask/ctx.py",
     "title": "Flask Context Management",
     "docKey": "myapp__Lib__site-packages__flask__ctx.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/json/provider.py",
+    "title": "JSONProvider",
+    "docKey": "myapp__Lib__site-packages__flask__json__provider.py"
   }
 ]
