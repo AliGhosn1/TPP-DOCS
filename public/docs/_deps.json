@@ -641,5 +641,12 @@
     "pip._internal.models.index",
     "pip._internal.utils.compat",
     "pip._internal.utils.logging"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/uninstall.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/req/__init__.py",
+    "pip/_internal/req/constructors.py",
+    "pip/_internal/utils/misc.py"
   ]
 }
