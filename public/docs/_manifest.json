@@ -1478,5 +1478,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/wrappers/__init__.py",
     "title": "Werkzeug Wrappers",
     "docKey": "myapp__Lib__site-packages__werkzeug__wrappers____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/wsgi.py",
+    "title": "Werkzeug WSGI Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__wsgi.py"
   }
 ]
