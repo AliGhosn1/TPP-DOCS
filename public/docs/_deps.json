@@ -778,5 +778,14 @@
     "pip/_internal/utils/misc",
     "pip/_internal/utils/typing",
     "pip/_internal/req/req_install"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/operations/freeze.py": [
+    "pip._internal.exceptions",
+    "pip._internal.req.constructors",
+    "pip._internal.req.req_file",
+    "pip._internal.utils.misc",
+    "pip._internal.vcs",
+    "pip._vendor.packaging.utils",
+    "pip._vendor.pkg_resources"
   ]
 }
