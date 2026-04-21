@@ -1213,5 +1213,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/__init__.py",
     "title": "Werkzeug __init__.py",
     "docKey": "myapp__Lib__site-packages__werkzeug____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/_internal.py",
+    "title": "Internal Werkzeug Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug___internal.py"
   }
 ]
