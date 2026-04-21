@@ -1178,5 +1178,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/sandbox.py",
     "title": "setuptools.sandbox",
     "docKey": "myapp__Lib__site-packages__setuptools__sandbox.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/site-patch.py",
+    "title": "setuptools site-patch Module",
+    "docKey": "myapp__Lib__site-packages__setuptools__site-patch.py"
   }
 ]
