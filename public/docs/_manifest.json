@@ -1098,5 +1098,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/config.py",
     "title": "setuptools Configuration Parsing",
     "docKey": "myapp__Lib__site-packages__setuptools__config.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/extension.py",
+    "title": "setuptools.extension Module",
+    "docKey": "myapp__Lib__site-packages__setuptools__extension.py"
   }
 ]
