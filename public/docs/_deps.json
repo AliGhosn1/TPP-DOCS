@@ -183,5 +183,8 @@
     "../sansio/app",
     "werkzeug.sansio.response",
     "werkzeug.http"
+  ],
+  "myapp/Lib/site-packages/flask/json/tag.py": [
+    "../json.py"
   ]
 }
