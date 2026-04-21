@@ -513,5 +513,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/cli/main_parser.py",
     "title": "Pip Main Parser",
     "docKey": "myapp__Lib__site-packages__pip___internal__cli__main_parser.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cli/parser.py",
+    "title": "Custom Option Parser and Help Formatter",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cli__parser.py"
   }
 ]
