@@ -44,5 +44,6 @@
     "click/core.py",
     "click/parser.py",
     "click/utils.py"
-  ]
+  ],
+  "myapp/Lib/site-packages/click/_textwrap.py": []
 }
