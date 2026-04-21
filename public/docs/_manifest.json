@@ -30,6 +30,11 @@
     "docKey": "myapp__Lib__site-packages__click___termui_impl.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/click/_textwrap.py",
+    "title": "TextWrapper Utility",
+    "docKey": "myapp__Lib__site-packages__click___textwrap.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/click/_winconsole.py",
     "title": "Windows Console Handling",
     "docKey": "myapp__Lib__site-packages__click___winconsole.py"
