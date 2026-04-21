@@ -898,5 +898,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/_util/xorg.py",
     "title": "Xorg Backend Utilities",
     "docKey": "myapp__Lib__site-packages__pynput___util__xorg.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/__init__.py",
+    "title": "pynput.keyboard",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard____init__.py"
   }
 ]
