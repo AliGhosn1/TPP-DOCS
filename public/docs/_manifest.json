@@ -598,5 +598,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/__init__.py",
     "title": "Distribution Factory",
     "docKey": "myapp__Lib__site-packages__pip___internal__distributions____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/base.py",
+    "title": "AbstractDistribution",
+    "docKey": "myapp__Lib__site-packages__pip___internal__distributions__base.py"
   }
 ]
