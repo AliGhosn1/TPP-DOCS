@@ -958,5 +958,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/__init__.py",
     "title": "Setuptools Core API",
     "docKey": "myapp__Lib__site-packages__setuptools____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/_deprecation_warning.py",
+    "title": "SetuptoolsDeprecationWarning",
+    "docKey": "myapp__Lib__site-packages__setuptools___deprecation_warning.py"
   }
 ]
