@@ -923,5 +923,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/keyboard/_win32.py",
     "title": "Windows Keyboard Implementation (pynput)",
     "docKey": "myapp__Lib__site-packages__pynput__keyboard___win32.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/_xorg.py",
+    "title": "Xorg Keyboard Implementation",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard___xorg.py"
   }
 ]
