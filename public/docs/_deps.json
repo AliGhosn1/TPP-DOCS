@@ -299,5 +299,8 @@
   "myapp/Lib/site-packages/importlib_metadata/_itertools.py": [],
   "myapp/Lib/site-packages/importlib_metadata/diagnose.py": [
     "importlib_metadata/distribution.py"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_text.py": [
+    "._functools"
   ]
 }
