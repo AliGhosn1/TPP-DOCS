@@ -123,5 +123,10 @@
     "filePath": "myapp/Lib/site-packages/colorama/tests/ansitowin32_test.py",
     "title": "Ansitowin32 Tests",
     "docKey": "myapp__Lib__site-packages__colorama__tests__ansitowin32_test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/initialise_test.py",
+    "title": "Colorama Initialization Tests",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__initialise_test.py"
   }
 ]
