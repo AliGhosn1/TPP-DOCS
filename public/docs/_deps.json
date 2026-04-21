@@ -1002,5 +1002,6 @@
     "pip/_vendor/packaging/utils.py",
     "pip/_vendor/six.py"
   ],
-  "myapp/Lib/site-packages/pkg_resources/__init__.py": []
+  "myapp/Lib/site-packages/pkg_resources/__init__.py": [],
+  "myapp/Lib/site-packages/pkg_resources/extern/__init__.py": []
 }
