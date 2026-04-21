@@ -863,5 +863,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/__init__.py",
     "title": "Pynput Core Module",
     "docKey": "myapp__Lib__site-packages__pynput____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/__init__.py",
+    "title": "pynput._util",
+    "docKey": "myapp__Lib__site-packages__pynput___util____init__.py"
   }
 ]
