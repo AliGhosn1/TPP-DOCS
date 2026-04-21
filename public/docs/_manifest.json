@@ -463,5 +463,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/utils.py",
     "title": "Jinja2 Utilities",
     "docKey": "myapp__Lib__site-packages__jinja2__utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/markupsafe/__init__.py",
+    "title": "Markup Safe String Handling",
+    "docKey": "myapp__Lib__site-packages__markupsafe____init__.py"
   }
 ]
