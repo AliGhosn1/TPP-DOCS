@@ -4,5 +4,8 @@
     "operator",
     "sys",
     "traceback"
+  ],
+  "myapp/Lib/site-packages/blinker/base.py": [
+    "blinker/_utilities.py"
   ]
 }
