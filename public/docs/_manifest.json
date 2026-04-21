@@ -280,6 +280,11 @@
     "docKey": "myapp__Lib__site-packages__importlib_metadata___collections.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_compat.py",
+    "title": "Compatibility Utilities for importlib-metadata",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___compat.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/importlib_metadata/_functools.py",
     "title": "functools Utilities for importlib-metadata",
     "docKey": "myapp__Lib__site-packages__importlib_metadata___functools.py"
