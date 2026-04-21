@@ -918,5 +918,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/keyboard/_uinput.py",
     "title": "pynput Keyboard (_uinput)",
     "docKey": "myapp__Lib__site-packages__pynput__keyboard___uinput.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/_win32.py",
+    "title": "Windows Keyboard Implementation (pynput)",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard___win32.py"
   }
 ]
