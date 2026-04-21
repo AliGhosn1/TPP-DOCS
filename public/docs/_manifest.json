@@ -268,5 +268,10 @@
     "filePath": "myapp/Lib/site-packages/importlib_metadata/_adapters.py",
     "title": "importlib_metadata Adapters",
     "docKey": "myapp__Lib__site-packages__importlib_metadata___adapters.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_collections.py",
+    "title": "Collections Utilities",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___collections.py"
   }
 ]
