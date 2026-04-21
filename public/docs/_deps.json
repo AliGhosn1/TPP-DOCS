@@ -1306,5 +1306,9 @@
   "myapp/Lib/site-packages/setuptools/py27compat.py": [
     "setuptools.extern.six"
   ],
-  "myapp/Lib/site-packages/setuptools/py31compat.py": []
+  "myapp/Lib/site-packages/setuptools/py31compat.py": [],
+  "myapp/Lib/site-packages/setuptools/py33compat.py": [
+    "setuptools/extern/six.py",
+    "setuptools/extern/six/moves/html_parser.py"
+  ]
 }
