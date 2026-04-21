@@ -713,5 +713,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_install.py",
     "title": "InstallRequirement Class",
     "docKey": "myapp__Lib__site-packages__pip___internal__req__req_install.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_set.py",
+    "title": "RequirementSet Class",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__req_set.py"
   }
 ]
