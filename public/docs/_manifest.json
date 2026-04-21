@@ -413,5 +413,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/lexer.py",
     "title": "Jinja2 Lexer",
     "docKey": "myapp__Lib__site-packages__jinja2__lexer.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/loaders.py",
+    "title": "Jinja2 Template Loaders",
+    "docKey": "myapp__Lib__site-packages__jinja2__loaders.py"
   }
 ]
