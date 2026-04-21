@@ -891,5 +891,9 @@
   ],
   "myapp/Lib/site-packages/pip/_internal/utils/encoding.py": [
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/deprecation.py": [
+    "pip._internal.utils.typing",
+    "pip"
   ]
 }
