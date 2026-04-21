@@ -10,5 +10,8 @@
   ],
   "myapp/Lib/site-packages/blinker/__init__.py": [
     "blinker/base.py"
+  ],
+  "myapp/Lib/site-packages/blinker/_utilities.py": [
+    "blinker/_saferef.py"
   ]
 }
