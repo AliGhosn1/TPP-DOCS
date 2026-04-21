@@ -783,5 +783,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/packaging.py",
     "title": "Packaging Utilities",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__packaging.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/setuptools_build.py",
+    "title": "setuptools Shim Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__setuptools_build.py"
   }
 ]
