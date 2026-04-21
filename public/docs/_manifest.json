@@ -23,5 +23,10 @@
     "filePath": "myapp/Lib/site-packages/click/_compat.py",
     "title": "Click Compatibility Utilities",
     "docKey": "myapp__Lib__site-packages__click___compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/_termui_impl.py",
+    "title": "Terminal UI Implementations",
+    "docKey": "myapp__Lib__site-packages__click___termui_impl.py"
   }
 ]
