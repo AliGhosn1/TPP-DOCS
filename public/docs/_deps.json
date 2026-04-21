@@ -1064,5 +1064,9 @@
   ],
   "myapp/Lib/site-packages/pynput/mouse/__init__.py": [
     "pynput/_util.py"
+  ],
+  "myapp/Lib/site-packages/pynput/mouse/_base.py": [
+    "pynput/_util.py",
+    "pynput/__init__.py"
   ]
 }
