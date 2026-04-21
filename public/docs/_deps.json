@@ -1179,5 +1179,11 @@
   "myapp/Lib/site-packages/setuptools/command/install.py": [
     "distutils/errors.py",
     "distutils/command/install.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/install_egg_info.py": [
+    "setuptools",
+    "setuptools.namespaces",
+    "setuptools.archive_util",
+    "pkg_resources"
   ]
 }
