@@ -1466,5 +1466,8 @@
     "../http.py",
     "../wsgi.py"
   ],
-  "myapp/Lib/site-packages/werkzeug/middleware/profiler.py": []
+  "myapp/Lib/site-packages/werkzeug/middleware/profiler.py": [],
+  "myapp/Lib/site-packages/werkzeug/middleware/proxy_fix.py": [
+    "../http.py"
+  ]
 }
