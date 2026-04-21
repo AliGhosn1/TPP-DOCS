@@ -305,5 +305,13 @@
   ],
   "myapp/Lib/site-packages/itsdangerous/_json.py": [
     "itsdangerous/_json.py"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/__init__.py": [
+    "./encoding.py",
+    "./exc.py",
+    "./serializer.py",
+    "./signer.py",
+    "./timed.py",
+    "./url_safe.py"
   ]
 }
