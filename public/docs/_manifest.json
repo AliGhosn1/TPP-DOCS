@@ -943,5 +943,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/mouse/_darwin.py",
     "title": "macOS Mouse Implementation for pynput",
     "docKey": "myapp__Lib__site-packages__pynput__mouse___darwin.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/mouse/_win32.py",
+    "title": "pynput Windows Mouse Implementation",
+    "docKey": "myapp__Lib__site-packages__pynput__mouse___win32.py"
   }
 ]
