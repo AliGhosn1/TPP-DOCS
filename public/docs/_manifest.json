@@ -503,5 +503,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/cli/base_command.py",
     "title": "Base Command Class for pip CLI",
     "docKey": "myapp__Lib__site-packages__pip___internal__cli__base_command.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cli/cmdoptions.py",
+    "title": "Pip Command Line Options",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cli__cmdoptions.py"
   }
 ]
