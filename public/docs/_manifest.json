@@ -1223,5 +1223,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/_reloader.py",
     "title": "Werkzeug Reloader",
     "docKey": "myapp__Lib__site-packages__werkzeug___reloader.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/__init__.py",
+    "title": "Werkzeug Datastructures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures____init__.py"
   }
 ]
