@@ -898,5 +898,8 @@
   ],
   "myapp/Lib/site-packages/pip/_internal/utils/filesystem.py": [
     "pip/_internal/utils/compat.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/glibc.py": [
+    "pip/_internal/utils/typing.py"
   ]
 }
