@@ -1168,5 +1168,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/py31compat.py",
     "title": "Python 3.1 Compatibility Layer",
     "docKey": "myapp__Lib__site-packages__setuptools__py31compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/py33compat.py",
+    "title": "Python 3.3 Compatibility Layer",
+    "docKey": "myapp__Lib__site-packages__setuptools__py33compat.py"
   }
 ]
