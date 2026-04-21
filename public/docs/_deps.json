@@ -322,5 +322,9 @@
     "./encoding.py",
     "./exc.py",
     "./signer.py"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/signer.py": [
+    "itsdangerous/encoding.py",
+    "itsdangerous/exc.py"
   ]
 }
