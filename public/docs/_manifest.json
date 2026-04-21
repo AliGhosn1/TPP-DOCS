@@ -255,6 +255,11 @@
     "docKey": "myapp__Lib__site-packages__flask__typing.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/flask/views.py",
+    "title": "Flask Views (`flask/views.py`)",
+    "docKey": "myapp__Lib__site-packages__flask__views.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/flask/wrappers.py",
     "title": "Flask Request and Response Wrappers",
     "docKey": "myapp__Lib__site-packages__flask__wrappers.py"
