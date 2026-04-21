@@ -583,5 +583,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/uninstall.py",
     "title": "Uninstall Command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__uninstall.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/wheel.py",
+    "title": "pip wheel Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__wheel.py"
   }
 ]
