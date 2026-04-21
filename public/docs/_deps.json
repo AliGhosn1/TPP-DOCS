@@ -583,5 +583,13 @@
     "pip/_internal/utils/logging.py",
     "pip/_internal/utils.misc.py",
     "pip/_internal/wheel.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/freeze.py": [
+    "pip/_internal/cache.py",
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/models/format_control.py",
+    "pip/_internal/operations/freeze.py",
+    "pip/_internal/utils/compat.py"
   ]
 }
