@@ -339,5 +339,14 @@
     "itsdangerous/exc.py",
     "itsdangerous/serializer.py",
     "itsdangerous/timed.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/__init__.py": [
+    "jinja2/__init__.py",
+    "jinja2/bccache.py",
+    "jinja2/environment.py",
+    "jinja2/exceptions.py",
+    "jinja2/loaders.py",
+    "jinja2/runtime.py",
+    "jinja2/utils.py"
   ]
 }
