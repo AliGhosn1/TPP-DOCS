@@ -411,5 +411,9 @@
     "jinja2/exceptions.py",
     "jinja2/utils.py",
     "jinja2/environment.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/loaders.py": [
+    "myapp/Lib/site-packages/jinja2/exceptions.py",
+    "myapp/Lib/site-packages/jinja2/utils.py"
   ]
 }
