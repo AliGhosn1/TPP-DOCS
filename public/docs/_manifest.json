@@ -1158,5 +1158,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/pep425tags.py",
     "title": "PEP 425 Compatibility Tags",
     "docKey": "myapp__Lib__site-packages__setuptools__pep425tags.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/py27compat.py",
+    "title": "Python 2.7 Compatibility Layer",
+    "docKey": "myapp__Lib__site-packages__setuptools__py27compat.py"
   }
 ]
