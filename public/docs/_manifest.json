@@ -198,5 +198,10 @@
     "filePath": "myapp/Lib/site-packages/flask/json/tag.py",
     "title": "Tagged JSON Serialization",
     "docKey": "myapp__Lib__site-packages__flask__json__tag.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/logging.py",
+    "title": "Flask Logging Utilities",
+    "docKey": "myapp__Lib__site-packages__flask__logging.py"
   }
 ]
