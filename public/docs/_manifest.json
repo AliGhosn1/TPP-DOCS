@@ -1368,5 +1368,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/middleware/http_proxy.py",
     "title": "Werkzeug HTTP Proxy Middleware",
     "docKey": "myapp__Lib__site-packages__werkzeug__middleware__http_proxy.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/lint.py",
+    "title": "Werkzeug WSGI Lint Middleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__lint.py"
   }
 ]
