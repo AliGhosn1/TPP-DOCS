@@ -401,5 +401,9 @@
     "jinja2/utils.py",
     "jinja2/exceptions.py",
     "markupsafe/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/idtracking.py": [
+    "./nodes",
+    "./visitor"
   ]
 }
