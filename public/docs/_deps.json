@@ -917,5 +917,8 @@
     "pip/_internal/utils/deprecation.py",
     "pip/_internal/utils/misc.py",
     "pip/_internal/utils/subprocess.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/models.py": [
+    "operator"
   ]
 }
