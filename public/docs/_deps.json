@@ -1124,5 +1124,20 @@
     "distutils.command.build_clib",
     "distutils.errors",
     "distutils.log"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/build_ext.py": [
+    "distutils.command.build_ext",
+    "setuptools.extension.Library",
+    "setuptools.extern.six",
+    "distutils.file_util",
+    "distutils.ccompiler",
+    "distutils.sysconfig",
+    "distutils.errors",
+    "distutils.log",
+    "Cython.Distutils.build_ext",
+    "importlib.machinery",
+    "imp",
+    "dl",
+    "distutils.util"
   ]
 }
