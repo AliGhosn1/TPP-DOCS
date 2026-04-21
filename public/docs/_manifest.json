@@ -465,6 +465,11 @@
     "docKey": "myapp__Lib__site-packages__jinja2__utils.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/jinja2/visitor.py",
+    "title": "Jinja2 AST Node Visitor and Transformer API",
+    "docKey": "myapp__Lib__site-packages__jinja2__visitor.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/markupsafe/__init__.py",
     "title": "Markup Safe String Handling",
     "docKey": "myapp__Lib__site-packages__markupsafe____init__.py"
