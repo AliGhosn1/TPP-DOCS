@@ -858,5 +858,10 @@
     "filePath": "myapp/Lib/site-packages/pynput-1.7.6.dist-info/METADATA",
     "title": "pynput METADATA",
     "docKey": "myapp__Lib__site-packages__pynput-1.7.6.dist-info__METADATA"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/__init__.py",
+    "title": "Pynput Core Module",
+    "docKey": "myapp__Lib__site-packages__pynput____init__.py"
   }
 ]
