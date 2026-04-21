@@ -188,5 +188,10 @@
     "filePath": "myapp/Lib/site-packages/flask/json/provider.py",
     "title": "JSONProvider",
     "docKey": "myapp__Lib__site-packages__flask__json__provider.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/json/tag.py",
+    "title": "Tagged JSON Serialization",
+    "docKey": "myapp__Lib__site-packages__flask__json__tag.py"
   }
 ]
