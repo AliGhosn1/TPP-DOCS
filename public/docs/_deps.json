@@ -1469,5 +1469,11 @@
   "myapp/Lib/site-packages/werkzeug/middleware/profiler.py": [],
   "myapp/Lib/site-packages/werkzeug/middleware/proxy_fix.py": [
     "../http.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/shared_data.py": [
+    "../http",
+    "../security",
+    "../utils",
+    "../wsgi"
   ]
 }
