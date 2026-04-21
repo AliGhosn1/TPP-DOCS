@@ -813,5 +813,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/bazaar.py",
     "title": "Bazaar Version Control Integration",
     "docKey": "myapp__Lib__site-packages__pip___internal__vcs__bazaar.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/git.py",
+    "title": "Git Version Control Integration",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__git.py"
   }
 ]
