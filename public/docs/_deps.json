@@ -286,5 +286,9 @@
     "._compat",
     "._functools",
     "._itertools"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_functools.py": [
+    "types",
+    "functools"
   ]
 }
