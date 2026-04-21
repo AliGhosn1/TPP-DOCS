@@ -525,5 +525,13 @@
     "pip/_internal/utils/hashes.py",
     "pip/_internal/utils/misc.py",
     "pip/_internal/utils/ui.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/main_parser.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/parser.py",
+    "pip/_internal/commands/__init__.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py"
   ]
 }
