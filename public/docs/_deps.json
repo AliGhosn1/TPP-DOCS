@@ -32,5 +32,8 @@
     "._compat",
     "._textwrap",
     ".parser"
+  ],
+  "myapp/Lib/site-packages/click/globals.py": [
+    "click/core.py"
   ]
 }
