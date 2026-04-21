@@ -1238,5 +1238,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/accept.pyi",
     "title": "Werkzeug Accept Headers",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__accept.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/auth.py",
+    "title": "Werkzeug Authorization and WWW-Authenticate Header Structures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__auth.py"
   }
 ]
