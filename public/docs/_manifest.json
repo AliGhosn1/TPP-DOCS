@@ -1248,5 +1248,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/cache_control.py",
     "title": "Werkzeug Cache Control Data Structures",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__cache_control.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/cache_control.pyi",
+    "title": "Werkzeug Cache Control Data Structures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__cache_control.pyi"
   }
 ]
