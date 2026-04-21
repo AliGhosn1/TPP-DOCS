@@ -543,5 +543,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/download.py",
     "title": "Pip Download Command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__download.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/freeze.py",
+    "title": "pip freeze command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__freeze.py"
   }
 ]
