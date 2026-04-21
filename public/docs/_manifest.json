@@ -993,5 +993,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/bdist_rpm.py",
     "title": "Custom bdist_rpm command for Setuptools",
     "docKey": "myapp__Lib__site-packages__setuptools__command__bdist_rpm.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/bdist_wininst.py",
+    "title": "Custom bdist_wininst Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__bdist_wininst.py"
   }
 ]
