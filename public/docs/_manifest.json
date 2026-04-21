@@ -78,5 +78,10 @@
     "filePath": "myapp/Lib/site-packages/click/termui.py",
     "title": "Terminal User Interface (UI)",
     "docKey": "myapp__Lib__site-packages__click__termui.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/testing.py",
+    "title": "Click CliRunner",
+    "docKey": "myapp__Lib__site-packages__click__testing.py"
   }
 ]
