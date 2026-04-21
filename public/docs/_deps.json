@@ -1021,5 +1021,6 @@
   "myapp/Lib/site-packages/pynput/_util/win32.py": [
     ".AbstractListener",
     ".win32_vks as VK"
-  ]
+  ],
+  "myapp/Lib/site-packages/pynput/_util/win32_vks.py": []
 }
