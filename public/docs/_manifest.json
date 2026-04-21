@@ -1063,5 +1063,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/rotate.py",
     "title": "setuptools.command.rotate",
     "docKey": "myapp__Lib__site-packages__setuptools__command__rotate.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/saveopts.py",
+    "title": "Save Setuptools Options Command (`saveopts`)",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__saveopts.py"
   }
 ]
