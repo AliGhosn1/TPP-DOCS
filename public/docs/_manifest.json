@@ -1338,5 +1338,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/debug/tbtools.py",
     "title": "Werkzeug Debugger Traceback Tools",
     "docKey": "myapp__Lib__site-packages__werkzeug__debug__tbtools.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/exceptions.py",
+    "title": "Werkzeug HTTP Exceptions",
+    "docKey": "myapp__Lib__site-packages__werkzeug__exceptions.py"
   }
 ]
