@@ -348,5 +348,10 @@
     "filePath": "myapp/Lib/site-packages/itsdangerous/url_safe.py",
     "title": "URL-Safe Serializers",
     "docKey": "myapp__Lib__site-packages__itsdangerous__url_safe.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/__init__.py",
+    "title": "Jinja2 Library Entry Point",
+    "docKey": "myapp__Lib__site-packages__jinja2____init__.py"
   }
 ]
