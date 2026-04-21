@@ -1293,5 +1293,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/mixins.pyi",
     "title": "Werkzeug Datastructures Mixins",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__mixins.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/range.py",
+    "title": "Werkzeug Datastructures: Range, IfRange, ContentRange",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__range.py"
   }
 ]
