@@ -228,5 +228,10 @@
     "filePath": "myapp/Lib/site-packages/flask/sansio/scaffold.py",
     "title": "Flask Scaffold Base Class",
     "docKey": "myapp__Lib__site-packages__flask__sansio__scaffold.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/sessions.py",
+    "title": "Flask Session Management",
+    "docKey": "myapp__Lib__site-packages__flask__sessions.py"
   }
 ]
