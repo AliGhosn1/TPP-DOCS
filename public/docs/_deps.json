@@ -155,5 +155,11 @@
   "myapp/Lib/site-packages/colorama/winterm.py": [
     ".",
     ".\\win32"
+  ],
+  "myapp/Lib/site-packages/flask/blueprints.py": [
+    "flask/globals.py",
+    "flask/helpers.py",
+    "flask/sansio/blueprints.py",
+    "flask/wrappers.py"
   ]
 }
