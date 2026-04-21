@@ -683,5 +683,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/req/__init__.py",
     "title": "pip.req: Requirement Installation and Management",
     "docKey": "myapp__Lib__site-packages__pip___internal__req____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/constructors.py",
+    "title": "Install Requirement Constructors",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__constructors.py"
   }
 ]
