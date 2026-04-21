@@ -1323,5 +1323,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/debug/console.py",
     "title": "Werkzeug Debug Console",
     "docKey": "myapp__Lib__site-packages__werkzeug__debug__console.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/debug/repr.py",
+    "title": "werkzeug.debug.repr",
+    "docKey": "myapp__Lib__site-packages__werkzeug__debug__repr.py"
   }
 ]
