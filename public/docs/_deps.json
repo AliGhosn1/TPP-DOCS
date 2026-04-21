@@ -879,5 +879,11 @@
     "pip._internal.utils.temp_dir",
     "pip._internal.utils.typing",
     "pip._vendor.pkg_resources"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/req_tracker.py": [
+    "pip._internal.utils.temp_dir.TempDirectory",
+    "pip._internal.utils.typing.MYPY_CHECK_RUNNING",
+    "pip._internal.req.req_install.InstallRequirement",
+    "pip._internal.models.link.Link"
   ]
 }
