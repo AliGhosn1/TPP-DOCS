@@ -818,5 +818,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/git.py",
     "title": "Git Version Control Integration",
     "docKey": "myapp__Lib__site-packages__pip___internal__vcs__git.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/mercurial.py",
+    "title": "Mercurial VCS Integration",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__mercurial.py"
   }
 ]
