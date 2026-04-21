@@ -630,6 +630,11 @@
     "docKey": "myapp__Lib__site-packages__pip___internal__index.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/legacy_resolve.py",
+    "title": "Dependency Resolution Logic",
+    "docKey": "myapp__Lib__site-packages__pip___internal__legacy_resolve.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pip/_internal/locations.py",
     "title": "Pip Installation Locations",
     "docKey": "myapp__Lib__site-packages__pip___internal__locations.py"
