@@ -1234,5 +1234,12 @@
     "setuptools.extern.six.moves.urllib.request",
     "setuptools.extern.six.moves.urllib.error",
     "setuptools.extern.six.moves.urllib.parse"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/upload_docs.py": [
+    ".upload",
+    "setuptools.extern.six",
+    "setuptools.extern.six.moves.http_client",
+    "setuptools.extern.six.moves.urllib",
+    "pkg_resources.iter_entry_points"
   ]
 }
