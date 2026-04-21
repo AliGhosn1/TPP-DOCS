@@ -1012,5 +1012,8 @@
     "myapp/Lib/site-packages/pynput/keyboard.py",
     "myapp/Lib/site-packages/pynput/mouse.py"
   ],
-  "myapp/Lib/site-packages/pynput/_util/__init__.py": []
+  "myapp/Lib/site-packages/pynput/_util/__init__.py": [],
+  "myapp/Lib/site-packages/pynput/_util/darwin.py": [
+    "pynput/_util/abstract.py"
+  ]
 }
