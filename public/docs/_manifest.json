@@ -323,5 +323,10 @@
     "filePath": "myapp/Lib/site-packages/itsdangerous/encoding.py",
     "title": "itsdangerous Encoding Utilities",
     "docKey": "myapp__Lib__site-packages__itsdangerous__encoding.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/exc.py",
+    "title": "itsdangerous Exceptions",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__exc.py"
   }
 ]
