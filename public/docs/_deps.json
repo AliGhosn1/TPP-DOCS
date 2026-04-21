@@ -1274,5 +1274,12 @@
     "setuptools.dist",
     "setuptools.extension",
     "setuptools.msvc"
+  ],
+  "myapp/Lib/site-packages/setuptools/msvc.py": [
+    "setuptools.extern.packaging.version",
+    "setuptools.extern.six.moves",
+    "setuptools.monkey",
+    "distutils.errors",
+    "distutils.msvc9compiler"
   ]
 }
