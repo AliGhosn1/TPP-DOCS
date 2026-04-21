@@ -976,5 +976,12 @@
     "pip/_internal/utils/typing.py",
     "pip/_internal/vcs/versioncontrol.py",
     "pip/_internal/exceptions.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/vcs/versioncontrol.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_vendor/pkg_resources.py",
+    "pip/_vendor/six/moves/urllib/parse.py"
   ]
 }
