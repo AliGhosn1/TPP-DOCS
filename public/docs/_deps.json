@@ -78,5 +78,10 @@
     ".exceptions",
     ".utils",
     ".shell_completion"
+  ],
+  "myapp/Lib/site-packages/click/utils.py": [
+    "._compat",
+    ".exceptions",
+    ".globals"
   ]
 }
