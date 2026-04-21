@@ -1373,5 +1373,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/middleware/lint.py",
     "title": "Werkzeug WSGI Lint Middleware",
     "docKey": "myapp__Lib__site-packages__werkzeug__middleware__lint.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/profiler.py",
+    "title": "Werkzeug Profiler Middleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__profiler.py"
   }
 ]
