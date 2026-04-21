@@ -313,5 +313,8 @@
     "./signer.py",
     "./timed.py",
     "./url_safe.py"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/encoding.py": [
+    "./exc.py"
   ]
 }
