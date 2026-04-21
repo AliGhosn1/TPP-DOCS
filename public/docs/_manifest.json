@@ -523,5 +523,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/__init__.py",
     "title": "Pip Commands Module",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/check.py",
+    "title": "pip check Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__check.py"
   }
 ]
