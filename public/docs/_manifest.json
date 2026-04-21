@@ -533,5 +533,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/configuration.py",
     "title": "Pip Configuration Command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__configuration.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/download.py",
+    "title": "Pip Download Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__download.py"
   }
 ]
