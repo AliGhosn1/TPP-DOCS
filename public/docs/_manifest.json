@@ -1153,5 +1153,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/package_index.py",
     "title": "PackageIndex",
     "docKey": "myapp__Lib__site-packages__setuptools__package_index.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/pep425tags.py",
+    "title": "PEP 425 Compatibility Tags",
+    "docKey": "myapp__Lib__site-packages__setuptools__pep425tags.py"
   }
 ]
