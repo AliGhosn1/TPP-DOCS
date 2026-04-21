@@ -623,5 +623,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/exceptions.py",
     "title": "Pip Internal Exceptions",
     "docKey": "myapp__Lib__site-packages__pip___internal__exceptions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/index.py",
+    "title": "Package Indexing and Candidate Evaluation",
+    "docKey": "myapp__Lib__site-packages__pip___internal__index.py"
   }
 ]
