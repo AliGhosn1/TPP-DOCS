@@ -533,5 +533,6 @@
     "pip/_internal/exceptions.py",
     "pip/_internal/utils/misc.py",
     "pip/_internal/utils/typing.py"
-  ]
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/parser.py": []
 }
