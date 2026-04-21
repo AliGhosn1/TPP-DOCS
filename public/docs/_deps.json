@@ -1076,5 +1076,9 @@
   "myapp/Lib/site-packages/pynput/mouse/_win32.py": [
     "pynput/_util/win32.py",
     "pynput/mouse/_base.py"
+  ],
+  "myapp/Lib/site-packages/pynput/mouse/_xorg.py": [
+    "pynput/_util/xorg.py",
+    "pynput/mouse/_base.py"
   ]
 }
