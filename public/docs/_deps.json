@@ -1593,5 +1593,9 @@
   "myapp/Lib/site-packages/werkzeug/wrappers/__init__.py": [
     "myapp/Lib/site-packages/werkzeug/wrappers/request.py",
     "myapp/Lib/site-packages/werkzeug/wrappers/response.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/wsgi.py": [
+    "werkzeug/exceptions.py",
+    "werkzeug/sansio/utils.py"
   ]
 }
