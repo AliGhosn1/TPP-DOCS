@@ -1493,5 +1493,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/wsgi.py",
     "title": "Werkzeug WSGI Utilities",
     "docKey": "myapp__Lib__site-packages__werkzeug__wsgi.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/zipp/compat/py310.py",
+    "title": "Python 3.10 Compatibility for Text Encoding",
+    "docKey": "myapp__Lib__site-packages__zipp__compat__py310.py"
   }
 ]
