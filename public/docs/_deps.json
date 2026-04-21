@@ -39,5 +39,10 @@
   "myapp/Lib/site-packages/click/parser.py": [
     ".exceptions",
     ".core"
+  ],
+  "myapp/Lib/site-packages/click/shell_completion.py": [
+    "click/core.py",
+    "click/parser.py",
+    "click/utils.py"
   ]
 }
