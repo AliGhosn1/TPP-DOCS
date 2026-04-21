@@ -648,5 +648,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/models/format_control.py",
     "title": "Format Control Helper",
     "docKey": "myapp__Lib__site-packages__pip___internal__models__format_control.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/search_scope.py",
+    "title": "SearchScope Model",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__search_scope.py"
   }
 ]
