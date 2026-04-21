@@ -1210,5 +1210,13 @@
     "setuptools/extern/six.py",
     "setuptools/command/py36compat.py",
     "pkg_resources"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/setopt.py": [
+    "distutils.util.convert_path",
+    "distutils.log",
+    "distutils.errors.DistutilsOptionError",
+    "distutils",
+    "setuptools.extern.six.moves.configparser",
+    "setuptools.Command"
   ]
 }
