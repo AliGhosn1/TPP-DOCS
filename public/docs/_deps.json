@@ -1026,5 +1026,6 @@
   "myapp/Lib/site-packages/pynput/_util/xorg.py": [
     "./AbstractListener",
     "./xorg_keysyms"
-  ]
+  ],
+  "myapp/Lib/site-packages/pynput/keyboard/__init__.py": []
 }
