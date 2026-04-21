@@ -1143,5 +1143,10 @@
   "myapp/Lib/site-packages/setuptools/command/build_py.py": [
     "setuptools.extern.six",
     "setuptools.lib2to3_ex"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/develop.py": [
+    "setuptools/namespaces.py",
+    "setuptools/command/easy_install.py",
+    "setuptools/__init__.py"
   ]
 }
