@@ -885,6 +885,11 @@
     "docKey": "myapp__Lib__site-packages__pynput___util__uinput.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/win32_vks.py",
+    "title": "pynput Win32 Virtual Key Codes",
+    "docKey": "myapp__Lib__site-packages__pynput___util__win32_vks.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pynput/_util/win32.py",
     "title": "Win32 Utilities for pynput",
     "docKey": "myapp__Lib__site-packages__pynput___util__win32.py"
