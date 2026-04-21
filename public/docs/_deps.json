@@ -837,5 +837,30 @@
     "pip/_internal/models/search_scope.py",
     "pip/_internal/req/constructors.py",
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/req_install.py": [
+    "pip._vendor.pkg_resources",
+    "pip._vendor.packaging.requirements",
+    "pip._vendor.packaging.version",
+    "pip._vendor.packaging.utils",
+    "pip._vendor.pep517.wrappers",
+    "pip._internal.wheel",
+    "pip._internal.build_env",
+    "pip._internal.exceptions",
+    "pip._internal.models.link",
+    "pip._internal.pyproject",
+    "pip._internal.req.req_uninstall",
+    "pip._internal.utils.compat",
+    "pip._internal.utils.hashes",
+    "pip._internal.utils.logging",
+    "pip._internal.utils.marker_files",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.packaging",
+    "pip._internal.utils.setuptools_build",
+    "pip._internal.utils.temp_dir",
+    "pip._internal.utils.typing",
+    "pip._internal.utils.ui",
+    "pip._internal.utils.virtualenv",
+    "pip._internal.vcs"
   ]
 }
