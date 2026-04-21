@@ -660,5 +660,12 @@
     "pip/_internal/req/req_tracker.py",
     "pip/_internal/utils/temp_dir.py",
     "pip/_internal/wheel.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/configuration.py": [
+    "pip._internal.exceptions",
+    "pip._internal.utils.appdirs",
+    "pip._internal.utils.compat",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.typing"
   ]
 }
