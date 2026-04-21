@@ -1422,5 +1422,6 @@
   "myapp/Lib/site-packages/werkzeug/debug/console.py": [
     ".repr",
     ".tbtools"
-  ]
+  ],
+  "myapp/Lib/site-packages/werkzeug/debug/repr.py": []
 }
