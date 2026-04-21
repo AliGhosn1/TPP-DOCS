@@ -1016,5 +1016,6 @@
   "myapp/Lib/site-packages/pynput/_util/darwin.py": [
     "pynput/_util/abstract.py"
   ],
-  "myapp/Lib/site-packages/pynput/_util/darwin_vks.py": []
+  "myapp/Lib/site-packages/pynput/_util/darwin_vks.py": [],
+  "myapp/Lib/site-packages/pynput/_util/uinput.py": []
 }
