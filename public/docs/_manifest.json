@@ -913,5 +913,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/keyboard/_darwin.py",
     "title": "macOS Keyboard Implementation",
     "docKey": "myapp__Lib__site-packages__pynput__keyboard___darwin.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/_uinput.py",
+    "title": "pynput Keyboard (_uinput)",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard___uinput.py"
   }
 ]
