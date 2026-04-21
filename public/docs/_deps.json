@@ -1498,5 +1498,16 @@
     "./converters",
     "./exceptions",
     "./rules"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/map.py": [
+    "../_internal",
+    "../datastructures",
+    "../exceptions",
+    "../urls",
+    "../wrappers/request",
+    ".converters",
+    ".exceptions",
+    ".matcher",
+    ".rules"
   ]
 }
