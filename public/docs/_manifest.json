@@ -1328,5 +1328,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/debug/repr.py",
     "title": "werkzeug.debug.repr",
     "docKey": "myapp__Lib__site-packages__werkzeug__debug__repr.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/debug/shared/debugger.js",
+    "title": "Werkzeug Debugger JavaScript",
+    "docKey": "myapp__Lib__site-packages__werkzeug__debug__shared__debugger.js"
   }
 ]
