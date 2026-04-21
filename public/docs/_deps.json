@@ -904,5 +904,12 @@
   ],
   "myapp/Lib/site-packages/pip/_internal/utils/marker_files.py": [
     "os.path"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/hashes.py": [
+    "pip._internal.exceptions",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.typing",
+    "pip._vendor.six",
+    "hashlib"
   ]
 }
