@@ -741,5 +741,9 @@
     "pip._internal.cache",
     "pip._vendor.packaging.specifiers",
     "pip._internal.req.req_install"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/candidate.py": [
+    "pip/_internal/utils/models.py",
+    "pip/_internal/models/link.py"
   ]
 }
