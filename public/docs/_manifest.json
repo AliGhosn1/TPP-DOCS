@@ -953,5 +953,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/mouse/_xorg.py",
     "title": "Xorg Mouse Controller and Listener",
     "docKey": "myapp__Lib__site-packages__pynput__mouse___xorg.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/__init__.py",
+    "title": "Setuptools Core API",
+    "docKey": "myapp__Lib__site-packages__setuptools____init__.py"
   }
 ]
