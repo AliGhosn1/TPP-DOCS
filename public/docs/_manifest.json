@@ -143,5 +143,10 @@
     "filePath": "myapp/Lib/site-packages/colorama/tests/winterm_test.py",
     "title": "WinTerm Unit Tests",
     "docKey": "myapp__Lib__site-packages__colorama__tests__winterm_test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/win32.py",
+    "title": "Colorama Win32 API Bindings",
+    "docKey": "myapp__Lib__site-packages__colorama__win32.py"
   }
 ]
