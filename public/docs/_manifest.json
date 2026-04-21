@@ -903,5 +903,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/keyboard/__init__.py",
     "title": "pynput.keyboard",
     "docKey": "myapp__Lib__site-packages__pynput__keyboard____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/_base.py",
+    "title": "pynput Keyboard Base Module",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard___base.py"
   }
 ]
