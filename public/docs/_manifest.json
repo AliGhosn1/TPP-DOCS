@@ -385,6 +385,11 @@
     "docKey": "myapp__Lib__site-packages__jinja2__defaults.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/jinja2/environment.py",
+    "title": "Jinja2 Environment Management",
+    "docKey": "myapp__Lib__site-packages__jinja2__environment.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/jinja2/exceptions.py",
     "title": "Jinja2 Exception Hierarchy",
     "docKey": "myapp__Lib__site-packages__jinja2__exceptions.py"
