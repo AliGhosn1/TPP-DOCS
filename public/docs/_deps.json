@@ -815,5 +815,19 @@
     "pip/_internal/utils/glibc.py",
     "pip/_internal/utils/compat.py",
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/operations/prepare.py": [
+    "pip/_internal/distributions/__init__.py",
+    "pip/_internal/distributions/installed.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/hashes.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/req/req_install.py",
+    "pip/_internal/req/req_tracker.py",
+    "pip/_internal/index.py"
   ]
 }
