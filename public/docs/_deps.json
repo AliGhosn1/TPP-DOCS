@@ -332,5 +332,12 @@
     "./exc",
     "./serializer",
     "./signer"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/url_safe.py": [
+    "itsdangerous/_json.py",
+    "itsdangerous/encoding.py",
+    "itsdangerous/exc.py",
+    "itsdangerous/serializer.py",
+    "itsdangerous/timed.py"
   ]
 }
