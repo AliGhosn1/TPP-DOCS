@@ -1018,5 +1018,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/develop.py",
     "title": "setuptools.command.develop",
     "docKey": "myapp__Lib__site-packages__setuptools__command__develop.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/dist_info.py",
+    "title": "setuptools.command.dist_info",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__dist_info.py"
   }
 ]
