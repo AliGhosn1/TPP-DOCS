@@ -748,5 +748,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/filesystem.py",
     "title": "Filesystem Utilities",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__filesystem.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/glibc.py",
+    "title": "glibc Version Utility Functions",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__glibc.py"
   }
 ]
