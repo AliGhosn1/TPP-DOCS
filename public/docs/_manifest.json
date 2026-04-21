@@ -1305,6 +1305,11 @@
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__range.pyi"
   },
   {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/structures.py",
+    "title": "Werkzeug Datastructures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__structures.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/structures.pyi",
     "title": "Werkzeug Datastructures",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__structures.pyi"
