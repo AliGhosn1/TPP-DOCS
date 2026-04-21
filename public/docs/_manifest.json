@@ -310,6 +310,11 @@
     "docKey": "myapp__Lib__site-packages__importlib_metadata__diagnose.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/__init__.py",
+    "title": "Itsdangerous Package Init",
+    "docKey": "myapp__Lib__site-packages__itsdangerous____init__.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/itsdangerous/_json.py",
     "title": "Compact JSON Wrapper",
     "docKey": "myapp__Lib__site-packages__itsdangerous___json.py"
