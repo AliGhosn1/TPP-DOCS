@@ -563,5 +563,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/install.py",
     "title": "Install Command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__install.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/list.py",
+    "title": "pip list Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__list.py"
   }
 ]
