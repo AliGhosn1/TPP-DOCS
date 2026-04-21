@@ -1544,5 +1544,6 @@
     "../exceptions",
     "../urls",
     "urllib.parse"
-  ]
+  ],
+  "myapp/Lib/site-packages/werkzeug/security.py": []
 }
