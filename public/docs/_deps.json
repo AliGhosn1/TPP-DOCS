@@ -1395,5 +1395,8 @@
     "_typeshed.pyi",
     "collections.abc",
     "typing"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/range.py": [
+    "../http"
   ]
 }
