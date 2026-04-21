@@ -938,5 +938,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/mouse/_base.py",
     "title": "pynput Mouse Base Module",
     "docKey": "myapp__Lib__site-packages__pynput__mouse___base.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/mouse/_darwin.py",
+    "title": "macOS Mouse Implementation for pynput",
+    "docKey": "myapp__Lib__site-packages__pynput__mouse___darwin.py"
   }
 ]
