@@ -798,5 +798,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/typing.py",
     "title": "MYPY_CHECK_RUNNING Guard",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__typing.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/ui.py",
+    "title": "UI Utilities for Pip",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__ui.py"
   }
 ]
