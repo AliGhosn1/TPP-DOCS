@@ -1423,5 +1423,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/sansio/http.py",
     "title": "Werkzeug SansIO HTTP Utilities",
     "docKey": "myapp__Lib__site-packages__werkzeug__sansio__http.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/sansio/multipart.py",
+    "title": "Werkzeug SansIO Multipart Decoder/Encoder",
+    "docKey": "myapp__Lib__site-packages__werkzeug__sansio__multipart.py"
   }
 ]
