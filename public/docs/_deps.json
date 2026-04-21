@@ -1402,5 +1402,10 @@
   "myapp/Lib/site-packages/werkzeug/datastructures/range.pyi": [],
   "myapp/Lib/site-packages/werkzeug/datastructures/structures.pyi": [
     "./mixins"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/structures.py": [
+    "../exceptions",
+    "../_internal",
+    ".mixins"
   ]
 }
