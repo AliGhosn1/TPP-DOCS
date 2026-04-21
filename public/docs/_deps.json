@@ -930,5 +930,10 @@
     "pip/_internal/locations.py",
     "pip/_internal/models/link.py",
     "pip/_internal/vcs/subversion.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/packaging.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py"
   ]
 }
