@@ -419,5 +419,10 @@
   "myapp/Lib/site-packages/jinja2/meta.py": [
     "myapp/Lib/site-packages/jinja2/nodes.py",
     "myapp/Lib/site-packages/jinja2/compiler.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/nativetypes.py": [
+    "jinja2/nodes.py",
+    "jinja2/compiler.py",
+    "jinja2/environment.py"
   ]
 }
