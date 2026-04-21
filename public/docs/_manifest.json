@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "filePath": "myapp/Lib/site-packages/blinker/_saferef.py",
+    "title": "Safe References for Callables",
+    "docKey": "myapp__Lib__site-packages__blinker___saferef.py"
+  }
+]
