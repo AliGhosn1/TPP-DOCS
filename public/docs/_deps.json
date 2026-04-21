@@ -35,5 +35,9 @@
   ],
   "myapp/Lib/site-packages/click/globals.py": [
     "click/core.py"
+  ],
+  "myapp/Lib/site-packages/click/parser.py": [
+    ".exceptions",
+    ".core"
   ]
 }
