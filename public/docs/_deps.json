@@ -266,5 +266,9 @@
     "flask/sansio/app.py",
     "flask/sansio/scaffold.py",
     "flask/debughelpers.py"
+  ],
+  "myapp/Lib/site-packages/flask/views.py": [
+    "./typing.py",
+    "./globals.py"
   ]
 }
