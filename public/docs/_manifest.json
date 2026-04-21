@@ -333,5 +333,10 @@
     "filePath": "myapp/Lib/site-packages/itsdangerous/serializer.py",
     "title": "itsdangerous Serializer",
     "docKey": "myapp__Lib__site-packages__itsdangerous__serializer.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/signer.py",
+    "title": "Signer Module",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__signer.py"
   }
 ]
