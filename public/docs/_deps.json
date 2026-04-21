@@ -1538,5 +1538,11 @@
     "werkzeug.datastructures",
     "werkzeug.http",
     "werkzeug.utils"
+  ],
+  "myapp/Lib/site-packages/werkzeug/sansio/utils.py": [
+    "../_internal",
+    "../exceptions",
+    "../urls",
+    "urllib.parse"
   ]
 }
