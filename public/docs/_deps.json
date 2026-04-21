@@ -1552,5 +1552,27 @@
     "werkzeug/exceptions",
     "werkzeug/urls",
     "werkzeug/debug/tbtools"
+  ],
+  "myapp/Lib/site-packages/werkzeug/test.py": [
+    "._internal",
+    ".datastructures",
+    ".http",
+    ".sansio.multipart",
+    ".urls",
+    ".utils",
+    ".wrappers.request",
+    ".wrappers.response",
+    ".wsgi",
+    "urllib.parse",
+    "mimetypes",
+    "sys",
+    "typing",
+    "collections",
+    "datetime",
+    "io",
+    "itertools",
+    "random",
+    "tempfile",
+    "time"
   ]
 }
