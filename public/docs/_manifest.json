@@ -133,5 +133,10 @@
     "filePath": "myapp/Lib/site-packages/colorama/tests/isatty_test.py",
     "title": "Colorama `isatty` Tests",
     "docKey": "myapp__Lib__site-packages__colorama__tests__isatty_test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/utils.py",
+    "title": "Testing Utilities for Colorama",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__utils.py"
   }
 ]
