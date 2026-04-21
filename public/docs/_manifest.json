@@ -1298,5 +1298,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/range.py",
     "title": "Werkzeug Datastructures: Range, IfRange, ContentRange",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__range.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/range.pyi",
+    "title": "Werkzeug Datastructures: Range and ContentRange",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__range.pyi"
   }
 ]
