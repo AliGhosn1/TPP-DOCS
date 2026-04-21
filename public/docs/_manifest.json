@@ -755,6 +755,11 @@
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__glibc.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/hashes.py",
+    "title": "pip's Hash Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__hashes.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/marker_files.py",
     "title": "Pip Delete Marker File Utility",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__marker_files.py"
