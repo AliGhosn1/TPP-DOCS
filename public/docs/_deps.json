@@ -1444,5 +1444,8 @@
     ".http",
     ".sansio.multipart",
     ".wsgi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/local.py": [
+    "./wsgi.py"
   ]
 }
