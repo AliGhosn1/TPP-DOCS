@@ -1373,5 +1373,12 @@
   "myapp/Lib/site-packages/werkzeug/datastructures/file_storage.pyi": [
     "werkzeug/datastructures/headers.pyi",
     "werkzeug/datastructures/structures.pyi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/file_storage.py": [
+    "../_internal/_plain_int",
+    ".structures.MultiDict",
+    ".headers.Headers",
+    "shutil.copyfileobj",
+    "../http"
   ]
 }
