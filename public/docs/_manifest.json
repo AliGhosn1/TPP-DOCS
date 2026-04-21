@@ -973,5 +973,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/build_meta.py",
     "title": "Setuptools Build Meta Backend",
     "docKey": "myapp__Lib__site-packages__setuptools__build_meta.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/alias.py",
+    "title": "Setuptools Alias Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__alias.py"
   }
 ]
