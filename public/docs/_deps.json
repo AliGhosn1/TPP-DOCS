@@ -1312,5 +1312,6 @@
     "setuptools/extern/six/moves/html_parser.py"
   ],
   "myapp/Lib/site-packages/setuptools/sandbox.py": [],
-  "myapp/Lib/site-packages/setuptools/site-patch.py": []
+  "myapp/Lib/site-packages/setuptools/site-patch.py": [],
+  "myapp/Lib/site-packages/setuptools/ssl_support.py": []
 }
