@@ -374,5 +374,16 @@
   ],
   "myapp/Lib/site-packages/jinja2/exceptions.py": [
     "myapp/Lib/site-packages/jinja2/runtime.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/environment.py": [
+    ".compiler",
+    ".defaults",
+    ".exceptions",
+    ".lexer",
+    ".nodes",
+    ".parser",
+    ".runtime",
+    ".utils",
+    "markupsafe"
   ]
 }
