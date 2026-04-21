@@ -28,5 +28,10 @@
     "filePath": "myapp/Lib/site-packages/click/_termui_impl.py",
     "title": "Terminal UI Implementations",
     "docKey": "myapp__Lib__site-packages__click___termui_impl.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/_winconsole.py",
+    "title": "Windows Console Handling",
+    "docKey": "myapp__Lib__site-packages__click___winconsole.py"
   }
 ]
