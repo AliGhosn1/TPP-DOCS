@@ -14,5 +14,10 @@
   "myapp/Lib/site-packages/blinker/_utilities.py": [
     "blinker/_saferef.py"
   ],
-  "myapp/Lib/site-packages/click/_compat.py": []
+  "myapp/Lib/site-packages/click/_compat.py": [],
+  "myapp/Lib/site-packages/click/_termui_impl.py": [
+    "click/_compat.py",
+    "click/exceptions.py",
+    "click/utils.py"
+  ]
 }
