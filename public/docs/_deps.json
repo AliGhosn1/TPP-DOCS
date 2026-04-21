@@ -119,5 +119,6 @@
   "myapp/Lib/site-packages/colorama/tests/utils.py": [],
   "myapp/Lib/site-packages/colorama/tests/winterm_test.py": [
     "../winterm.py"
-  ]
+  ],
+  "myapp/Lib/site-packages/colorama/win32.py": []
 }
