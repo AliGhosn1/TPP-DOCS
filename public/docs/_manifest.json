@@ -1108,5 +1108,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/extension.py",
     "title": "setuptools.extension Module",
     "docKey": "myapp__Lib__site-packages__setuptools__extension.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/extern/__init__.py",
+    "title": "Vendor Importer Module",
+    "docKey": "myapp__Lib__site-packages__setuptools__extern____init__.py"
   }
 ]
