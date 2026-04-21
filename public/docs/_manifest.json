@@ -1258,5 +1258,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/csp.pyi",
     "title": "Content Security Policy (CSP) Data Structure",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__csp.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/etag.py",
+    "title": "Werkzeug ETags Datastructure",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__etag.py"
   }
 ]
