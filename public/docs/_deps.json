@@ -794,5 +794,17 @@
     "pip/_internal/req/req_file.py",
     "pip/_internal/utils/logging.py",
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/constructors.py": [
+    "pip/_internal/req/req_install.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/models/index.py",
+    "pip/_internal/models/link.py",
+    "pip/_internal/pyproject.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/vcs/__init__.py",
+    "pip/_internal/wheel.py"
   ]
 }
