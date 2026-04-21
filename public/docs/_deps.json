@@ -1356,5 +1356,9 @@
     "../http",
     ".structures",
     "typing_extensions"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/cache_control.py": [
+    "./mixins.py",
+    "../http.py"
   ]
 }
