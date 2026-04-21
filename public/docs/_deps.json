@@ -1485,5 +1485,13 @@
   ],
   "myapp/Lib/site-packages/werkzeug/routing/converters.py": [
     ".map"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/exceptions.py": [
+    "werkzeug/exceptions.py",
+    "werkzeug/utils.py",
+    "werkzeug/routing/map.py",
+    "werkzeug/routing/rules.py",
+    "werkzeug/wrappers/request.py",
+    "werkzeug/wrappers/response.py"
   ]
 }
