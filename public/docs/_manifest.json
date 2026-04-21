@@ -498,5 +498,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/cli/autocompletion.py",
     "title": "pip Autocompletion Logic",
     "docKey": "myapp__Lib__site-packages__pip___internal__cli__autocompletion.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cli/base_command.py",
+    "title": "Base Command Class for pip CLI",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cli__base_command.py"
   }
 ]
