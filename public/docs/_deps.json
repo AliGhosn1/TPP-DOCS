@@ -1351,5 +1351,10 @@
   ],
   "myapp/Lib/site-packages/werkzeug/datastructures/accept.pyi": [
     ".structures.ImmutableList"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/auth.py": [
+    "../http",
+    ".structures",
+    "typing_extensions"
   ]
 }
