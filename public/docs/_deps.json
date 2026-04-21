@@ -178,5 +178,10 @@
     "./app.py",
     "./sessions.py",
     "./wrappers.py"
+  ],
+  "myapp/Lib/site-packages/flask/json/provider.py": [
+    "../sansio/app",
+    "werkzeug.sansio.response",
+    "werkzeug.http"
   ]
 }
