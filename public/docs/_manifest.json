@@ -853,5 +853,10 @@
     "filePath": "myapp/Lib/site-packages/pkg_resources/py31compat.py",
     "title": "Python 3.1 Compatibility Utilities",
     "docKey": "myapp__Lib__site-packages__pkg_resources__py31compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput-1.7.6.dist-info/METADATA",
+    "title": "pynput METADATA",
+    "docKey": "myapp__Lib__site-packages__pynput-1.7.6.dist-info__METADATA"
   }
 ]
