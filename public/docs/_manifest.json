@@ -778,5 +778,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/models.py",
     "title": "KeyBasedCompareMixin",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__models.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/packaging.py",
+    "title": "Packaging Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__packaging.py"
   }
 ]
