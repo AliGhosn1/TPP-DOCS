@@ -528,5 +528,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/check.py",
     "title": "pip check Command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__check.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/configuration.py",
+    "title": "Pip Configuration Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__configuration.py"
   }
 ]
