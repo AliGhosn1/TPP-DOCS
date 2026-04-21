@@ -613,5 +613,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/wheel.py",
     "title": "WheelDistribution Class",
     "docKey": "myapp__Lib__site-packages__pip___internal__distributions__wheel.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/download.py",
+    "title": "Download Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__download.py"
   }
 ]
