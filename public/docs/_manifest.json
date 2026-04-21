@@ -1403,5 +1403,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/routing/exceptions.py",
     "title": "Werkzeug Routing Exceptions",
     "docKey": "myapp__Lib__site-packages__werkzeug__routing__exceptions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/matcher.py",
+    "title": "StateMachineMatcher",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing__matcher.py"
   }
 ]
