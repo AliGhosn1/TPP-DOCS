@@ -1264,5 +1264,8 @@
     "re",
     "fnmatch"
   ],
-  "myapp/Lib/site-packages/setuptools/launch.py": []
+  "myapp/Lib/site-packages/setuptools/launch.py": [],
+  "myapp/Lib/site-packages/setuptools/lib2to3_ex.py": [
+    "setuptools"
+  ]
 }
