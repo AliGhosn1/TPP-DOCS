@@ -403,5 +403,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/filters.py",
     "title": "Jinja2 Built-in Filters",
     "docKey": "myapp__Lib__site-packages__jinja2__filters.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/idtracking.py",
+    "title": "Jinja2 ID Tracking Symbols",
+    "docKey": "myapp__Lib__site-packages__jinja2__idtracking.py"
   }
 ]
