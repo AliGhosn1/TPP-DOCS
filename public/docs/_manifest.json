@@ -108,5 +108,10 @@
     "filePath": "myapp/Lib/site-packages/colorama/initialise.py",
     "title": "Colorama Initialization and Management",
     "docKey": "myapp__Lib__site-packages__colorama__initialise.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/ansi_test.py",
+    "title": "Colorama ANSI Escape Code Tests",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__ansi_test.py"
   }
 ]
