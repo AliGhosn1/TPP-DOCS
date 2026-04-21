@@ -263,5 +263,10 @@
     "filePath": "myapp/Lib/site-packages/flask/wrappers.py",
     "title": "Flask Request and Response Wrappers",
     "docKey": "myapp__Lib__site-packages__flask__wrappers.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_adapters.py",
+    "title": "importlib_metadata Adapters",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___adapters.py"
   }
 ]
