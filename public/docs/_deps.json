@@ -351,5 +351,14 @@
   ],
   "myapp/Lib/site-packages/jinja2/async_utils.py": [
     "jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/compiler.py": [
+    "myapp/Lib/site-packages/jinja2/nodes.py",
+    "myapp/Lib/site-packages/jinja2/exceptions.py",
+    "myapp/Lib/site-packages/jinja2/idtracking.py",
+    "myapp/Lib/site-packages/jinja2/optimizer.py",
+    "myapp/Lib/site-packages/jinja2/utils.py",
+    "myapp/Lib/site-packages/jinja2/visitor.py",
+    "myapp/Lib/site-packages/jinja2/environment.py"
   ]
 }
