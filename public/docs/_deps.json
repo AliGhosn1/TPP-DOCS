@@ -1080,5 +1080,14 @@
   "myapp/Lib/site-packages/pynput/mouse/_xorg.py": [
     "pynput/_util/xorg.py",
     "pynput/mouse/_base.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/__init__.py": [
+    "setuptools/extern/six.py",
+    "setuptools/_deprecation_warning.py",
+    "setuptools/monkey.py",
+    "setuptools/version.py",
+    "setuptools/extension.py",
+    "setuptools/dist.py",
+    "setuptools/depends.py"
   ]
 }
