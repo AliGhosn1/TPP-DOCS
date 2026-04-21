@@ -1458,5 +1458,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/test.py",
     "title": "werkzeug.test",
     "docKey": "myapp__Lib__site-packages__werkzeug__test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/testapp.py",
+    "title": "Werkzeug Test Application",
+    "docKey": "myapp__Lib__site-packages__werkzeug__testapp.py"
   }
 ]
