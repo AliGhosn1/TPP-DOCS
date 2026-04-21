@@ -1580,5 +1580,14 @@
     "./wrappers/response.py",
     "./serving.py"
   ],
-  "myapp/Lib/site-packages/werkzeug/user_agent.py": []
+  "myapp/Lib/site-packages/werkzeug/user_agent.py": [],
+  "myapp/Lib/site-packages/werkzeug/utils.py": [
+    "./_internal",
+    "./datastructures",
+    "./exceptions",
+    "./security",
+    "./wsgi",
+    "./wrappers/response",
+    "./wrappers/request"
+  ]
 }
