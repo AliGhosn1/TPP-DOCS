@@ -1053,5 +1053,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/py36compat.py",
     "title": "setuptools.command.py36compat.sdist_add_defaults",
     "docKey": "myapp__Lib__site-packages__setuptools__command__py36compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/register.py",
+    "title": "Setuptools Register Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__register.py"
   }
 ]
