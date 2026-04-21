@@ -701,5 +701,24 @@
     "pip/_internal/utils/typing.py",
     "pip/_internal/utils/hashes.py",
     "pip/_internal/req/req_install.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/index.py": [
+    "pip._internal.download",
+    "pip._internal.exceptions",
+    "pip._internal.models.candidate",
+    "pip._internal.models.format_control",
+    "pip._internal.models.link",
+    "pip._internal.models.selection_prefs",
+    "pip._internal.models.target_python",
+    "pip._internal.utils.compat",
+    "pip._internal.utils.logging",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.packaging",
+    "pip._internal.wheel",
+    "pip._internal.vcs",
+    "pip._vendor.packaging.specifiers",
+    "pip._vendor.packaging.version",
+    "pip._vendor.requests.exceptions",
+    "pip._vendor.six.moves.urllib"
   ]
 }
