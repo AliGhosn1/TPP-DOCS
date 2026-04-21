@@ -593,5 +593,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/configuration.py",
     "title": "Pip Configuration Management",
     "docKey": "myapp__Lib__site-packages__pip___internal__configuration.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/__init__.py",
+    "title": "Distribution Factory",
+    "docKey": "myapp__Lib__site-packages__pip___internal__distributions____init__.py"
   }
 ]
