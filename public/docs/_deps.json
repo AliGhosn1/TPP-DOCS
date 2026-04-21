@@ -237,5 +237,8 @@
     "./json/tag.py",
     "./app.py",
     "./wrappers.py"
+  ],
+  "myapp/Lib/site-packages/flask/signals.py": [
+    "blinker"
   ]
 }
