@@ -938,5 +938,8 @@
   ],
   "myapp/Lib/site-packages/pip/_internal/utils/setuptools_build.py": [
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/temp_dir.py": [
+    "pip/_internal/utils/misc.py"
   ]
 }
