@@ -169,5 +169,14 @@
     "myapp/Lib/site-packages/flask/globals.py",
     "myapp/Lib/site-packages/flask/helpers.py",
     "myapp/Lib/site-packages/flask/app.py"
+  ],
+  "myapp/Lib/site-packages/flask/ctx.py": [
+    "./typing.py",
+    "./globals.py",
+    "./signals.py",
+    "../_typeshed/wsgi.py",
+    "./app.py",
+    "./sessions.py",
+    "./wrappers.py"
   ]
 }
