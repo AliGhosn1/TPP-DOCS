@@ -1320,5 +1320,6 @@
   "myapp/Lib/site-packages/setuptools/wheel.py": [
     "setuptools.pep425tags",
     "setuptools.command.egg_info"
-  ]
+  ],
+  "myapp/Lib/site-packages/setuptools/windows_support.py": []
 }
