@@ -1008,5 +1008,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/build_ext.py",
     "title": "Custom Build Extension Command",
     "docKey": "myapp__Lib__site-packages__setuptools__command__build_ext.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/build_py.py",
+    "title": "setuptools build_py command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__build_py.py"
   }
 ]
