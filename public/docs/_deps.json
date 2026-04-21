@@ -810,5 +810,10 @@
   "myapp/Lib/site-packages/pip/_internal/pyproject.py": [
     "pip/_internal/exceptions.py",
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/pep425tags.py": [
+    "pip/_internal/utils/glibc.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/typing.py"
   ]
 }
