@@ -733,5 +733,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/compat.py",
     "title": "Compatibility Utilities",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/encoding.py",
+    "title": "Encoding Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__encoding.py"
   }
 ]
