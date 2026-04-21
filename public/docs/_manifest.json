@@ -1318,5 +1318,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/debug/__init__.py",
     "title": "Werkzeug Debugger",
     "docKey": "myapp__Lib__site-packages__werkzeug__debug____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/debug/console.py",
+    "title": "Werkzeug Debug Console",
+    "docKey": "myapp__Lib__site-packages__werkzeug__debug__console.py"
   }
 ]
