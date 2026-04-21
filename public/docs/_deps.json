@@ -1298,5 +1298,9 @@
     "setuptools.py33compat",
     "setuptools.wheel",
     "setuptools.command.easy_install"
+  ],
+  "myapp/Lib/site-packages/setuptools/pep425tags.py": [
+    "./glibc",
+    "./extern/six"
   ]
 }
