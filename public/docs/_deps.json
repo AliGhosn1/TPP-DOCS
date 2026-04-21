@@ -252,5 +252,10 @@
     "./cli.py",
     "./sessions.py",
     "./app.py"
+  ],
+  "myapp/Lib/site-packages/flask/typing.py": [
+    "werkzeug.datastructures",
+    "werkzeug.sansio.response",
+    "_typeshed.wsgi"
   ]
 }
