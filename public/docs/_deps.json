@@ -1148,5 +1148,9 @@
     "setuptools/namespaces.py",
     "setuptools/command/easy_install.py",
     "setuptools/__init__.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/dist_info.py": [
+    "distutils.core",
+    "distutils.log"
   ]
 }
