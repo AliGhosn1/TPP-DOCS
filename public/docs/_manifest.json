@@ -1278,5 +1278,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/headers.py",
     "title": "Werkzeug Headers Data Structure",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__headers.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/headers.pyi",
+    "title": "Werkzeug Headers Datastructures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__headers.pyi"
   }
 ]
