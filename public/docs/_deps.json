@@ -475,5 +475,12 @@
     "pip/_internal/commands/__init__.py",
     "pip/_internal/exceptions.py",
     "pip/_internal/utils/deprecation.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/build_env.py": [
+    "pip._internal.utils.misc",
+    "pip._internal.utils.temp_dir",
+    "pip._internal.utils.typing",
+    "pip._internal.utils.ui",
+    "pip._internal.index"
   ]
 }
