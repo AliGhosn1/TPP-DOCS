@@ -603,5 +603,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/base.py",
     "title": "AbstractDistribution",
     "docKey": "myapp__Lib__site-packages__pip___internal__distributions__base.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/source.py",
+    "title": "SourceDistribution Class",
+    "docKey": "myapp__Lib__site-packages__pip___internal__distributions__source.py"
   }
 ]
