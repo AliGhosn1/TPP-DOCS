@@ -88,5 +88,10 @@
     "filePath": "myapp/Lib/site-packages/click/types.py",
     "title": "click.types",
     "docKey": "myapp__Lib__site-packages__click__types.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/utils.py",
+    "title": "Click Utilities",
+    "docKey": "myapp__Lib__site-packages__click__utils.py"
   }
 ]
