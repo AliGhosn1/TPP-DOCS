@@ -83,5 +83,6 @@
     "._compat",
     ".exceptions",
     ".globals"
-  ]
+  ],
+  "myapp/Lib/site-packages/colorama/ansi.py": []
 }
