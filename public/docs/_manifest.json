@@ -1208,5 +1208,10 @@
     "filePath": "myapp/Lib/site-packages/six.py",
     "title": "Six Compatibility Utilities",
     "docKey": "myapp__Lib__site-packages__six.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/__init__.py",
+    "title": "Werkzeug __init__.py",
+    "docKey": "myapp__Lib__site-packages__werkzeug____init__.py"
   }
 ]
