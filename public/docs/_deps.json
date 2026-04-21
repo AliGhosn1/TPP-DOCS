@@ -1175,5 +1175,9 @@
     "setuptools.extern.packaging",
     "setuptools.glob",
     "setuptools.unicode_utils"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/install.py": [
+    "distutils/errors.py",
+    "distutils/command/install.py"
   ]
 }
