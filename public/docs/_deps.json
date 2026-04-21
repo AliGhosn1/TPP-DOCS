@@ -754,5 +754,14 @@
     "pip/_internal/utils/compat.py",
     "pip/_internal/utils/misc.py",
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/link.py": [
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/models.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_vendor/six/moves/urllib/parse.py",
+    "pip/_internal/index.py",
+    "pip/_internal/utils/hashes.py",
+    "pip/_internal/vcs.py"
   ]
 }
