@@ -556,5 +556,14 @@
   "myapp/Lib/site-packages/pip/_internal/commands/check.py": [
     "pip/_internal/cli/base_command.py",
     "pip/_internal/operations/check.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/configuration.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/cli/status_codes.py",
+    "pip/_internal/configuration.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/deprecation.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/virtualenv.py"
   ]
 }
