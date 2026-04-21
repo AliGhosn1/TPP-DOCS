@@ -1042,5 +1042,11 @@
     "pynput/_util/xorg_keysyms.py",
     "pynput/_util/uinput.py",
     "pynput/keyboard/_base.py"
+  ],
+  "myapp/Lib/site-packages/pynput/keyboard/_win32.py": [
+    "pynput._util.win32",
+    "pynput._util.win32_vks",
+    "pynput._util.AbstractListener",
+    "pynput._base"
   ]
 }
