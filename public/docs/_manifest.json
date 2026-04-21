@@ -1233,5 +1233,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/accept.py",
     "title": "Werkzeug Accept Headers",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__accept.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/accept.pyi",
+    "title": "Werkzeug Accept Headers",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__accept.pyi"
   }
 ]
