@@ -445,5 +445,11 @@
     "jinja2/exceptions.py",
     "jinja2/nodes.py",
     "jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/sandbox.py": [
+    "./environment",
+    "./exceptions",
+    "./runtime",
+    "./_string"
   ]
 }
