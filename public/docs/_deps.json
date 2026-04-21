@@ -1407,5 +1407,16 @@
     "../exceptions",
     "../_internal",
     ".mixins"
+  ],
+  "myapp/Lib/site-packages/werkzeug/debug/__init__.py": [
+    "werkzeug._internal",
+    "werkzeug.exceptions",
+    "werkzeug.http",
+    "werkzeug.security",
+    "werkzeug.utils",
+    "werkzeug.wrappers.request",
+    "werkzeug.wrappers.response",
+    "werkzeug.debug.console",
+    "werkzeug.debug.tbtools"
   ]
 }
