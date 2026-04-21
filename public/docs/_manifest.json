@@ -1133,5 +1133,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/lib2to3_ex.py",
     "title": "setuptools lib2to3 Extension",
     "docKey": "myapp__Lib__site-packages__setuptools__lib2to3_ex.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/monkey.py",
+    "title": "Setuptools Monkey Patching",
+    "docKey": "myapp__Lib__site-packages__setuptools__monkey.py"
   }
 ]
