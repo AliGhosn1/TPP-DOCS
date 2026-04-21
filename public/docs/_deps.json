@@ -1589,5 +1589,9 @@
     "./wsgi",
     "./wrappers/response",
     "./wrappers/request"
+  ],
+  "myapp/Lib/site-packages/werkzeug/wrappers/__init__.py": [
+    "myapp/Lib/site-packages/werkzeug/wrappers/request.py",
+    "myapp/Lib/site-packages/werkzeug/wrappers/response.py"
   ]
 }
