@@ -767,5 +767,10 @@
   "myapp/Lib/site-packages/pip/_internal/models/selection_prefs.py": [
     "pip/_internal/utils/typing.py",
     "pip/_internal/models/format_control.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/target_python.py": [
+    "pip/_internal/pep425tags.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py"
   ]
 }
