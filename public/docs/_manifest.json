@@ -50,6 +50,11 @@
     "docKey": "myapp__Lib__site-packages__click__decorators.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/click/exceptions.py",
+    "title": "Click Exceptions",
+    "docKey": "myapp__Lib__site-packages__click__exceptions.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/click/formatting.py",
     "title": "click.formatting",
     "docKey": "myapp__Lib__site-packages__click__formatting.py"
