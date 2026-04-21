@@ -514,5 +514,16 @@
     "pip/_internal/utils/outdated.py",
     "pip/_internal/utils/typing.py",
     "pip/_internal/utils/virtualenv.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/cmdoptions.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/locations.py",
+    "pip/_internal/models/format_control.py",
+    "pip/_internal/models/index.py",
+    "pip/_internal/models/search_scope.py",
+    "pip/_internal/models/target_python.py",
+    "pip/_internal/utils/hashes.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/ui.py"
   ]
 }
