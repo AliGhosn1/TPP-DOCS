@@ -753,5 +753,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/glibc.py",
     "title": "glibc Version Utility Functions",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__glibc.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/marker_files.py",
+    "title": "Pip Delete Marker File Utility",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__marker_files.py"
   }
 ]
