@@ -553,5 +553,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/hash.py",
     "title": "Hash Command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__hash.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/help.py",
+    "title": "Help Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__help.py"
   }
 ]
