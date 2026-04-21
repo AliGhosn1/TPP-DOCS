@@ -491,5 +491,10 @@
     "pip/_internal/utils/typing.py",
     "pip/_internal/wheel.py",
     "pip/_internal/index.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/autocompletion.py": [
+    "pip._internal.cli.main_parser",
+    "pip._internal.commands",
+    "pip._internal.utils.misc"
   ]
 }
