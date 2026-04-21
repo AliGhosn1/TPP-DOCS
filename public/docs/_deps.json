@@ -942,5 +942,11 @@
   "myapp/Lib/site-packages/pip/_internal/utils/temp_dir.py": [
     "pip/_internal/utils/misc.py"
   ],
-  "myapp/Lib/site-packages/pip/_internal/utils/typing.py": []
+  "myapp/Lib/site-packages/pip/_internal/utils/typing.py": [],
+  "myapp/Lib/site-packages/pip/_internal/utils/ui.py": [
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py"
+  ]
 }
