@@ -1258,5 +1258,10 @@
     "myapp/Lib/site-packages/setuptools/windows_support.py"
   ],
   "myapp/Lib/site-packages/setuptools/extern/__init__.py": [],
-  "myapp/Lib/site-packages/setuptools/glibc.py": []
+  "myapp/Lib/site-packages/setuptools/glibc.py": [],
+  "myapp/Lib/site-packages/setuptools/glob.py": [
+    "os",
+    "re",
+    "fnmatch"
+  ]
 }
