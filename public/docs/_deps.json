@@ -1574,5 +1574,10 @@
     "random",
     "tempfile",
     "time"
+  ],
+  "myapp/Lib/site-packages/werkzeug/testapp.py": [
+    "./wrappers/request.py",
+    "./wrappers/response.py",
+    "./serving.py"
   ]
 }
