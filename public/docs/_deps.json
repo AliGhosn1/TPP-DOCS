@@ -1428,5 +1428,13 @@
   "myapp/Lib/site-packages/werkzeug/debug/tbtools.py": [
     "../utils",
     ".console"
+  ],
+  "myapp/Lib/site-packages/werkzeug/exceptions.py": [
+    "._internal",
+    ".datastructures",
+    ".http",
+    ".sansio.response",
+    ".wrappers.request",
+    ".wrappers.response"
   ]
 }
