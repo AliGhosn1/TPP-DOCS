@@ -628,5 +628,9 @@
     "pip/_internal/models/selection_prefs.py",
     "pip/_internal/utils/misc.py",
     "pip/_internal/utils/packaging.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/show.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/cli/status_codes.py"
   ]
 }
