@@ -833,5 +833,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/versioncontrol.py",
     "title": "Version Control Support",
     "docKey": "myapp__Lib__site-packages__pip___internal__vcs__versioncontrol.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/wheel.py",
+    "title": "Wheel Package Support",
+    "docKey": "myapp__Lib__site-packages__pip___internal__wheel.py"
   }
 ]
