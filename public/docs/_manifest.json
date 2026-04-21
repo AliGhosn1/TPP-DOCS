@@ -650,6 +650,11 @@
     "docKey": "myapp__Lib__site-packages__pip___internal__models__format_control.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/link.py",
+    "title": "Link Model",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__link.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pip/_internal/models/search_scope.py",
     "title": "SearchScope Model",
     "docKey": "myapp__Lib__site-packages__pip___internal__models__search_scope.py"
