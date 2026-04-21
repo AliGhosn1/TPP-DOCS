@@ -674,5 +674,10 @@
     "pip/_internal/distributions/base.py",
     "pip/_internal/req/req_install.py"
   ],
-  "myapp/Lib/site-packages/pip/_internal/distributions/base.py": []
+  "myapp/Lib/site-packages/pip/_internal/distributions/base.py": [],
+  "myapp/Lib/site-packages/pip/_internal/distributions/source.py": [
+    "pip/_internal/build_env.py",
+    "pip/_internal/distributions/base.py",
+    "pip/_internal/exceptions.py"
+  ]
 }
