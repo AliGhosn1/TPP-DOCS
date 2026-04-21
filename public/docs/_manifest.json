@@ -478,5 +478,10 @@
     "filePath": "myapp/Lib/site-packages/markupsafe/_speedups.c",
     "title": "markupsafe._speedups C Extension",
     "docKey": "myapp__Lib__site-packages__markupsafe___speedups.c"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/__init__.py",
+    "title": "Pip Internal Entry Point",
+    "docKey": "myapp__Lib__site-packages__pip___internal____init__.py"
   }
 ]
