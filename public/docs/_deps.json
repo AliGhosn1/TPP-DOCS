@@ -862,5 +862,12 @@
     "pip._internal.utils.ui",
     "pip._internal.utils.virtualenv",
     "pip._internal.vcs"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/req_set.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/wheel.py",
+    "pip/_internal/req/req_install.py"
   ]
 }
