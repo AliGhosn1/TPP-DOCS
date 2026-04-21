@@ -360,5 +360,6 @@
     "myapp/Lib/site-packages/jinja2/utils.py",
     "myapp/Lib/site-packages/jinja2/visitor.py",
     "myapp/Lib/site-packages/jinja2/environment.py"
-  ]
+  ],
+  "myapp/Lib/site-packages/jinja2/bccache.py": []
 }
