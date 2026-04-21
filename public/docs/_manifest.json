@@ -483,5 +483,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/__init__.py",
     "title": "Pip Internal Entry Point",
     "docKey": "myapp__Lib__site-packages__pip___internal____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/build_env.py",
+    "title": "Build Environment for Isolated Dependency Installation",
+    "docKey": "myapp__Lib__site-packages__pip___internal__build_env.py"
   }
 ]
