@@ -398,5 +398,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/ext.py",
     "title": "Jinja2 Extension API",
     "docKey": "myapp__Lib__site-packages__jinja2__ext.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/filters.py",
+    "title": "Jinja2 Built-in Filters",
+    "docKey": "myapp__Lib__site-packages__jinja2__filters.py"
   }
 ]
