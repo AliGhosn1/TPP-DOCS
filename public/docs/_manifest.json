@@ -823,5 +823,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/mercurial.py",
     "title": "Mercurial VCS Integration",
     "docKey": "myapp__Lib__site-packages__pip___internal__vcs__mercurial.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/subversion.py",
+    "title": "Subversion VCS Integration",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__subversion.py"
   }
 ]
