@@ -1609,5 +1609,14 @@
     "werkzeug.http",
     "werkzeug.wrappers.request",
     "_typeshed.wsgi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/wrappers/request.py": [
+    "../_internal/_wsgi_decoding_dance",
+    "../datastructures",
+    "../exceptions",
+    "../formparser",
+    "../sansio/request",
+    "../utils",
+    "../wsgi"
   ]
 }
