@@ -933,5 +933,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/mouse/__init__.py",
     "title": "pynput Mouse Module",
     "docKey": "myapp__Lib__site-packages__pynput__mouse____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/mouse/_base.py",
+    "title": "pynput Mouse Base Module",
+    "docKey": "myapp__Lib__site-packages__pynput__mouse___base.py"
   }
 ]
