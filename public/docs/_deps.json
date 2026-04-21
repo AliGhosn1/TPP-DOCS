@@ -232,5 +232,10 @@
     "../cli.py",
     "../helpers.py",
     "../templating.py"
+  ],
+  "myapp/Lib/site-packages/flask/sessions.py": [
+    "./json/tag.py",
+    "./app.py",
+    "./wrappers.py"
   ]
 }
