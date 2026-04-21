@@ -597,5 +597,11 @@
     "pip/_internal/cli/status_codes.py",
     "pip/_internal/utils/hashes.py",
     "pip/_internal/utils/misc.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/help.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/cli/status_codes.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/commands/__init__.py"
   ]
 }
