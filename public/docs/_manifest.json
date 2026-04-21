@@ -383,5 +383,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/defaults.py",
     "title": "Jinja2 Default Settings",
     "docKey": "myapp__Lib__site-packages__jinja2__defaults.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/exceptions.py",
+    "title": "Jinja2 Exception Hierarchy",
+    "docKey": "myapp__Lib__site-packages__jinja2__exceptions.py"
   }
 ]
