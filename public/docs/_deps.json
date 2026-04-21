@@ -1241,5 +1241,12 @@
     "setuptools.extern.six.moves.http_client",
     "setuptools.extern.six.moves.urllib",
     "pkg_resources.iter_entry_points"
+  ],
+  "myapp/Lib/site-packages/setuptools/extension.py": [
+    "setuptools.monkey",
+    "distutils.core",
+    "distutils.errors",
+    "distutils.extension",
+    "setuptools.extern.six.moves"
   ]
 }
