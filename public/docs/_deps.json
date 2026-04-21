@@ -1218,5 +1218,11 @@
     "distutils",
     "setuptools.extern.six.moves.configparser",
     "setuptools.Command"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/test.py": [
+    "setuptools/command/build_py.py",
+    "setuptools/extern/six.py",
+    "setuptools.command",
+    "setuptools"
   ]
 }
