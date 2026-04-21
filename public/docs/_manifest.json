@@ -103,5 +103,10 @@
     "filePath": "myapp/Lib/site-packages/colorama/ansitowin32.py",
     "title": "AnsiToWin32 Converter",
     "docKey": "myapp__Lib__site-packages__colorama__ansitowin32.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/initialise.py",
+    "title": "Colorama Initialization and Management",
+    "docKey": "myapp__Lib__site-packages__colorama__initialise.py"
   }
 ]
