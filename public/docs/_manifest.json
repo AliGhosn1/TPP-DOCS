@@ -1058,5 +1058,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/register.py",
     "title": "Setuptools Register Command",
     "docKey": "myapp__Lib__site-packages__setuptools__command__register.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/rotate.py",
+    "title": "setuptools.command.rotate",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__rotate.py"
   }
 ]
