@@ -787,5 +787,12 @@
     "pip._internal.vcs",
     "pip._vendor.packaging.utils",
     "pip._vendor.pkg_resources"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/__init__.py": [
+    "pip/_internal/req/req_install.py",
+    "pip/_internal/req/req_set.py",
+    "pip/_internal/req/req_file.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/typing.py"
   ]
 }
