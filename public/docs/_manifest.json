@@ -1083,5 +1083,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/test.py",
     "title": "setuptools.command.test",
     "docKey": "myapp__Lib__site-packages__setuptools__command__test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/config.py",
+    "title": "setuptools Configuration Parsing",
+    "docKey": "myapp__Lib__site-packages__setuptools__config.py"
   }
 ]
