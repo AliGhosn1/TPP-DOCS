@@ -1218,5 +1218,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/_internal.py",
     "title": "Internal Werkzeug Utilities",
     "docKey": "myapp__Lib__site-packages__werkzeug___internal.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/_reloader.py",
+    "title": "Werkzeug Reloader",
+    "docKey": "myapp__Lib__site-packages__werkzeug___reloader.py"
   }
 ]
