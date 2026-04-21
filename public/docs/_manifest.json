@@ -1138,5 +1138,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/monkey.py",
     "title": "Setuptools Monkey Patching",
     "docKey": "myapp__Lib__site-packages__setuptools__monkey.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/msvc.py",
+    "title": "Microsoft Visual C++ Compiler Support",
+    "docKey": "myapp__Lib__site-packages__setuptools__msvc.py"
   }
 ]
