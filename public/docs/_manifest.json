@@ -1433,5 +1433,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/sansio/request.py",
     "title": "Werkzeug SansIO Request",
     "docKey": "myapp__Lib__site-packages__werkzeug__sansio__request.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/sansio/response.py",
+    "title": "werkzeug.sansio.response.Response",
+    "docKey": "myapp__Lib__site-packages__werkzeug__sansio__response.py"
   }
 ]
