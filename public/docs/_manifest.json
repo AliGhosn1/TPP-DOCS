@@ -473,5 +473,10 @@
     "filePath": "myapp/Lib/site-packages/markupsafe/__init__.py",
     "title": "Markup Safe String Handling",
     "docKey": "myapp__Lib__site-packages__markupsafe____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/markupsafe/_speedups.c",
+    "title": "markupsafe._speedups C Extension",
+    "docKey": "myapp__Lib__site-packages__markupsafe___speedups.c"
   }
 ]
