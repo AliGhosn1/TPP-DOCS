@@ -901,5 +901,8 @@
   ],
   "myapp/Lib/site-packages/pip/_internal/utils/glibc.py": [
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/marker_files.py": [
+    "os.path"
   ]
 }
