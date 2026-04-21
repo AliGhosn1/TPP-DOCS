@@ -895,5 +895,8 @@
   "myapp/Lib/site-packages/pip/_internal/utils/deprecation.py": [
     "pip._internal.utils.typing",
     "pip"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/filesystem.py": [
+    "pip/_internal/utils/compat.py"
   ]
 }
