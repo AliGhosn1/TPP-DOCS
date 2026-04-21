@@ -18,5 +18,10 @@
     "filePath": "myapp/Lib/site-packages/blinker/base.py",
     "title": "Blinker Signals",
     "docKey": "myapp__Lib__site-packages__blinker__base.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/_compat.py",
+    "title": "Click Compatibility Utilities",
+    "docKey": "myapp__Lib__site-packages__click___compat.py"
   }
 ]
