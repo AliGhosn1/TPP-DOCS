@@ -998,5 +998,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/bdist_wininst.py",
     "title": "Custom bdist_wininst Command",
     "docKey": "myapp__Lib__site-packages__setuptools__command__bdist_wininst.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/build_clib.py",
+    "title": "setuptools build_clib command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__build_clib.py"
   }
 ]
