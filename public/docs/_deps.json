@@ -726,5 +726,20 @@
     "pip/_internal/utils/compat.py",
     "pip/_internal/utils/typing.py",
     "pip/_internal/utils/virtualenv.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/legacy_resolve.py": [
+    "pip._internal.exceptions",
+    "pip._internal.req.constructors",
+    "pip._internal.utils.logging",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.packaging",
+    "pip._internal.req.req_set",
+    "pip._internal.distributions",
+    "pip._internal.download",
+    "pip._internal.index",
+    "pip._internal.operations.prepare",
+    "pip._internal.cache",
+    "pip._vendor.packaging.specifiers",
+    "pip._internal.req.req_install"
   ]
 }
