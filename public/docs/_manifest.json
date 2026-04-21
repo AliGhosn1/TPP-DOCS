@@ -628,5 +628,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/index.py",
     "title": "Package Indexing and Candidate Evaluation",
     "docKey": "myapp__Lib__site-packages__pip___internal__index.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/locations.py",
+    "title": "Pip Installation Locations",
+    "docKey": "myapp__Lib__site-packages__pip___internal__locations.py"
   }
 ]
