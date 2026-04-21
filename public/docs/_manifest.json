@@ -1068,5 +1068,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/saveopts.py",
     "title": "Save Setuptools Options Command (`saveopts`)",
     "docKey": "myapp__Lib__site-packages__setuptools__command__saveopts.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/sdist.py",
+    "title": "setuptools.command.sdist",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__sdist.py"
   }
 ]
