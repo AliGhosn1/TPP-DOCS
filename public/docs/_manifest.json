@@ -1288,5 +1288,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/mixins.py",
     "title": "Werkzeug Datastructures Mixins",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__mixins.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/mixins.pyi",
+    "title": "Werkzeug Datastructures Mixins",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__mixins.pyi"
   }
 ]
