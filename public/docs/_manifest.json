@@ -368,5 +368,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/compiler.py",
     "title": "Jinja2 Compiler",
     "docKey": "myapp__Lib__site-packages__jinja2__compiler.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/constants.py",
+    "title": "Jinja2 Constants",
+    "docKey": "myapp__Lib__site-packages__jinja2__constants.py"
   }
 ]
