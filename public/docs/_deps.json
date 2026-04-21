@@ -1333,5 +1333,17 @@
   ],
   "myapp/Lib/site-packages/werkzeug/_reloader.py": [
     "._internal"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/__init__.py": [
+    ".accept",
+    ".auth",
+    ".cache_control",
+    ".csp",
+    ".etag",
+    ".file_storage",
+    ".headers",
+    ".mixins",
+    ".range",
+    ".structures"
   ]
 }
