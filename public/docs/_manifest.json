@@ -1143,5 +1143,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/msvc.py",
     "title": "Microsoft Visual C++ Compiler Support",
     "docKey": "myapp__Lib__site-packages__setuptools__msvc.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/namespaces.py",
+    "title": "Namespace Package Installer",
+    "docKey": "myapp__Lib__site-packages__setuptools__namespaces.py"
   }
 ]
