@@ -885,5 +885,8 @@
     "pip._internal.utils.typing.MYPY_CHECK_RUNNING",
     "pip._internal.req.req_install.InstallRequirement",
     "pip._internal.models.link.Link"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/compat.py": [
+    "pip/_internal/utils/typing.py"
   ]
 }
