@@ -682,5 +682,19 @@
   ],
   "myapp/Lib/site-packages/pip/_internal/distributions/wheel.py": [
     "pip/_internal/distributions/base.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/download.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/models/index.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/encoding.py",
+    "pip/_internal/utils/filesystem.py",
+    "pip/_internal/utils/glibc.py",
+    "pip/_internal/utils/marker_files.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/ui.py",
+    "pip/_internal/vcs/__init__.py"
   ]
 }
