@@ -1366,5 +1366,8 @@
   ],
   "myapp/Lib/site-packages/werkzeug/datastructures/csp.pyi": [
     ".mixins"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/etag.py": [
+    "../http"
   ]
 }
