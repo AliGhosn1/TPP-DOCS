@@ -10,6 +10,11 @@
     "docKey": "myapp__Lib__site-packages__blinker___saferef.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/blinker/_utilities.py",
+    "title": "Blinker Utilities",
+    "docKey": "myapp__Lib__site-packages__blinker___utilities.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/blinker/base.py",
     "title": "Blinker Signals",
     "docKey": "myapp__Lib__site-packages__blinker__base.py"
