@@ -1123,5 +1123,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/glob.py",
     "title": "TwitchPokemon Glob Utility",
     "docKey": "myapp__Lib__site-packages__setuptools__glob.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/launch.py",
+    "title": "setuptools Launch Script",
+    "docKey": "myapp__Lib__site-packages__setuptools__launch.py"
   }
 ]
