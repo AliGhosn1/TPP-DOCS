@@ -673,5 +673,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/operations/check.py",
     "title": "Dependency Check Operations",
     "docKey": "myapp__Lib__site-packages__pip___internal__operations__check.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/operations/freeze.py",
+    "title": "Freeze Utility",
+    "docKey": "myapp__Lib__site-packages__pip___internal__operations__freeze.py"
   }
 ]
