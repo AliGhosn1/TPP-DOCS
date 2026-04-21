@@ -98,5 +98,10 @@
     "filePath": "myapp/Lib/site-packages/colorama/ansi.py",
     "title": "Colorama ANSI Escape Code Generation",
     "docKey": "myapp__Lib__site-packages__colorama__ansi.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/ansitowin32.py",
+    "title": "AnsiToWin32 Converter",
+    "docKey": "myapp__Lib__site-packages__colorama__ansitowin32.py"
   }
 ]
