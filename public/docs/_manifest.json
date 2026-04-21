@@ -288,5 +288,10 @@
     "filePath": "myapp/Lib/site-packages/importlib_metadata/_functools.py",
     "title": "functools Utilities for importlib-metadata",
     "docKey": "myapp__Lib__site-packages__importlib_metadata___functools.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_py39compat.py",
+    "title": "Python 3.8/3.9 Compatibility Layer",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___py39compat.py"
   }
 ]
