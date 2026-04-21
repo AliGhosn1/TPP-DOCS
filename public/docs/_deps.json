@@ -1330,5 +1330,8 @@
   ],
   "myapp/Lib/site-packages/werkzeug/_internal.py": [
     ".wrappers.request"
+  ],
+  "myapp/Lib/site-packages/werkzeug/_reloader.py": [
+    "._internal"
   ]
 }
