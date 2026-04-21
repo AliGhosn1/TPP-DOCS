@@ -1493,5 +1493,10 @@
     "werkzeug/routing/rules.py",
     "werkzeug/wrappers/request.py",
     "werkzeug/wrappers/response.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/matcher.py": [
+    "./converters",
+    "./exceptions",
+    "./rules"
   ]
 }
