@@ -838,5 +838,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/wheel.py",
     "title": "Wheel Package Support",
     "docKey": "myapp__Lib__site-packages__pip___internal__wheel.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pkg_resources/__init__.py",
+    "title": "pkg_resources: Package Resource API",
+    "docKey": "myapp__Lib__site-packages__pkg_resources____init__.py"
   }
 ]
