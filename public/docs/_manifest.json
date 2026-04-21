@@ -1383,5 +1383,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/middleware/proxy_fix.py",
     "title": "ProxyFix Middleware",
     "docKey": "myapp__Lib__site-packages__werkzeug__middleware__proxy_fix.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/shared_data.py",
+    "title": "Shared Data Middleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__shared_data.py"
   }
 ]
