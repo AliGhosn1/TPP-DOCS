@@ -233,5 +233,10 @@
     "filePath": "myapp/Lib/site-packages/flask/sessions.py",
     "title": "Flask Session Management",
     "docKey": "myapp__Lib__site-packages__flask__sessions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/signals.py",
+    "title": "Flask Signals",
+    "docKey": "myapp__Lib__site-packages__flask__signals.py"
   }
 ]
