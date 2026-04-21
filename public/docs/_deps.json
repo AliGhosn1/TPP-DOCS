@@ -1229,5 +1229,10 @@
     "setuptools.dist",
     "setuptools.extern.packaging.version",
     "setuptools.extern.six"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/upload.py": [
+    "setuptools.extern.six.moves.urllib.request",
+    "setuptools.extern.six.moves.urllib.error",
+    "setuptools.extern.six.moves.urllib.parse"
   ]
 }
