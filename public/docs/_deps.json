@@ -240,5 +240,12 @@
   ],
   "myapp/Lib/site-packages/flask/signals.py": [
     "blinker"
+  ],
+  "myapp/Lib/site-packages/flask/wrappers.py": [
+    "./json",
+    "./globals",
+    "./helpers",
+    "werkzeug.exceptions",
+    "werkzeug.wrappers"
   ]
 }
