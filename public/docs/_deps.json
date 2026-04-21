@@ -415,5 +415,9 @@
   "myapp/Lib/site-packages/jinja2/loaders.py": [
     "myapp/Lib/site-packages/jinja2/exceptions.py",
     "myapp/Lib/site-packages/jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/meta.py": [
+    "myapp/Lib/site-packages/jinja2/nodes.py",
+    "myapp/Lib/site-packages/jinja2/compiler.py"
   ]
 }
