@@ -1118,5 +1118,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/glibc.py",
     "title": "glibc Version Utilities",
     "docKey": "myapp__Lib__site-packages__setuptools__glibc.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/glob.py",
+    "title": "TwitchPokemon Glob Utility",
+    "docKey": "myapp__Lib__site-packages__setuptools__glob.py"
   }
 ]
