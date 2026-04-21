@@ -1508,5 +1508,10 @@
     "filePath": "myapp/Lib/site-packages/zipp/glob.py",
     "title": "zipp.glob Module",
     "docKey": "myapp__Lib__site-packages__zipp__glob.py"
+  },
+  {
+    "filePath": "testbot/index.js",
+    "title": "Twitch Chat Bot for Game Input",
+    "docKey": "testbot__index.js"
   }
 ]
