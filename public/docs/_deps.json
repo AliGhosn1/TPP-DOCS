@@ -1363,5 +1363,8 @@
   ],
   "myapp/Lib/site-packages/werkzeug/datastructures/cache_control.pyi": [
     "werkzeug/datastructures/mixins.pyi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/csp.pyi": [
+    ".mixins"
   ]
 }
