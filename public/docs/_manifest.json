@@ -638,5 +638,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/locations.py",
     "title": "Pip Installation Locations",
     "docKey": "myapp__Lib__site-packages__pip___internal__locations.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/candidate.py",
+    "title": "InstallationCandidate Model",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__candidate.py"
   }
 ]
