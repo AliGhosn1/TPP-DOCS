@@ -300,6 +300,11 @@
     "docKey": "myapp__Lib__site-packages__importlib_metadata___py39compat.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_text.py",
+    "title": "FoldedCase - Case-Insensitive String Comparison",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___text.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/importlib_metadata/diagnose.py",
     "title": "Metadata Inspection Tool",
     "docKey": "myapp__Lib__site-packages__importlib_metadata__diagnose.py"
