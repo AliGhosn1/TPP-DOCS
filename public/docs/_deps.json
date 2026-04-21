@@ -1305,5 +1305,6 @@
   ],
   "myapp/Lib/site-packages/setuptools/py27compat.py": [
     "setuptools.extern.six"
-  ]
+  ],
+  "myapp/Lib/site-packages/setuptools/py31compat.py": []
 }
