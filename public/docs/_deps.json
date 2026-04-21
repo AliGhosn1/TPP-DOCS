@@ -1327,5 +1327,8 @@
     "./serving.py",
     "./test.py",
     "./wrappers.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/_internal.py": [
+    ".wrappers.request"
   ]
 }
