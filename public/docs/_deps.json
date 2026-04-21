@@ -1418,5 +1418,9 @@
     "werkzeug.wrappers.response",
     "werkzeug.debug.console",
     "werkzeug.debug.tbtools"
+  ],
+  "myapp/Lib/site-packages/werkzeug/debug/console.py": [
+    ".repr",
+    ".tbtools"
   ]
 }
