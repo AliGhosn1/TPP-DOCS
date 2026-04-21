@@ -277,5 +277,14 @@
   ],
   "myapp/Lib/site-packages/importlib_metadata/_collections.py": [
     "collections"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/__init__.py": [
+    "._adapters",
+    "._meta",
+    "._py39compat",
+    "._collections",
+    "._compat",
+    "._functools",
+    "._itertools"
   ]
 }
