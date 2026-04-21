@@ -1525,5 +1525,13 @@
     "../datastructures",
     "../exceptions",
     "../http"
+  ],
+  "myapp/Lib/site-packages/werkzeug/sansio/request.py": [
+    "../datastructures",
+    "../http",
+    "../user_agent",
+    "../utils",
+    ".http",
+    ".utils"
   ]
 }
