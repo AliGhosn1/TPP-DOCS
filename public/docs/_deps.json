@@ -1224,5 +1224,10 @@
     "setuptools/extern/six.py",
     "setuptools.command",
     "setuptools"
+  ],
+  "myapp/Lib/site-packages/setuptools/config.py": [
+    "setuptools.dist",
+    "setuptools.extern.packaging.version",
+    "setuptools.extern.six"
   ]
 }
