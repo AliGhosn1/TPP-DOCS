@@ -343,5 +343,10 @@
     "filePath": "myapp/Lib/site-packages/itsdangerous/timed.py",
     "title": "itsdangerous.timed",
     "docKey": "myapp__Lib__site-packages__itsdangerous__timed.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/url_safe.py",
+    "title": "URL-Safe Serializers",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__url_safe.py"
   }
 ]
