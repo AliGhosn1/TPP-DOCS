@@ -720,5 +720,11 @@
     "pip._vendor.packaging.version",
     "pip._vendor.requests.exceptions",
     "pip._vendor.six.moves.urllib"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/locations.py": [
+    "pip/_internal/utils/appdirs.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/virtualenv.py"
   ]
 }
