@@ -969,5 +969,12 @@
     "pip/_internal/utils/misc.py",
     "pip/_internal/utils/temp_dir.py",
     "pip/_internal/vcs/versioncontrol.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/vcs/subversion.py": [
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/vcs/versioncontrol.py",
+    "pip/_internal/exceptions.py"
   ]
 }
