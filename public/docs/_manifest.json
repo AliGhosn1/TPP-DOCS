@@ -770,6 +770,11 @@
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__marker_files.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/misc.py",
+    "title": "Pip Miscellaneous Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__misc.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/models.py",
     "title": "KeyBasedCompareMixin",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__models.py"
