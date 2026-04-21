@@ -1399,5 +1399,8 @@
   "myapp/Lib/site-packages/werkzeug/datastructures/range.py": [
     "../http"
   ],
-  "myapp/Lib/site-packages/werkzeug/datastructures/range.pyi": []
+  "myapp/Lib/site-packages/werkzeug/datastructures/range.pyi": [],
+  "myapp/Lib/site-packages/werkzeug/datastructures/structures.pyi": [
+    "./mixins"
+  ]
 }
