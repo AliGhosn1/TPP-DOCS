@@ -1418,5 +1418,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/routing/rules.py",
     "title": "Werkzeug Routing Rules",
     "docKey": "myapp__Lib__site-packages__werkzeug__routing__rules.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/sansio/http.py",
+    "title": "Werkzeug SansIO HTTP Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__sansio__http.py"
   }
 ]
