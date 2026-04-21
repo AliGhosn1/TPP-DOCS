@@ -385,5 +385,14 @@
     ".runtime",
     ".utils",
     "markupsafe"
+  ],
+  "myapp/Lib/site-packages/jinja2/ext.py": [
+    "./environment",
+    "./nodes",
+    "./runtime",
+    "./utils",
+    "./lexer",
+    "./parser",
+    "./exceptions"
   ]
 }
