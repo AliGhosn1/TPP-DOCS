@@ -338,5 +338,10 @@
     "filePath": "myapp/Lib/site-packages/itsdangerous/signer.py",
     "title": "Signer Module",
     "docKey": "myapp__Lib__site-packages__itsdangerous__signer.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/timed.py",
+    "title": "itsdangerous.timed",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__timed.py"
   }
 ]
