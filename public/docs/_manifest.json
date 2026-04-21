@@ -185,6 +185,11 @@
     "docKey": "myapp__Lib__site-packages__flask__ctx.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/flask/globals.py",
+    "title": "Flask Globals",
+    "docKey": "myapp__Lib__site-packages__flask__globals.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/flask/json/__init__.py",
     "title": "Flask JSON Utilities",
     "docKey": "myapp__Lib__site-packages__flask__json____init__.py"
