@@ -1413,5 +1413,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/routing/matcher.py",
     "title": "StateMachineMatcher",
     "docKey": "myapp__Lib__site-packages__werkzeug__routing__matcher.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/rules.py",
+    "title": "Werkzeug Routing Rules",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing__rules.py"
   }
 ]
