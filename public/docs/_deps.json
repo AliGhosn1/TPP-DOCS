@@ -1520,5 +1520,10 @@
     "../_internal",
     "../http",
     "../datastructures"
+  ],
+  "myapp/Lib/site-packages/werkzeug/sansio/multipart.py": [
+    "../datastructures",
+    "../exceptions",
+    "../http"
   ]
 }
