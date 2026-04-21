@@ -1358,5 +1358,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/local.py",
     "title": "Werkzeug Locals and Proxies",
     "docKey": "myapp__Lib__site-packages__werkzeug__local.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/dispatcher.py",
+    "title": "DispatcherMiddleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__dispatcher.py"
   }
 ]
