@@ -1193,5 +1193,12 @@
   "myapp/Lib/site-packages/setuptools/command/py36compat.py": [],
   "myapp/Lib/site-packages/setuptools/command/register.py": [
     "distutils.command.register"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/rotate.py": [
+    "distutils.util.convert_path",
+    "distutils.log",
+    "distutils.errors.DistutilsOptionError",
+    "setuptools.extern.six",
+    "setuptools.Command"
   ]
 }
