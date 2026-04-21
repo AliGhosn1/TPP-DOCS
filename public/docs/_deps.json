@@ -1322,5 +1322,10 @@
     "setuptools.command.egg_info"
   ],
   "myapp/Lib/site-packages/setuptools/windows_support.py": [],
-  "myapp/Lib/site-packages/six.py": []
+  "myapp/Lib/site-packages/six.py": [],
+  "myapp/Lib/site-packages/werkzeug/__init__.py": [
+    "./serving.py",
+    "./test.py",
+    "./wrappers.py"
+  ]
 }
