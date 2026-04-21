@@ -928,5 +928,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/keyboard/_xorg.py",
     "title": "Xorg Keyboard Implementation",
     "docKey": "myapp__Lib__site-packages__pynput__keyboard___xorg.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/mouse/__init__.py",
+    "title": "pynput Mouse Module",
+    "docKey": "myapp__Lib__site-packages__pynput__mouse____init__.py"
   }
 ]
