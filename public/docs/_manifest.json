@@ -38,5 +38,10 @@
     "filePath": "myapp/Lib/site-packages/click/decorators.py",
     "title": "Click Decorators",
     "docKey": "myapp__Lib__site-packages__click__decorators.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/formatting.py",
+    "title": "click.formatting",
+    "docKey": "myapp__Lib__site-packages__click__formatting.py"
   }
 ]
