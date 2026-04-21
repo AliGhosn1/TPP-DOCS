@@ -1085,6 +1085,11 @@
     "docKey": "myapp__Lib__site-packages__setuptools__command__test.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/upload_docs.py",
+    "title": "setuptools upload_docs Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__upload_docs.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/setuptools/command/upload.py",
     "title": "Setuptools Upload Command",
     "docKey": "myapp__Lib__site-packages__setuptools__command__upload.py"
