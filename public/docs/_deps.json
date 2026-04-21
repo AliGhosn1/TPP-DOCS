@@ -190,5 +190,9 @@
   "myapp/Lib/site-packages/flask/json/__init__.py": [
     "../globals.py",
     "./provider.py"
+  ],
+  "myapp/Lib/site-packages/flask/logging.py": [
+    "flask/globals.py",
+    "flask/sansio/app.py"
   ]
 }
