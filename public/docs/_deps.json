@@ -1118,5 +1118,11 @@
   ],
   "myapp/Lib/site-packages/setuptools/command/bdist_wininst.py": [
     "distutils.command.bdist_wininst"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/build_clib.py": [
+    "setuptools.dep_util",
+    "distutils.command.build_clib",
+    "distutils.errors",
+    "distutils.log"
   ]
 }
