@@ -535,6 +535,11 @@
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__configuration.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/debug.py",
+    "title": "Pip Debug Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__debug.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/download.py",
     "title": "Pip Download Command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__download.py"
