@@ -680,6 +680,11 @@
     "docKey": "myapp__Lib__site-packages__pip___internal__operations__freeze.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/operations/prepare.py",
+    "title": "Requirement Preparer",
+    "docKey": "myapp__Lib__site-packages__pip___internal__operations__prepare.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pip/_internal/pep425tags.py",
     "title": "PEP 425 Compatibility Tags",
     "docKey": "myapp__Lib__site-packages__pip___internal__pep425tags.py"
