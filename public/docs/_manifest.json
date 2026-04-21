@@ -153,5 +153,10 @@
     "filePath": "myapp/Lib/site-packages/flask/__init__.py",
     "title": "Flask Package Initialization",
     "docKey": "myapp__Lib__site-packages__flask____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/app.py",
+    "title": "Flask Application Class",
+    "docKey": "myapp__Lib__site-packages__flask__app.py"
   }
 ]
