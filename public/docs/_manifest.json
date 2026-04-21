@@ -568,5 +568,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/list.py",
     "title": "pip list Command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__list.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/show.py",
+    "title": "pip show command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__show.py"
   }
 ]
