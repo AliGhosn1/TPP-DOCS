@@ -1189,5 +1189,6 @@
   "myapp/Lib/site-packages/setuptools/command/install_scripts.py": [
     "setuptools.command.easy_install",
     "distutils.command.install_scripts"
-  ]
+  ],
+  "myapp/Lib/site-packages/setuptools/command/py36compat.py": []
 }
