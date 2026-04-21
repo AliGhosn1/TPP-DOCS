@@ -588,5 +588,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/wheel.py",
     "title": "pip wheel Command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__wheel.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/configuration.py",
+    "title": "Pip Configuration Management",
+    "docKey": "myapp__Lib__site-packages__pip___internal__configuration.py"
   }
 ]
