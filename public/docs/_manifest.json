@@ -1023,5 +1023,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/dist_info.py",
     "title": "setuptools.command.dist_info",
     "docKey": "myapp__Lib__site-packages__setuptools__command__dist_info.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/easy_install.py",
+    "title": "easy_install.py: Automatic Package Installation",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__easy_install.py"
   }
 ]
