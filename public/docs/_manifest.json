@@ -178,5 +178,10 @@
     "filePath": "myapp/Lib/site-packages/flask/config.py",
     "title": "Flask Config Module",
     "docKey": "myapp__Lib__site-packages__flask__config.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/ctx.py",
+    "title": "Flask Context Management",
+    "docKey": "myapp__Lib__site-packages__flask__ctx.py"
   }
 ]
