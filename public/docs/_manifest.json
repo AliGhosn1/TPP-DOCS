@@ -150,6 +150,11 @@
     "docKey": "myapp__Lib__site-packages__colorama__win32.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/colorama/winterm.py",
+    "title": "Windows Terminal Handling (colorama.winterm)",
+    "docKey": "myapp__Lib__site-packages__colorama__winterm.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/flask/__init__.py",
     "title": "Flask Package Initialization",
     "docKey": "myapp__Lib__site-packages__flask____init__.py"
