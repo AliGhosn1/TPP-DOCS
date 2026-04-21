@@ -1281,5 +1281,8 @@
     "setuptools.monkey",
     "distutils.errors",
     "distutils.msvc9compiler"
+  ],
+  "myapp/Lib/site-packages/setuptools/namespaces.py": [
+    "setuptools.extern.six.moves"
   ]
 }
