@@ -1163,5 +1163,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/py27compat.py",
     "title": "Python 2.7 Compatibility Layer",
     "docKey": "myapp__Lib__site-packages__setuptools__py27compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/py31compat.py",
+    "title": "Python 3.1 Compatibility Layer",
+    "docKey": "myapp__Lib__site-packages__setuptools__py31compat.py"
   }
 ]
