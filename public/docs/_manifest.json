@@ -570,6 +570,11 @@
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__list.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/search.py",
+    "title": "Pip Search Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__search.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/show.py",
     "title": "pip show command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__show.py"
