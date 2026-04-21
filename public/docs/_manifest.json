@@ -548,5 +548,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/freeze.py",
     "title": "pip freeze command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__freeze.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/hash.py",
+    "title": "Hash Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__hash.py"
   }
 ]
