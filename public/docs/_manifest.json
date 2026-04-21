@@ -1378,5 +1378,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/middleware/profiler.py",
     "title": "Werkzeug Profiler Middleware",
     "docKey": "myapp__Lib__site-packages__werkzeug__middleware__profiler.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/proxy_fix.py",
+    "title": "ProxyFix Middleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__proxy_fix.py"
   }
 ]
