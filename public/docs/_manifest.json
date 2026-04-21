@@ -803,5 +803,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/ui.py",
     "title": "UI Utilities for Pip",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__ui.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/virtualenv.py",
+    "title": "Virtual Environment Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__virtualenv.py"
   }
 ]
