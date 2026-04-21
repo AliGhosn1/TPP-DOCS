@@ -89,5 +89,8 @@
     ".\\ansi.py",
     ".\\winterm.py",
     ".\\win32.py"
+  ],
+  "myapp/Lib/site-packages/colorama/initialise.py": [
+    ".ansitowin32"
   ]
 }
