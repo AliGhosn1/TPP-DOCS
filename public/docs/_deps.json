@@ -72,5 +72,11 @@
     ".termui",
     ".utils",
     "._compat"
+  ],
+  "myapp/Lib/site-packages/click/types.py": [
+    "._compat",
+    ".exceptions",
+    ".utils",
+    ".shell_completion"
   ]
 }
