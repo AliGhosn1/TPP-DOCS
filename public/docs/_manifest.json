@@ -393,5 +393,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/exceptions.py",
     "title": "Jinja2 Exception Hierarchy",
     "docKey": "myapp__Lib__site-packages__jinja2__exceptions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/ext.py",
+    "title": "Jinja2 Extension API",
+    "docKey": "myapp__Lib__site-packages__jinja2__ext.py"
   }
 ]
