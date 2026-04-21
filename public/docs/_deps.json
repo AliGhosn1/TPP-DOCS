@@ -116,5 +116,8 @@
     "colorama/tests/utils.py",
     "colorama/ansitowin32.py"
   ],
-  "myapp/Lib/site-packages/colorama/tests/utils.py": []
+  "myapp/Lib/site-packages/colorama/tests/utils.py": [],
+  "myapp/Lib/site-packages/colorama/tests/winterm_test.py": [
+    "../winterm.py"
+  ]
 }
