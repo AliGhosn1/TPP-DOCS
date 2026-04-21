@@ -1061,5 +1061,8 @@
     "Xlib.protocol",
     "Xlib.keysymdef.xkb",
     "pynput._util.xorg_keysyms"
+  ],
+  "myapp/Lib/site-packages/pynput/mouse/__init__.py": [
+    "pynput/_util.py"
   ]
 }
