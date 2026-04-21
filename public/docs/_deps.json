@@ -151,5 +151,9 @@
     "werkzeug.routing",
     "werkzeug.serving",
     "werkzeug.wrappers"
+  ],
+  "myapp/Lib/site-packages/colorama/winterm.py": [
+    ".",
+    ".\\win32"
   ]
 }
