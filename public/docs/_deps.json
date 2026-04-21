@@ -468,5 +468,12 @@
   "myapp/Lib/site-packages/jinja2/visitor.py": [
     "jinja2/nodes.py"
   ],
-  "myapp/Lib/site-packages/markupsafe/_speedups.c": []
+  "myapp/Lib/site-packages/markupsafe/_speedups.c": [],
+  "myapp/Lib/site-packages/pip/_internal/__init__.py": [
+    "pip/_internal/cli/autocompletion.py",
+    "pip/_internal/cli/main_parser.py",
+    "pip/_internal/commands/__init__.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/deprecation.py"
+  ]
 }
