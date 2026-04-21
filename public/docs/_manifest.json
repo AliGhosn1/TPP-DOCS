@@ -73,5 +73,10 @@
     "filePath": "myapp/Lib/site-packages/click/shell_completion.py",
     "title": "Click Shell Completion Module",
     "docKey": "myapp__Lib__site-packages__click__shell_completion.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/termui.py",
+    "title": "Terminal User Interface (UI)",
+    "docKey": "myapp__Lib__site-packages__click__termui.py"
   }
 ]
