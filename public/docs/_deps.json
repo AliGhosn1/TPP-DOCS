@@ -1369,5 +1369,9 @@
   ],
   "myapp/Lib/site-packages/werkzeug/datastructures/etag.py": [
     "../http"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/file_storage.pyi": [
+    "werkzeug/datastructures/headers.pyi",
+    "werkzeug/datastructures/structures.pyi"
   ]
 }
