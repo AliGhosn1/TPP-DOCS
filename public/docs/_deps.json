@@ -1447,5 +1447,9 @@
   ],
   "myapp/Lib/site-packages/werkzeug/local.py": [
     "./wsgi.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/http.py": [
+    "werkzeug/_internal.py",
+    "werkzeug/datastructures.py"
   ]
 }
