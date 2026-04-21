@@ -1454,5 +1454,11 @@
   ],
   "myapp/Lib/site-packages/werkzeug/middleware/dispatcher.py": [
     "_typeshed.wsgi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/http_proxy.py": [
+    "../datastructures",
+    "../http",
+    "../wsgi",
+    "../exceptions"
   ]
 }
