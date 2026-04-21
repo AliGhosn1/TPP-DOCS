@@ -745,5 +745,8 @@
   "myapp/Lib/site-packages/pip/_internal/models/candidate.py": [
     "pip/_internal/utils/models.py",
     "pip/_internal/models/link.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/format_control.py": [
+    "pip/_internal/utils/typing.py"
   ]
 }
