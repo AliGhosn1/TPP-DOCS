@@ -482,5 +482,14 @@
     "pip._internal.utils.typing",
     "pip._internal.utils.ui",
     "pip._internal.index"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cache.py": [
+    "pip/_internal/models/link.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/wheel.py",
+    "pip/_internal/index.py"
   ]
 }
