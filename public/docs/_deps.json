@@ -1267,5 +1267,12 @@
   "myapp/Lib/site-packages/setuptools/launch.py": [],
   "myapp/Lib/site-packages/setuptools/lib2to3_ex.py": [
     "setuptools"
+  ],
+  "myapp/Lib/site-packages/setuptools/monkey.py": [
+    "setuptools.Command",
+    "setuptools.findall",
+    "setuptools.dist",
+    "setuptools.extension",
+    "setuptools.msvc"
   ]
 }
