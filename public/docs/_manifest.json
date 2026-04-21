@@ -83,5 +83,10 @@
     "filePath": "myapp/Lib/site-packages/click/testing.py",
     "title": "Click CliRunner",
     "docKey": "myapp__Lib__site-packages__click__testing.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/types.py",
+    "title": "click.types",
+    "docKey": "myapp__Lib__site-packages__click__types.py"
   }
 ]
