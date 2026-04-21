@@ -1013,5 +1013,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/build_py.py",
     "title": "setuptools build_py command",
     "docKey": "myapp__Lib__site-packages__setuptools__command__build_py.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/develop.py",
+    "title": "setuptools.command.develop",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__develop.py"
   }
 ]
