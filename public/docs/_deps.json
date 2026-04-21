@@ -326,5 +326,11 @@
   "myapp/Lib/site-packages/itsdangerous/signer.py": [
     "itsdangerous/encoding.py",
     "itsdangerous/exc.py"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/timed.py": [
+    "./encoding",
+    "./exc",
+    "./serializer",
+    "./signer"
   ]
 }
