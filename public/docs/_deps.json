@@ -274,5 +274,8 @@
   "myapp/Lib/site-packages/importlib_metadata/_adapters.py": [
     "importlib_metadata/_text.py",
     "importlib_metadata/_compat.py"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_collections.py": [
+    "collections"
   ]
 }
