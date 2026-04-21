@@ -680,6 +680,11 @@
     "docKey": "myapp__Lib__site-packages__pip___internal__operations__freeze.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/pyproject.py",
+    "title": "pyproject.py",
+    "docKey": "myapp__Lib__site-packages__pip___internal__pyproject.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pip/_internal/req/__init__.py",
     "title": "pip.req: Requirement Installation and Management",
     "docKey": "myapp__Lib__site-packages__pip___internal__req____init__.py"
