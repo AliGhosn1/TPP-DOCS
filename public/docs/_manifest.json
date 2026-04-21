@@ -168,5 +168,10 @@
     "filePath": "myapp/Lib/site-packages/flask/blueprints.py",
     "title": "Flask Blueprints",
     "docKey": "myapp__Lib__site-packages__flask__blueprints.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/config.py",
+    "title": "Flask Config Module",
+    "docKey": "myapp__Lib__site-packages__flask__config.py"
   }
 ]
