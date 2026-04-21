@@ -132,5 +132,24 @@
     "./signals",
     "./templating",
     "./wrappers"
+  ],
+  "myapp/Lib/site-packages/flask/app.py": [
+    ".cli",
+    ".typing",
+    ".ctx",
+    ".globals",
+    ".helpers",
+    ".sansio.app",
+    ".sansio.scaffold",
+    ".sessions",
+    ".signals",
+    ".templating",
+    ".wrappers",
+    "click",
+    "werkzeug.datastructures",
+    "werkzeug.exceptions",
+    "werkzeug.routing",
+    "werkzeug.serving",
+    "werkzeug.wrappers"
   ]
 }
