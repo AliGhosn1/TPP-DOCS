@@ -451,5 +451,10 @@
     "./exceptions",
     "./runtime",
     "./_string"
+  ],
+  "myapp/Lib/site-packages/jinja2/tests.py": [
+    "./runtime",
+    "./utils",
+    "./environment"
   ]
 }
