@@ -983,5 +983,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/alias.py",
     "title": "Setuptools Alias Command",
     "docKey": "myapp__Lib__site-packages__setuptools__command__alias.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/bdist_egg.py",
+    "title": "bdist_egg Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__bdist_egg.py"
   }
 ]
