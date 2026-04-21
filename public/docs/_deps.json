@@ -496,5 +496,23 @@
     "pip._internal.cli.main_parser",
     "pip._internal.commands",
     "pip._internal.utils.misc"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/base_command.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/parser.py",
+    "pip/_internal/cli/status_codes.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/index.py",
+    "pip/_internal/models/selection_prefs.py",
+    "pip/_internal/models/target_python.py",
+    "pip/_internal/req/constructors.py",
+    "pip/_internal/req/req_file.py",
+    "pip/_internal/utils/deprecation.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/outdated.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/virtualenv.py"
   ]
 }
