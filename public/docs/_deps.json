@@ -1257,5 +1257,6 @@
     "myapp/Lib/site-packages/setuptools/extern/six.py",
     "myapp/Lib/site-packages/setuptools/windows_support.py"
   ],
-  "myapp/Lib/site-packages/setuptools/extern/__init__.py": []
+  "myapp/Lib/site-packages/setuptools/extern/__init__.py": [],
+  "myapp/Lib/site-packages/setuptools/glibc.py": []
 }
