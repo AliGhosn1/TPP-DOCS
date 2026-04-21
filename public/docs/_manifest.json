@@ -1263,5 +1263,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/etag.py",
     "title": "Werkzeug ETags Datastructure",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__etag.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/file_storage.pyi",
+    "title": "FileStorage and FileMultiDict",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__file_storage.pyi"
   }
 ]
