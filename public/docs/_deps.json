@@ -1509,5 +1509,11 @@
     ".exceptions",
     ".matcher",
     ".rules"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/rules.py": [
+    "werkzeug/datastructures.py",
+    "werkzeug/urls.py",
+    "werkzeug/routing/converters.py",
+    "werkzeug/routing/map.py"
   ]
 }
