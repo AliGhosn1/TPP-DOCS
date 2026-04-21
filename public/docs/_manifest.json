@@ -40,6 +40,11 @@
     "docKey": "myapp__Lib__site-packages__click___winconsole.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/click/core.py",
+    "title": "Click Context Object",
+    "docKey": "myapp__Lib__site-packages__click__core.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/click/decorators.py",
     "title": "Click Decorators",
     "docKey": "myapp__Lib__site-packages__click__decorators.py"
