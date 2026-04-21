@@ -1273,5 +1273,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/file_storage.pyi",
     "title": "FileStorage and FileMultiDict",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__file_storage.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/headers.py",
+    "title": "Werkzeug Headers Data Structure",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__headers.py"
   }
 ]
