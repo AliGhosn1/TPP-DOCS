@@ -1037,5 +1037,10 @@
     "pynput/_util/darwin.py",
     "pynput/_util/darwin_vks.py",
     "pynput/keyboard/_base.py"
+  ],
+  "myapp/Lib/site-packages/pynput/keyboard/_uinput.py": [
+    "pynput/_util/xorg_keysyms.py",
+    "pynput/_util/uinput.py",
+    "pynput/keyboard/_base.py"
   ]
 }
