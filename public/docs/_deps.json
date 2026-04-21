@@ -1310,5 +1310,6 @@
   "myapp/Lib/site-packages/setuptools/py33compat.py": [
     "setuptools/extern/six.py",
     "setuptools/extern/six/moves/html_parser.py"
-  ]
+  ],
+  "myapp/Lib/site-packages/setuptools/sandbox.py": []
 }
