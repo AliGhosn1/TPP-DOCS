@@ -1185,5 +1185,9 @@
     "setuptools.namespaces",
     "setuptools.archive_util",
     "pkg_resources"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/install_scripts.py": [
+    "setuptools.command.easy_install",
+    "distutils.command.install_scripts"
   ]
 }
