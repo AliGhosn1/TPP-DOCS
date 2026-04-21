@@ -22,5 +22,10 @@
   ],
   "myapp/Lib/site-packages/click/_winconsole.py": [
     "._compat"
+  ],
+  "myapp/Lib/site-packages/click/decorators.py": [
+    "./core",
+    "./utils",
+    "./globals"
   ]
 }
