@@ -1468,5 +1468,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/user_agent.py",
     "title": "UserAgent Class",
     "docKey": "myapp__Lib__site-packages__werkzeug__user_agent.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/utils.py",
+    "title": "Werkzeug Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__utils.py"
   }
 ]
