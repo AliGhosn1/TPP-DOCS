@@ -667,5 +667,11 @@
     "pip._internal.utils.compat",
     "pip._internal.utils.misc",
     "pip._internal.utils.typing"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/distributions/__init__.py": [
+    "pip/_internal/distributions/source.py",
+    "pip/_internal/distributions/wheel.py",
+    "pip/_internal/distributions/base.py",
+    "pip/_internal/req/req_install.py"
   ]
 }
