@@ -1072,5 +1072,9 @@
   "myapp/Lib/site-packages/pynput/mouse/_darwin.py": [
     "pynput/_util/darwin.py",
     "pynput/mouse/_base.py"
+  ],
+  "myapp/Lib/site-packages/pynput/mouse/_win32.py": [
+    "pynput/_util/win32.py",
+    "pynput/mouse/_base.py"
   ]
 }
