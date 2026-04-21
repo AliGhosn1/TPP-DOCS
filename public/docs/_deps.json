@@ -591,5 +591,11 @@
     "pip/_internal/models/format_control.py",
     "pip/_internal/operations/freeze.py",
     "pip/_internal/utils/compat.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/hash.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/cli/status_codes.py",
+    "pip/_internal/utils/hashes.py",
+    "pip/_internal/utils/misc.py"
   ]
 }
