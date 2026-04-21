@@ -1398,5 +1398,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/routing/converters.py",
     "title": "Werkzeug Routing Converters",
     "docKey": "myapp__Lib__site-packages__werkzeug__routing__converters.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/exceptions.py",
+    "title": "Werkzeug Routing Exceptions",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing__exceptions.py"
   }
 ]
