@@ -270,5 +270,9 @@
   "myapp/Lib/site-packages/flask/views.py": [
     "./typing.py",
     "./globals.py"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_adapters.py": [
+    "importlib_metadata/_text.py",
+    "importlib_metadata/_compat.py"
   ]
 }
