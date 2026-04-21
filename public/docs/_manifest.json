@@ -708,5 +708,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_file.py",
     "title": "Requirements File Parsing (pip._internal.req.req_file)",
     "docKey": "myapp__Lib__site-packages__pip___internal__req__req_file.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_install.py",
+    "title": "InstallRequirement Class",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__req_install.py"
   }
 ]
