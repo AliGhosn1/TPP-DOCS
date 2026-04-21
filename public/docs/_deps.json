@@ -194,5 +194,11 @@
   "myapp/Lib/site-packages/flask/logging.py": [
     "flask/globals.py",
     "flask/sansio/app.py"
+  ],
+  "myapp/Lib/site-packages/flask/globals.py": [
+    "./app",
+    "./ctx",
+    "./sessions",
+    "./wrappers"
   ]
 }
