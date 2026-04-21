@@ -1,0 +1,1628 @@
+{
+  "myapp/Lib/site-packages/blinker/_saferef.py": [
+    "weakref",
+    "operator",
+    "sys",
+    "traceback"
+  ],
+  "myapp/Lib/site-packages/blinker/base.py": [
+    "blinker/_utilities.py"
+  ],
+  "myapp/Lib/site-packages/blinker/__init__.py": [
+    "blinker/base.py"
+  ],
+  "myapp/Lib/site-packages/blinker/_utilities.py": [
+    "blinker/_saferef.py"
+  ],
+  "myapp/Lib/site-packages/click/_compat.py": [],
+  "myapp/Lib/site-packages/click/_termui_impl.py": [
+    "click/_compat.py",
+    "click/exceptions.py",
+    "click/utils.py"
+  ],
+  "myapp/Lib/site-packages/click/_winconsole.py": [
+    "._compat"
+  ],
+  "myapp/Lib/site-packages/click/decorators.py": [
+    "./core",
+    "./utils",
+    "./globals"
+  ],
+  "myapp/Lib/site-packages/click/formatting.py": [
+    "._compat",
+    "._textwrap",
+    ".parser"
+  ],
+  "myapp/Lib/site-packages/click/globals.py": [
+    "click/core.py"
+  ],
+  "myapp/Lib/site-packages/click/parser.py": [
+    ".exceptions",
+    ".core"
+  ],
+  "myapp/Lib/site-packages/click/shell_completion.py": [
+    "click/core.py",
+    "click/parser.py",
+    "click/utils.py"
+  ],
+  "myapp/Lib/site-packages/click/_textwrap.py": [],
+  "myapp/Lib/site-packages/click/core.py": [
+    "./types",
+    "./exceptions",
+    "./formatting",
+    "./globals",
+    "./parser",
+    "./termui",
+    "./utils"
+  ],
+  "myapp/Lib/site-packages/click/exceptions.py": [
+    "./_compat",
+    "./utils"
+  ],
+  "myapp/Lib/site-packages/click/termui.py": [
+    "./_compat",
+    "./exceptions",
+    "./globals",
+    "./types",
+    "./utils"
+  ],
+  "myapp/Lib/site-packages/click/testing.py": [
+    ".",
+    ".formatting",
+    ".termui",
+    ".utils",
+    "._compat"
+  ],
+  "myapp/Lib/site-packages/click/types.py": [
+    "._compat",
+    ".exceptions",
+    ".utils",
+    ".shell_completion"
+  ],
+  "myapp/Lib/site-packages/click/utils.py": [
+    "._compat",
+    ".exceptions",
+    ".globals"
+  ],
+  "myapp/Lib/site-packages/colorama/ansi.py": [],
+  "myapp/Lib/site-packages/colorama/ansitowin32.py": [
+    ".\\ansi.py",
+    ".\\winterm.py",
+    ".\\win32.py"
+  ],
+  "myapp/Lib/site-packages/colorama/initialise.py": [
+    ".ansitowin32"
+  ],
+  "myapp/Lib/site-packages/colorama/tests/ansi_test.py": [
+    "../ansi.py",
+    "../ansitowin32.py"
+  ],
+  "myapp/Lib/site-packages/colorama/__init__.py": [
+    "./initialise",
+    "./ansi",
+    "./ansitowin32"
+  ],
+  "myapp/Lib/site-packages/colorama/tests/ansitowin32_test.py": [
+    "colorama/ansitowin32.py",
+    "colorama/win32.py",
+    "colorama/tests/utils.py"
+  ],
+  "myapp/Lib/site-packages/colorama/tests/initialise_test.py": [
+    "../ansitowin32.py",
+    "../initialise.py",
+    "utils.py"
+  ],
+  "myapp/Lib/site-packages/colorama/tests/isatty_test.py": [
+    "colorama/tests/utils.py",
+    "colorama/ansitowin32.py"
+  ],
+  "myapp/Lib/site-packages/colorama/tests/utils.py": [],
+  "myapp/Lib/site-packages/colorama/tests/winterm_test.py": [
+    "../winterm.py"
+  ],
+  "myapp/Lib/site-packages/colorama/win32.py": [],
+  "myapp/Lib/site-packages/flask/__init__.py": [
+    "./json",
+    "./app",
+    "./blueprints",
+    "./config",
+    "./ctx",
+    "./globals",
+    "./helpers",
+    "./signals",
+    "./templating",
+    "./wrappers"
+  ],
+  "myapp/Lib/site-packages/flask/app.py": [
+    ".cli",
+    ".typing",
+    ".ctx",
+    ".globals",
+    ".helpers",
+    ".sansio.app",
+    ".sansio.scaffold",
+    ".sessions",
+    ".signals",
+    ".templating",
+    ".wrappers",
+    "click",
+    "werkzeug.datastructures",
+    "werkzeug.exceptions",
+    "werkzeug.routing",
+    "werkzeug.serving",
+    "werkzeug.wrappers"
+  ],
+  "myapp/Lib/site-packages/colorama/winterm.py": [
+    ".",
+    ".\\win32"
+  ],
+  "myapp/Lib/site-packages/flask/blueprints.py": [
+    "flask/globals.py",
+    "flask/helpers.py",
+    "flask/sansio/blueprints.py",
+    "flask/wrappers.py"
+  ],
+  "myapp/Lib/site-packages/flask/config.py": [
+    "flask/sansio/app.py"
+  ],
+  "myapp/Lib/site-packages/flask/cli.py": [
+    "myapp/Lib/site-packages/flask/globals.py",
+    "myapp/Lib/site-packages/flask/helpers.py",
+    "myapp/Lib/site-packages/flask/app.py"
+  ],
+  "myapp/Lib/site-packages/flask/ctx.py": [
+    "./typing.py",
+    "./globals.py",
+    "./signals.py",
+    "../_typeshed/wsgi.py",
+    "./app.py",
+    "./sessions.py",
+    "./wrappers.py"
+  ],
+  "myapp/Lib/site-packages/flask/json/provider.py": [
+    "../sansio/app",
+    "werkzeug.sansio.response",
+    "werkzeug.http"
+  ],
+  "myapp/Lib/site-packages/flask/json/tag.py": [
+    "../json.py"
+  ],
+  "myapp/Lib/site-packages/flask/json/__init__.py": [
+    "../globals.py",
+    "./provider.py"
+  ],
+  "myapp/Lib/site-packages/flask/logging.py": [
+    "flask/globals.py",
+    "flask/sansio/app.py"
+  ],
+  "myapp/Lib/site-packages/flask/globals.py": [
+    "./app",
+    "./ctx",
+    "./sessions",
+    "./wrappers"
+  ],
+  "myapp/Lib/site-packages/flask/debughelpers.py": [
+    "myapp/Lib/site-packages/flask/blueprints.py",
+    "myapp/Lib/site-packages/flask/globals.py",
+    "myapp/Lib/site-packages/flask/sansio/app.py",
+    "myapp/Lib/site-packages/flask/wrappers.py",
+    "myapp/Lib/site-packages/flask/sansio/scaffold.py"
+  ],
+  "myapp/Lib/site-packages/flask/helpers.py": [
+    "./globals",
+    "./signals"
+  ],
+  "myapp/Lib/site-packages/flask/sansio/app.py": [
+    "../typing",
+    "../config",
+    "../ctx",
+    "../helpers",
+    "../json/provider",
+    "../logging",
+    "../templating",
+    ".scaffold",
+    ".blueprints",
+    "werkzeug.exceptions",
+    "werkzeug.routing",
+    "werkzeug.sansio.response",
+    "werkzeug.utils"
+  ],
+  "myapp/Lib/site-packages/flask/sansio/scaffold.py": [
+    "../typing.py",
+    "../cli.py",
+    "../helpers.py",
+    "../templating.py"
+  ],
+  "myapp/Lib/site-packages/flask/sessions.py": [
+    "./json/tag.py",
+    "./app.py",
+    "./wrappers.py"
+  ],
+  "myapp/Lib/site-packages/flask/signals.py": [
+    "blinker"
+  ],
+  "myapp/Lib/site-packages/flask/wrappers.py": [
+    "./json",
+    "./globals",
+    "./helpers",
+    "werkzeug.exceptions",
+    "werkzeug.wrappers"
+  ],
+  "myapp/Lib/site-packages/flask/testing.py": [
+    "./cli.py",
+    "./sessions.py",
+    "./app.py"
+  ],
+  "myapp/Lib/site-packages/flask/typing.py": [
+    "werkzeug.datastructures",
+    "werkzeug.sansio.response",
+    "_typeshed.wsgi"
+  ],
+  "myapp/Lib/site-packages/flask/templating.py": [
+    "flask/globals.py",
+    "flask/helpers.py",
+    "flask/signals.py",
+    "flask/app.py",
+    "flask/sansio/app.py",
+    "flask/sansio/scaffold.py",
+    "flask/debughelpers.py"
+  ],
+  "myapp/Lib/site-packages/flask/views.py": [
+    "./typing.py",
+    "./globals.py"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_adapters.py": [
+    "importlib_metadata/_text.py",
+    "importlib_metadata/_compat.py"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_collections.py": [
+    "collections"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/__init__.py": [
+    "._adapters",
+    "._meta",
+    "._py39compat",
+    "._collections",
+    "._compat",
+    "._functools",
+    "._itertools"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_functools.py": [
+    "types",
+    "functools"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_compat.py": [],
+  "myapp/Lib/site-packages/importlib_metadata/_py39compat.py": [
+    ".",
+    "importlib_metadata"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_itertools.py": [],
+  "myapp/Lib/site-packages/importlib_metadata/diagnose.py": [
+    "importlib_metadata/distribution.py"
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_text.py": [
+    "._functools"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/_json.py": [
+    "itsdangerous/_json.py"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/__init__.py": [
+    "./encoding.py",
+    "./exc.py",
+    "./serializer.py",
+    "./signer.py",
+    "./timed.py",
+    "./url_safe.py"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/encoding.py": [
+    "./exc.py"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/exc.py": [],
+  "myapp/Lib/site-packages/itsdangerous/serializer.py": [
+    "./encoding.py",
+    "./exc.py",
+    "./signer.py"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/signer.py": [
+    "itsdangerous/encoding.py",
+    "itsdangerous/exc.py"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/timed.py": [
+    "./encoding",
+    "./exc",
+    "./serializer",
+    "./signer"
+  ],
+  "myapp/Lib/site-packages/itsdangerous/url_safe.py": [
+    "itsdangerous/_json.py",
+    "itsdangerous/encoding.py",
+    "itsdangerous/exc.py",
+    "itsdangerous/serializer.py",
+    "itsdangerous/timed.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/__init__.py": [
+    "jinja2/__init__.py",
+    "jinja2/bccache.py",
+    "jinja2/environment.py",
+    "jinja2/exceptions.py",
+    "jinja2/loaders.py",
+    "jinja2/runtime.py",
+    "jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/async_utils.py": [
+    "jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/compiler.py": [
+    "myapp/Lib/site-packages/jinja2/nodes.py",
+    "myapp/Lib/site-packages/jinja2/exceptions.py",
+    "myapp/Lib/site-packages/jinja2/idtracking.py",
+    "myapp/Lib/site-packages/jinja2/optimizer.py",
+    "myapp/Lib/site-packages/jinja2/utils.py",
+    "myapp/Lib/site-packages/jinja2/visitor.py",
+    "myapp/Lib/site-packages/jinja2/environment.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/bccache.py": [],
+  "myapp/Lib/site-packages/jinja2/constants.py": [],
+  "myapp/Lib/site-packages/jinja2/debug.py": [
+    "myapp/Lib/site-packages/jinja2/exceptions.py",
+    "myapp/Lib/site-packages/jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/defaults.py": [
+    "jinja2/filters.py",
+    "jinja2/tests.py",
+    "jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/exceptions.py": [
+    "myapp/Lib/site-packages/jinja2/runtime.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/environment.py": [
+    ".compiler",
+    ".defaults",
+    ".exceptions",
+    ".lexer",
+    ".nodes",
+    ".parser",
+    ".runtime",
+    ".utils",
+    "markupsafe"
+  ],
+  "myapp/Lib/site-packages/jinja2/ext.py": [
+    "./environment",
+    "./nodes",
+    "./runtime",
+    "./utils",
+    "./lexer",
+    "./parser",
+    "./exceptions"
+  ],
+  "myapp/Lib/site-packages/jinja2/filters.py": [
+    "jinja2/async_utils.py",
+    "jinja2/runtime.py",
+    "jinja2/utils.py",
+    "jinja2/exceptions.py",
+    "markupsafe/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/idtracking.py": [
+    "./nodes",
+    "./visitor"
+  ],
+  "myapp/Lib/site-packages/jinja2/lexer.py": [
+    "jinja2/_identifier.py",
+    "jinja2/exceptions.py",
+    "jinja2/utils.py",
+    "jinja2/environment.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/loaders.py": [
+    "myapp/Lib/site-packages/jinja2/exceptions.py",
+    "myapp/Lib/site-packages/jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/meta.py": [
+    "myapp/Lib/site-packages/jinja2/nodes.py",
+    "myapp/Lib/site-packages/jinja2/compiler.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/nativetypes.py": [
+    "jinja2/nodes.py",
+    "jinja2/compiler.py",
+    "jinja2/environment.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/nodes.py": [
+    "./utils",
+    "./environment"
+  ],
+  "myapp/Lib/site-packages/jinja2/optimizer.py": [
+    "jinja2/nodes.py",
+    "jinja2/visitor.py",
+    "jinja2/environment.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/parser.py": [
+    "./nodes",
+    "./exceptions",
+    "./lexer",
+    "./environment"
+  ],
+  "myapp/Lib/site-packages/jinja2/runtime.py": [
+    "jinja2/async_utils.py",
+    "jinja2/exceptions.py",
+    "jinja2/nodes.py",
+    "jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/sandbox.py": [
+    "./environment",
+    "./exceptions",
+    "./runtime",
+    "./_string"
+  ],
+  "myapp/Lib/site-packages/jinja2/tests.py": [
+    "./runtime",
+    "./utils",
+    "./environment"
+  ],
+  "myapp/Lib/site-packages/jinja2/utils.py": [
+    "jinja2.runtime",
+    "jinja2.nodes",
+    "jinja2.environment",
+    "jinja2.lexer",
+    "jinja2.constants"
+  ],
+  "myapp/Lib/site-packages/markupsafe/__init__.py": [],
+  "myapp/Lib/site-packages/jinja2/visitor.py": [
+    "jinja2/nodes.py"
+  ],
+  "myapp/Lib/site-packages/markupsafe/_speedups.c": [],
+  "myapp/Lib/site-packages/pip/_internal/__init__.py": [
+    "pip/_internal/cli/autocompletion.py",
+    "pip/_internal/cli/main_parser.py",
+    "pip/_internal/commands/__init__.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/deprecation.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/build_env.py": [
+    "pip._internal.utils.misc",
+    "pip._internal.utils.temp_dir",
+    "pip._internal.utils.typing",
+    "pip._internal.utils.ui",
+    "pip._internal.index"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cache.py": [
+    "pip/_internal/models/link.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/wheel.py",
+    "pip/_internal/index.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/autocompletion.py": [
+    "pip._internal.cli.main_parser",
+    "pip._internal.commands",
+    "pip._internal.utils.misc"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/base_command.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/parser.py",
+    "pip/_internal/cli/status_codes.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/index.py",
+    "pip/_internal/models/selection_prefs.py",
+    "pip/_internal/models/target_python.py",
+    "pip/_internal/req/constructors.py",
+    "pip/_internal/req/req_file.py",
+    "pip/_internal/utils/deprecation.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/outdated.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/virtualenv.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/cmdoptions.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/locations.py",
+    "pip/_internal/models/format_control.py",
+    "pip/_internal/models/index.py",
+    "pip/_internal/models/search_scope.py",
+    "pip/_internal/models/target_python.py",
+    "pip/_internal/utils/hashes.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/ui.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/main_parser.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/parser.py",
+    "pip/_internal/commands/__init__.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/cli/parser.py": [],
+  "myapp/Lib/site-packages/pip/_internal/commands/__init__.py": [
+    "pip/_internal/commands/completion.py",
+    "pip/_internal/commands/configuration.py",
+    "pip/_internal/commands/debug.py",
+    "pip/_internal/commands/download.py",
+    "pip/_internal/commands/freeze.py",
+    "pip/_internal/commands/hash.py",
+    "pip/_internal/commands/help.py",
+    "pip/_internal/commands/list.py",
+    "pip/_internal/commands/check.py",
+    "pip/_internal/commands/search.py",
+    "pip/_internal/commands/show.py",
+    "pip/_internal/commands/install.py",
+    "pip/_internal/commands/uninstall.py",
+    "pip/_internal/commands/wheel.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/cli/base_command.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/check.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/operations/check.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/configuration.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/cli/status_codes.py",
+    "pip/_internal/configuration.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/deprecation.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/virtualenv.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/download.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/legacy_resolve.py",
+    "pip/_internal/operations/prepare.py",
+    "pip/_internal/req/requirement_set.py",
+    "pip/_internal/req/req_tracker.py",
+    "pip/_internal/utils/filesystem.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/temp_dir.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/debug.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils.misc.py",
+    "pip/_internal/wheel.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/freeze.py": [
+    "pip/_internal/cache.py",
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/models/format_control.py",
+    "pip/_internal/operations/freeze.py",
+    "pip/_internal/utils/compat.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/hash.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/cli/status_codes.py",
+    "pip/_internal/utils/hashes.py",
+    "pip/_internal/utils/misc.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/help.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/cli/status_codes.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/commands/__init__.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/install.py": [
+    "pip._internal.cli.cmdoptions",
+    "pip._internal.cli.base_command",
+    "pip._internal.utils.misc",
+    "pip._internal.locations",
+    "pip._internal.operations.prepare",
+    "pip._internal.req",
+    "pip._internal.legacy_resolve",
+    "pip._internal.wheel",
+    "pip._internal.cache",
+    "pip._internal.operations.check",
+    "pip._internal.utils.temp_dir",
+    "pip._internal.req.req_tracker",
+    "pip._internal.utils.filesystem",
+    "pip._internal.utils.virtualenv"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/list.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/index.py",
+    "pip/_internal/models/selection_prefs.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/packaging.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/show.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/cli/status_codes.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/search.py": [
+    "pip._internal.cli.base_command",
+    "pip._internal.cli.status_codes",
+    "pip._internal.download",
+    "pip._internal.exceptions",
+    "pip._internal.models.index",
+    "pip._internal.utils.compat",
+    "pip._internal.utils.logging"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/uninstall.py": [
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/req/__init__.py",
+    "pip/_internal/req/constructors.py",
+    "pip/_internal/utils/misc.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/wheel.py": [
+    "pip/_internal/cache.py",
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/legacy_resolve.py",
+    "pip/_internal/operations/prepare.py",
+    "pip/_internal/req/req_set.py",
+    "pip/_internal/req/req_tracker.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/wheel.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/configuration.py": [
+    "pip._internal.exceptions",
+    "pip._internal.utils.appdirs",
+    "pip._internal.utils.compat",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.typing"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/distributions/__init__.py": [
+    "pip/_internal/distributions/source.py",
+    "pip/_internal/distributions/wheel.py",
+    "pip/_internal/distributions/base.py",
+    "pip/_internal/req/req_install.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/distributions/base.py": [],
+  "myapp/Lib/site-packages/pip/_internal/distributions/source.py": [
+    "pip/_internal/build_env.py",
+    "pip/_internal/distributions/base.py",
+    "pip/_internal/exceptions.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/distributions/wheel.py": [
+    "pip/_internal/distributions/base.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/download.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/models/index.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/encoding.py",
+    "pip/_internal/utils/filesystem.py",
+    "pip/_internal/utils/glibc.py",
+    "pip/_internal/utils/marker_files.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/ui.py",
+    "pip/_internal/vcs/__init__.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/exceptions.py": [
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/hashes.py",
+    "pip/_internal/req/req_install.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/index.py": [
+    "pip._internal.download",
+    "pip._internal.exceptions",
+    "pip._internal.models.candidate",
+    "pip._internal.models.format_control",
+    "pip._internal.models.link",
+    "pip._internal.models.selection_prefs",
+    "pip._internal.models.target_python",
+    "pip._internal.utils.compat",
+    "pip._internal.utils.logging",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.packaging",
+    "pip._internal.wheel",
+    "pip._internal.vcs",
+    "pip._vendor.packaging.specifiers",
+    "pip._vendor.packaging.version",
+    "pip._vendor.requests.exceptions",
+    "pip._vendor.six.moves.urllib"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/locations.py": [
+    "pip/_internal/utils/appdirs.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/virtualenv.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/legacy_resolve.py": [
+    "pip._internal.exceptions",
+    "pip._internal.req.constructors",
+    "pip._internal.utils.logging",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.packaging",
+    "pip._internal.req.req_set",
+    "pip._internal.distributions",
+    "pip._internal.download",
+    "pip._internal.index",
+    "pip._internal.operations.prepare",
+    "pip._internal.cache",
+    "pip._vendor.packaging.specifiers",
+    "pip._internal.req.req_install"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/candidate.py": [
+    "pip/_internal/utils/models.py",
+    "pip/_internal/models/link.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/format_control.py": [
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/search_scope.py": [
+    "pip/_internal/models/index.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/link.py": [
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/models.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_vendor/six/moves/urllib/parse.py",
+    "pip/_internal/index.py",
+    "pip/_internal/utils/hashes.py",
+    "pip/_internal/vcs.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/selection_prefs.py": [
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/models/format_control.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/models/target_python.py": [
+    "pip/_internal/pep425tags.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/operations/check.py": [
+    "pip/_internal/distributions",
+    "pip/_internal/utils/misc",
+    "pip/_internal/utils/typing",
+    "pip/_internal/req/req_install"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/operations/freeze.py": [
+    "pip._internal.exceptions",
+    "pip._internal.req.constructors",
+    "pip._internal.req.req_file",
+    "pip._internal.utils.misc",
+    "pip._internal.vcs",
+    "pip._vendor.packaging.utils",
+    "pip._vendor.pkg_resources"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/__init__.py": [
+    "pip/_internal/req/req_install.py",
+    "pip/_internal/req/req_set.py",
+    "pip/_internal/req/req_file.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/constructors.py": [
+    "pip/_internal/req/req_install.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/models/index.py",
+    "pip/_internal/models/link.py",
+    "pip/_internal/pyproject.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/vcs/__init__.py",
+    "pip/_internal/wheel.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/pyproject.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/pep425tags.py": [
+    "pip/_internal/utils/glibc.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/operations/prepare.py": [
+    "pip/_internal/distributions/__init__.py",
+    "pip/_internal/distributions/installed.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/hashes.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/req/req_install.py",
+    "pip/_internal/req/req_tracker.py",
+    "pip/_internal/index.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/req_file.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/models/search_scope.py",
+    "pip/_internal/req/constructors.py",
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/req_install.py": [
+    "pip._vendor.pkg_resources",
+    "pip._vendor.packaging.requirements",
+    "pip._vendor.packaging.version",
+    "pip._vendor.packaging.utils",
+    "pip._vendor.pep517.wrappers",
+    "pip._internal.wheel",
+    "pip._internal.build_env",
+    "pip._internal.exceptions",
+    "pip._internal.models.link",
+    "pip._internal.pyproject",
+    "pip._internal.req.req_uninstall",
+    "pip._internal.utils.compat",
+    "pip._internal.utils.hashes",
+    "pip._internal.utils.logging",
+    "pip._internal.utils.marker_files",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.packaging",
+    "pip._internal.utils.setuptools_build",
+    "pip._internal.utils.temp_dir",
+    "pip._internal.utils.typing",
+    "pip._internal.utils.ui",
+    "pip._internal.utils.virtualenv",
+    "pip._internal.vcs"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/req_set.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/wheel.py",
+    "pip/_internal/req/req_install.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/req_uninstall.py": [
+    "pip._internal.exceptions",
+    "pip._internal.locations",
+    "pip._internal.utils.compat",
+    "pip._internal.utils.logging",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.temp_dir",
+    "pip._internal.utils.typing",
+    "pip._vendor.pkg_resources"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/req_tracker.py": [
+    "pip._internal.utils.temp_dir.TempDirectory",
+    "pip._internal.utils.typing.MYPY_CHECK_RUNNING",
+    "pip._internal.req.req_install.InstallRequirement",
+    "pip._internal.models.link.Link"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/compat.py": [
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/encoding.py": [
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/deprecation.py": [
+    "pip._internal.utils.typing",
+    "pip"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/filesystem.py": [
+    "pip/_internal/utils/compat.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/glibc.py": [
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/marker_files.py": [
+    "os.path"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/hashes.py": [
+    "pip._internal.exceptions",
+    "pip._internal.utils.misc",
+    "pip._internal.utils.typing",
+    "pip._vendor.six",
+    "hashlib"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/logging.py": [
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/deprecation.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/subprocess.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/models.py": [
+    "operator"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/misc.py": [
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/marker_files.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/virtualenv.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/locations.py",
+    "pip/_internal/models/link.py",
+    "pip/_internal/vcs/subversion.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/packaging.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/setuptools_build.py": [
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/temp_dir.py": [
+    "pip/_internal/utils/misc.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/typing.py": [],
+  "myapp/Lib/site-packages/pip/_internal/utils/ui.py": [
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/virtualenv.py": [
+    "os.path",
+    "site",
+    "sys"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/vcs/bazaar.py": [
+    "pip._internal.utils.misc",
+    "pip._internal.vcs.versioncontrol"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/vcs/git.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/vcs/versioncontrol.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/vcs/mercurial.py": [
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/vcs/versioncontrol.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/vcs/subversion.py": [
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/vcs/versioncontrol.py",
+    "pip/_internal/exceptions.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/vcs/versioncontrol.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_vendor/pkg_resources.py",
+    "pip/_vendor/six/moves/urllib/parse.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/wheel.py": [
+    "pip/_internal/pep425tags.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/locations.py",
+    "pip/_internal/models/link.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/marker_files.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/setuptools_build.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/ui.py",
+    "pip/_vendor/pkg_resources/__init__.py",
+    "pip/_vendor/distlib/scripts.py",
+    "pip/_vendor/packaging/utils.py",
+    "pip/_vendor/six.py"
+  ],
+  "myapp/Lib/site-packages/pkg_resources/__init__.py": [],
+  "myapp/Lib/site-packages/pkg_resources/extern/__init__.py": [],
+  "myapp/Lib/site-packages/pkg_resources/py31compat.py": [
+    "pkg_resources/extern/six.py"
+  ],
+  "myapp/Lib/site-packages/pynput-1.7.6.dist-info/METADATA": [],
+  "myapp/Lib/site-packages/pynput/__init__.py": [
+    "myapp/Lib/site-packages/pynput/keyboard.py",
+    "myapp/Lib/site-packages/pynput/mouse.py"
+  ],
+  "myapp/Lib/site-packages/pynput/_util/__init__.py": [],
+  "myapp/Lib/site-packages/pynput/_util/darwin.py": [
+    "pynput/_util/abstract.py"
+  ],
+  "myapp/Lib/site-packages/pynput/_util/darwin_vks.py": [],
+  "myapp/Lib/site-packages/pynput/_util/uinput.py": [],
+  "myapp/Lib/site-packages/pynput/_util/win32.py": [
+    ".AbstractListener",
+    ".win32_vks as VK"
+  ],
+  "myapp/Lib/site-packages/pynput/_util/win32_vks.py": [],
+  "myapp/Lib/site-packages/pynput/_util/xorg.py": [
+    "./AbstractListener",
+    "./xorg_keysyms"
+  ],
+  "myapp/Lib/site-packages/pynput/keyboard/__init__.py": [],
+  "myapp/Lib/site-packages/pynput/keyboard/_base.py": [
+    "pynput/_util.py",
+    "pynput/_logger.py",
+    "pynput/keyboard/_control_codes.py"
+  ],
+  "myapp/Lib/site-packages/pynput/keyboard/_darwin.py": [
+    "pynput/_util/darwin.py",
+    "pynput/_util/darwin_vks.py",
+    "pynput/keyboard/_base.py"
+  ],
+  "myapp/Lib/site-packages/pynput/keyboard/_uinput.py": [
+    "pynput/_util/xorg_keysyms.py",
+    "pynput/_util/uinput.py",
+    "pynput/keyboard/_base.py"
+  ],
+  "myapp/Lib/site-packages/pynput/keyboard/_win32.py": [
+    "pynput._util.win32",
+    "pynput._util.win32_vks",
+    "pynput._util.AbstractListener",
+    "pynput._base"
+  ],
+  "myapp/Lib/site-packages/pynput/keyboard/_xorg.py": [
+    "pynput._util.xorg",
+    "pynput._util",
+    "pynput.keyboard._base",
+    "Xlib.display",
+    "Xlib.ext",
+    "Xlib.ext.xtest",
+    "Xlib.X",
+    "Xlib.XK",
+    "Xlib.protocol",
+    "Xlib.keysymdef.xkb",
+    "pynput._util.xorg_keysyms"
+  ],
+  "myapp/Lib/site-packages/pynput/mouse/__init__.py": [
+    "pynput/_util.py"
+  ],
+  "myapp/Lib/site-packages/pynput/mouse/_base.py": [
+    "pynput/_util.py",
+    "pynput/__init__.py"
+  ],
+  "myapp/Lib/site-packages/pynput/mouse/_darwin.py": [
+    "pynput/_util/darwin.py",
+    "pynput/mouse/_base.py"
+  ],
+  "myapp/Lib/site-packages/pynput/mouse/_win32.py": [
+    "pynput/_util/win32.py",
+    "pynput/mouse/_base.py"
+  ],
+  "myapp/Lib/site-packages/pynput/mouse/_xorg.py": [
+    "pynput/_util/xorg.py",
+    "pynput/mouse/_base.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/__init__.py": [
+    "setuptools/extern/six.py",
+    "setuptools/_deprecation_warning.py",
+    "setuptools/monkey.py",
+    "setuptools/version.py",
+    "setuptools/extension.py",
+    "setuptools/dist.py",
+    "setuptools/depends.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/_deprecation_warning.py": [],
+  "myapp/Lib/site-packages/setuptools/archive_util.py": [
+    "pkg_resources",
+    "distutils.errors",
+    "zipfile",
+    "tarfile",
+    "os",
+    "shutil",
+    "posixpath",
+    "contextlib"
+  ],
+  "myapp/Lib/site-packages/setuptools/build_meta.py": [
+    "setuptools.py31compat",
+    "distutils"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/alias.py": [
+    "setuptools.extern.six.moves",
+    "setuptools.command.setopt"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/__init__.py": [
+    "setuptools/command/install_scripts.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/bdist_egg.py": [],
+  "myapp/Lib/site-packages/setuptools/command/bdist_rpm.py": [
+    "distutils/command/bdist_rpm.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/bdist_wininst.py": [
+    "distutils.command.bdist_wininst"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/build_clib.py": [
+    "setuptools.dep_util",
+    "distutils.command.build_clib",
+    "distutils.errors",
+    "distutils.log"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/build_ext.py": [
+    "distutils.command.build_ext",
+    "setuptools.extension.Library",
+    "setuptools.extern.six",
+    "distutils.file_util",
+    "distutils.ccompiler",
+    "distutils.sysconfig",
+    "distutils.errors",
+    "distutils.log",
+    "Cython.Distutils.build_ext",
+    "importlib.machinery",
+    "imp",
+    "dl",
+    "distutils.util"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/build_py.py": [
+    "setuptools.extern.six",
+    "setuptools.lib2to3_ex"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/develop.py": [
+    "setuptools/namespaces.py",
+    "setuptools/command/easy_install.py",
+    "setuptools/__init__.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/dist_info.py": [
+    "distutils.core",
+    "distutils.log"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/easy_install.py": [
+    "setuptools.extern.six",
+    "setuptools.Command",
+    "setuptools.sandbox",
+    "setuptools.py27compat",
+    "setuptools.command.setopt",
+    "setuptools.archive_util",
+    "setuptools.package_index",
+    "setuptools.command.bdist_egg",
+    "setuptools.command.egg_info",
+    "setuptools.wheel",
+    "pkg_resources",
+    "pkg_resources.py31compat",
+    "setuptools.SetuptoolsDeprecationWarning"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/egg_info.py": [
+    "setuptools.command.sdist",
+    "setuptools.command.setopt",
+    "setuptools.command.bdist_egg",
+    "setuptools.extern.packaging",
+    "setuptools.glob",
+    "setuptools.unicode_utils"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/install.py": [
+    "distutils/errors.py",
+    "distutils/command/install.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/install_egg_info.py": [
+    "setuptools",
+    "setuptools.namespaces",
+    "setuptools.archive_util",
+    "pkg_resources"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/install_scripts.py": [
+    "setuptools.command.easy_install",
+    "distutils.command.install_scripts"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/py36compat.py": [],
+  "myapp/Lib/site-packages/setuptools/command/register.py": [
+    "distutils.command.register"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/rotate.py": [
+    "distutils.util.convert_path",
+    "distutils.log",
+    "distutils.errors.DistutilsOptionError",
+    "setuptools.extern.six",
+    "setuptools.Command"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/saveopts.py": [
+    "setuptools.command.setopt"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/sdist.py": [
+    "distutils/log",
+    "distutils/command/sdist.py",
+    "setuptools/extern/six.py",
+    "setuptools/command/py36compat.py",
+    "pkg_resources"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/setopt.py": [
+    "distutils.util.convert_path",
+    "distutils.log",
+    "distutils.errors.DistutilsOptionError",
+    "distutils",
+    "setuptools.extern.six.moves.configparser",
+    "setuptools.Command"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/test.py": [
+    "setuptools/command/build_py.py",
+    "setuptools/extern/six.py",
+    "setuptools.command",
+    "setuptools"
+  ],
+  "myapp/Lib/site-packages/setuptools/config.py": [
+    "setuptools.dist",
+    "setuptools.extern.packaging.version",
+    "setuptools.extern.six"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/upload.py": [
+    "setuptools.extern.six.moves.urllib.request",
+    "setuptools.extern.six.moves.urllib.error",
+    "setuptools.extern.six.moves.urllib.parse"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/upload_docs.py": [
+    ".upload",
+    "setuptools.extern.six",
+    "setuptools.extern.six.moves.http_client",
+    "setuptools.extern.six.moves.urllib",
+    "pkg_resources.iter_entry_points"
+  ],
+  "myapp/Lib/site-packages/setuptools/extension.py": [
+    "setuptools.monkey",
+    "distutils.core",
+    "distutils.errors",
+    "distutils.extension",
+    "setuptools.extern.six.moves"
+  ],
+  "myapp/Lib/site-packages/setuptools/dist.py": [
+    "myapp/Lib/site-packages/setuptools/config.py",
+    "myapp/Lib/site-packages/setuptools/monkey.py",
+    "myapp/Lib/site-packages/setuptools/depends.py",
+    "myapp/Lib/site-packages/setuptools/extern/packaging/__init__.py",
+    "myapp/Lib/site-packages/setuptools/extern/six.py",
+    "myapp/Lib/site-packages/setuptools/windows_support.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/extern/__init__.py": [],
+  "myapp/Lib/site-packages/setuptools/glibc.py": [],
+  "myapp/Lib/site-packages/setuptools/glob.py": [
+    "os",
+    "re",
+    "fnmatch"
+  ],
+  "myapp/Lib/site-packages/setuptools/launch.py": [],
+  "myapp/Lib/site-packages/setuptools/lib2to3_ex.py": [
+    "setuptools"
+  ],
+  "myapp/Lib/site-packages/setuptools/monkey.py": [
+    "setuptools.Command",
+    "setuptools.findall",
+    "setuptools.dist",
+    "setuptools.extension",
+    "setuptools.msvc"
+  ],
+  "myapp/Lib/site-packages/setuptools/msvc.py": [
+    "setuptools.extern.packaging.version",
+    "setuptools.extern.six.moves",
+    "setuptools.monkey",
+    "distutils.errors",
+    "distutils.msvc9compiler"
+  ],
+  "myapp/Lib/site-packages/setuptools/namespaces.py": [
+    "setuptools.extern.six.moves"
+  ],
+  "myapp/Lib/site-packages/setuptools/package_index.py": [
+    "setuptools.extern.six",
+    "setuptools.extern.six.moves",
+    "setuptools",
+    "pkg_resources",
+    "setuptools.ssl_support",
+    "distutils.log",
+    "distutils.errors",
+    "fnmatch",
+    "setuptools.py27compat",
+    "setuptools.py33compat",
+    "setuptools.wheel",
+    "setuptools.command.easy_install"
+  ],
+  "myapp/Lib/site-packages/setuptools/pep425tags.py": [
+    "./glibc",
+    "./extern/six"
+  ],
+  "myapp/Lib/site-packages/setuptools/py27compat.py": [
+    "setuptools.extern.six"
+  ],
+  "myapp/Lib/site-packages/setuptools/py31compat.py": [],
+  "myapp/Lib/site-packages/setuptools/py33compat.py": [
+    "setuptools/extern/six.py",
+    "setuptools/extern/six/moves/html_parser.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/sandbox.py": [],
+  "myapp/Lib/site-packages/setuptools/site-patch.py": [],
+  "myapp/Lib/site-packages/setuptools/ssl_support.py": [],
+  "myapp/Lib/site-packages/setuptools/unicode_utils.py": [
+    "setuptools/extern/six.py"
+  ],
+  "myapp/Lib/site-packages/setuptools/wheel.py": [
+    "setuptools.pep425tags",
+    "setuptools.command.egg_info"
+  ],
+  "myapp/Lib/site-packages/setuptools/windows_support.py": [],
+  "myapp/Lib/site-packages/six.py": [],
+  "myapp/Lib/site-packages/werkzeug/__init__.py": [
+    "./serving.py",
+    "./test.py",
+    "./wrappers.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/_internal.py": [
+    ".wrappers.request"
+  ],
+  "myapp/Lib/site-packages/werkzeug/_reloader.py": [
+    "._internal"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/__init__.py": [
+    ".accept",
+    ".auth",
+    ".cache_control",
+    ".csp",
+    ".etag",
+    ".file_storage",
+    ".headers",
+    ".mixins",
+    ".range",
+    ".structures"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/accept.py": [
+    "./structures"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/accept.pyi": [
+    ".structures.ImmutableList"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/auth.py": [
+    "../http",
+    ".structures",
+    "typing_extensions"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/cache_control.py": [
+    "./mixins.py",
+    "../http.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/cache_control.pyi": [
+    "werkzeug/datastructures/mixins.pyi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/csp.pyi": [
+    ".mixins"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/etag.py": [
+    "../http"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/file_storage.pyi": [
+    "werkzeug/datastructures/headers.pyi",
+    "werkzeug/datastructures/structures.pyi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/file_storage.py": [
+    "../_internal/_plain_int",
+    ".structures.MultiDict",
+    ".headers.Headers",
+    "shutil.copyfileobj",
+    "../http"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/headers.py": [
+    "werkzeug._internal",
+    "werkzeug.exceptions",
+    "werkzeug.datastructures.mixins",
+    "werkzeug.datastructures.structures",
+    "werkzeug.http"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/headers.pyi": [],
+  "myapp/Lib/site-packages/werkzeug/datastructures/mixins.py": [],
+  "myapp/Lib/site-packages/werkzeug/datastructures/mixins.pyi": [
+    "werkzeug/datastructures/headers.pyi",
+    "_typeshed.pyi",
+    "collections.abc",
+    "typing"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/range.py": [
+    "../http"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/range.pyi": [],
+  "myapp/Lib/site-packages/werkzeug/datastructures/structures.pyi": [
+    "./mixins"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/structures.py": [
+    "../exceptions",
+    "../_internal",
+    ".mixins"
+  ],
+  "myapp/Lib/site-packages/werkzeug/debug/__init__.py": [
+    "werkzeug._internal",
+    "werkzeug.exceptions",
+    "werkzeug.http",
+    "werkzeug.security",
+    "werkzeug.utils",
+    "werkzeug.wrappers.request",
+    "werkzeug.wrappers.response",
+    "werkzeug.debug.console",
+    "werkzeug.debug.tbtools"
+  ],
+  "myapp/Lib/site-packages/werkzeug/debug/console.py": [
+    ".repr",
+    ".tbtools"
+  ],
+  "myapp/Lib/site-packages/werkzeug/debug/repr.py": [],
+  "myapp/Lib/site-packages/werkzeug/debug/shared/debugger.js": [],
+  "myapp/Lib/site-packages/werkzeug/debug/tbtools.py": [
+    "../utils",
+    ".console"
+  ],
+  "myapp/Lib/site-packages/werkzeug/exceptions.py": [
+    "._internal",
+    ".datastructures",
+    ".http",
+    ".sansio.response",
+    ".wrappers.request",
+    ".wrappers.response"
+  ],
+  "myapp/Lib/site-packages/werkzeug/formparser.py": [
+    "._internal",
+    ".datastructures",
+    ".exceptions",
+    ".http",
+    ".sansio.multipart",
+    ".wsgi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/local.py": [
+    "./wsgi.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/http.py": [
+    "werkzeug/_internal.py",
+    "werkzeug/datastructures.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/dispatcher.py": [
+    "_typeshed.wsgi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/http_proxy.py": [
+    "../datastructures",
+    "../http",
+    "../wsgi",
+    "../exceptions"
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/lint.py": [
+    "../datastructures.py",
+    "../http.py",
+    "../wsgi.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/profiler.py": [],
+  "myapp/Lib/site-packages/werkzeug/middleware/proxy_fix.py": [
+    "../http.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/shared_data.py": [
+    "../http",
+    "../security",
+    "../utils",
+    "../wsgi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/__init__.py": [
+    "./converters",
+    "./exceptions",
+    "./map",
+    "./matcher",
+    "./rules"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/converters.py": [
+    ".map"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/exceptions.py": [
+    "werkzeug/exceptions.py",
+    "werkzeug/utils.py",
+    "werkzeug/routing/map.py",
+    "werkzeug/routing/rules.py",
+    "werkzeug/wrappers/request.py",
+    "werkzeug/wrappers/response.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/matcher.py": [
+    "./converters",
+    "./exceptions",
+    "./rules"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/map.py": [
+    "../_internal",
+    "../datastructures",
+    "../exceptions",
+    "../urls",
+    "../wrappers/request",
+    ".converters",
+    ".exceptions",
+    ".matcher",
+    ".rules"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/rules.py": [
+    "werkzeug/datastructures.py",
+    "werkzeug/urls.py",
+    "werkzeug/routing/converters.py",
+    "werkzeug/routing/map.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/sansio/http.py": [
+    "../_internal",
+    "../http",
+    "../datastructures"
+  ],
+  "myapp/Lib/site-packages/werkzeug/sansio/multipart.py": [
+    "../datastructures",
+    "../exceptions",
+    "../http"
+  ],
+  "myapp/Lib/site-packages/werkzeug/sansio/request.py": [
+    "../datastructures",
+    "../http",
+    "../user_agent",
+    "../utils",
+    ".http",
+    ".utils"
+  ],
+  "myapp/Lib/site-packages/werkzeug/sansio/response.py": [
+    "werkzeug.datastructures",
+    "werkzeug.http",
+    "werkzeug.utils"
+  ],
+  "myapp/Lib/site-packages/werkzeug/sansio/utils.py": [
+    "../_internal",
+    "../exceptions",
+    "../urls",
+    "urllib.parse"
+  ],
+  "myapp/Lib/site-packages/werkzeug/security.py": [],
+  "myapp/Lib/site-packages/werkzeug/serving.py": [
+    "myapp",
+    "werkzeug/_internal",
+    "werkzeug/exceptions",
+    "werkzeug/urls",
+    "werkzeug/debug/tbtools"
+  ],
+  "myapp/Lib/site-packages/werkzeug/test.py": [
+    "._internal",
+    ".datastructures",
+    ".http",
+    ".sansio.multipart",
+    ".urls",
+    ".utils",
+    ".wrappers.request",
+    ".wrappers.response",
+    ".wsgi",
+    "urllib.parse",
+    "mimetypes",
+    "sys",
+    "typing",
+    "collections",
+    "datetime",
+    "io",
+    "itertools",
+    "random",
+    "tempfile",
+    "time"
+  ],
+  "myapp/Lib/site-packages/werkzeug/testapp.py": [
+    "./wrappers/request.py",
+    "./wrappers/response.py",
+    "./serving.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/user_agent.py": [],
+  "myapp/Lib/site-packages/werkzeug/utils.py": [
+    "./_internal",
+    "./datastructures",
+    "./exceptions",
+    "./security",
+    "./wsgi",
+    "./wrappers/response",
+    "./wrappers/request"
+  ],
+  "myapp/Lib/site-packages/werkzeug/wrappers/__init__.py": [
+    "myapp/Lib/site-packages/werkzeug/wrappers/request.py",
+    "myapp/Lib/site-packages/werkzeug/wrappers/response.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/wsgi.py": [
+    "werkzeug/exceptions.py",
+    "werkzeug/sansio/utils.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/wrappers/response.py": [
+    "../datastructures",
+    "../http",
+    "../sansio/response",
+    "../urls",
+    "../utils",
+    "../wsgi",
+    "werkzeug._internal",
+    "werkzeug.http",
+    "werkzeug.wrappers.request",
+    "_typeshed.wsgi"
+  ],
+  "myapp/Lib/site-packages/werkzeug/wrappers/request.py": [
+    "../_internal/_wsgi_decoding_dance",
+    "../datastructures",
+    "../exceptions",
+    "../formparser",
+    "../sansio/request",
+    "../utils",
+    "../wsgi"
+  ],
+  "myapp/Lib/site-packages/zipp/compat/py310.py": [
+    "zipp/compat/py310.py"
+  ],
+  "myapp/Lib/site-packages/zipp/glob.py": [],
+  "myapp/app.py": [],
+  "testbot/index.js": []
+}

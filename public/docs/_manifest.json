@@ -1,1 +1,1517 @@
-[]
+[
+  {
+    "filePath": "myapp/app.py",
+    "title": "TwitchPokemon App - Keyboard Controller",
+    "docKey": "myapp__app.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/blinker/__init__.py",
+    "title": "Blinker Package Initialization",
+    "docKey": "myapp__Lib__site-packages__blinker____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/blinker/_saferef.py",
+    "title": "Safe References for Callables",
+    "docKey": "myapp__Lib__site-packages__blinker___saferef.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/blinker/_utilities.py",
+    "title": "Blinker Utilities",
+    "docKey": "myapp__Lib__site-packages__blinker___utilities.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/blinker/base.py",
+    "title": "Blinker Signals",
+    "docKey": "myapp__Lib__site-packages__blinker__base.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/_compat.py",
+    "title": "Click Compatibility Utilities",
+    "docKey": "myapp__Lib__site-packages__click___compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/_termui_impl.py",
+    "title": "Terminal UI Implementations",
+    "docKey": "myapp__Lib__site-packages__click___termui_impl.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/_textwrap.py",
+    "title": "TextWrapper Utility",
+    "docKey": "myapp__Lib__site-packages__click___textwrap.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/_winconsole.py",
+    "title": "Windows Console Handling",
+    "docKey": "myapp__Lib__site-packages__click___winconsole.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/core.py",
+    "title": "Click Context Object",
+    "docKey": "myapp__Lib__site-packages__click__core.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/decorators.py",
+    "title": "Click Decorators",
+    "docKey": "myapp__Lib__site-packages__click__decorators.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/exceptions.py",
+    "title": "Click Exceptions",
+    "docKey": "myapp__Lib__site-packages__click__exceptions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/formatting.py",
+    "title": "click.formatting",
+    "docKey": "myapp__Lib__site-packages__click__formatting.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/globals.py",
+    "title": "Click Context Globals",
+    "docKey": "myapp__Lib__site-packages__click__globals.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/parser.py",
+    "title": "Click Parser Module",
+    "docKey": "myapp__Lib__site-packages__click__parser.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/shell_completion.py",
+    "title": "Click Shell Completion Module",
+    "docKey": "myapp__Lib__site-packages__click__shell_completion.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/termui.py",
+    "title": "Terminal User Interface (UI)",
+    "docKey": "myapp__Lib__site-packages__click__termui.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/testing.py",
+    "title": "Click CliRunner",
+    "docKey": "myapp__Lib__site-packages__click__testing.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/types.py",
+    "title": "click.types",
+    "docKey": "myapp__Lib__site-packages__click__types.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/utils.py",
+    "title": "Click Utilities",
+    "docKey": "myapp__Lib__site-packages__click__utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/__init__.py",
+    "title": "Colorama Initialization and ANSI/Windows Console Integration",
+    "docKey": "myapp__Lib__site-packages__colorama____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/ansi.py",
+    "title": "Colorama ANSI Escape Code Generation",
+    "docKey": "myapp__Lib__site-packages__colorama__ansi.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/ansitowin32.py",
+    "title": "AnsiToWin32 Converter",
+    "docKey": "myapp__Lib__site-packages__colorama__ansitowin32.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/initialise.py",
+    "title": "Colorama Initialization and Management",
+    "docKey": "myapp__Lib__site-packages__colorama__initialise.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/ansi_test.py",
+    "title": "Colorama ANSI Escape Code Tests",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__ansi_test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/ansitowin32_test.py",
+    "title": "Ansitowin32 Tests",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__ansitowin32_test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/initialise_test.py",
+    "title": "Colorama Initialization Tests",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__initialise_test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/isatty_test.py",
+    "title": "Colorama `isatty` Tests",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__isatty_test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/utils.py",
+    "title": "Testing Utilities for Colorama",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/winterm_test.py",
+    "title": "WinTerm Unit Tests",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__winterm_test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/win32.py",
+    "title": "Colorama Win32 API Bindings",
+    "docKey": "myapp__Lib__site-packages__colorama__win32.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/winterm.py",
+    "title": "Windows Terminal Handling (colorama.winterm)",
+    "docKey": "myapp__Lib__site-packages__colorama__winterm.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/__init__.py",
+    "title": "Flask Package Initialization",
+    "docKey": "myapp__Lib__site-packages__flask____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/app.py",
+    "title": "Flask Application Class",
+    "docKey": "myapp__Lib__site-packages__flask__app.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/blueprints.py",
+    "title": "Flask Blueprints",
+    "docKey": "myapp__Lib__site-packages__flask__blueprints.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/cli.py",
+    "title": "Flask CLI Module",
+    "docKey": "myapp__Lib__site-packages__flask__cli.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/config.py",
+    "title": "Flask Config Module",
+    "docKey": "myapp__Lib__site-packages__flask__config.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/ctx.py",
+    "title": "Flask Context Management",
+    "docKey": "myapp__Lib__site-packages__flask__ctx.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/debughelpers.py",
+    "title": "Flask Debug Helpers",
+    "docKey": "myapp__Lib__site-packages__flask__debughelpers.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/globals.py",
+    "title": "Flask Globals",
+    "docKey": "myapp__Lib__site-packages__flask__globals.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/helpers.py",
+    "title": "Flask Helpers",
+    "docKey": "myapp__Lib__site-packages__flask__helpers.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/json/__init__.py",
+    "title": "Flask JSON Utilities",
+    "docKey": "myapp__Lib__site-packages__flask__json____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/json/provider.py",
+    "title": "JSONProvider",
+    "docKey": "myapp__Lib__site-packages__flask__json__provider.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/json/tag.py",
+    "title": "Tagged JSON Serialization",
+    "docKey": "myapp__Lib__site-packages__flask__json__tag.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/logging.py",
+    "title": "Flask Logging Utilities",
+    "docKey": "myapp__Lib__site-packages__flask__logging.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/sansio/app.py",
+    "title": "Flask Application Object",
+    "docKey": "myapp__Lib__site-packages__flask__sansio__app.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/sansio/scaffold.py",
+    "title": "Flask Scaffold Base Class",
+    "docKey": "myapp__Lib__site-packages__flask__sansio__scaffold.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/sessions.py",
+    "title": "Flask Session Management",
+    "docKey": "myapp__Lib__site-packages__flask__sessions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/signals.py",
+    "title": "Flask Signals",
+    "docKey": "myapp__Lib__site-packages__flask__signals.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/templating.py",
+    "title": "Flask Templating Utilities",
+    "docKey": "myapp__Lib__site-packages__flask__templating.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/testing.py",
+    "title": "Flask Testing Utilities",
+    "docKey": "myapp__Lib__site-packages__flask__testing.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/typing.py",
+    "title": "Flask Typing Definitions",
+    "docKey": "myapp__Lib__site-packages__flask__typing.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/views.py",
+    "title": "Flask Views (`flask/views.py`)",
+    "docKey": "myapp__Lib__site-packages__flask__views.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/wrappers.py",
+    "title": "Flask Request and Response Wrappers",
+    "docKey": "myapp__Lib__site-packages__flask__wrappers.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/__init__.py",
+    "title": "importlib_metadata",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_adapters.py",
+    "title": "importlib_metadata Adapters",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___adapters.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_collections.py",
+    "title": "Collections Utilities",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___collections.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_compat.py",
+    "title": "Compatibility Utilities for importlib-metadata",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_functools.py",
+    "title": "functools Utilities for importlib-metadata",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___functools.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_itertools.py",
+    "title": "Importlib Metadata - Iterator Utilities",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___itertools.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_py39compat.py",
+    "title": "Python 3.8/3.9 Compatibility Layer",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___py39compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_text.py",
+    "title": "FoldedCase - Case-Insensitive String Comparison",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___text.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/diagnose.py",
+    "title": "Metadata Inspection Tool",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata__diagnose.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/__init__.py",
+    "title": "Itsdangerous Package Init",
+    "docKey": "myapp__Lib__site-packages__itsdangerous____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/_json.py",
+    "title": "Compact JSON Wrapper",
+    "docKey": "myapp__Lib__site-packages__itsdangerous___json.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/encoding.py",
+    "title": "itsdangerous Encoding Utilities",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__encoding.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/exc.py",
+    "title": "itsdangerous Exceptions",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__exc.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/serializer.py",
+    "title": "itsdangerous Serializer",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__serializer.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/signer.py",
+    "title": "Signer Module",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__signer.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/timed.py",
+    "title": "itsdangerous.timed",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__timed.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/url_safe.py",
+    "title": "URL-Safe Serializers",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__url_safe.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/__init__.py",
+    "title": "Jinja2 Library Entry Point",
+    "docKey": "myapp__Lib__site-packages__jinja2____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/async_utils.py",
+    "title": "Jinja2 Asynchronous Utilities",
+    "docKey": "myapp__Lib__site-packages__jinja2__async_utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/bccache.py",
+    "title": "Jinja2 Bytecode Cache",
+    "docKey": "myapp__Lib__site-packages__jinja2__bccache.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/compiler.py",
+    "title": "Jinja2 Compiler",
+    "docKey": "myapp__Lib__site-packages__jinja2__compiler.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/constants.py",
+    "title": "Jinja2 Constants",
+    "docKey": "myapp__Lib__site-packages__jinja2__constants.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/debug.py",
+    "title": "Jinja2 Debugging Utilities",
+    "docKey": "myapp__Lib__site-packages__jinja2__debug.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/defaults.py",
+    "title": "Jinja2 Default Settings",
+    "docKey": "myapp__Lib__site-packages__jinja2__defaults.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/environment.py",
+    "title": "Jinja2 Environment Management",
+    "docKey": "myapp__Lib__site-packages__jinja2__environment.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/exceptions.py",
+    "title": "Jinja2 Exception Hierarchy",
+    "docKey": "myapp__Lib__site-packages__jinja2__exceptions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/ext.py",
+    "title": "Jinja2 Extension API",
+    "docKey": "myapp__Lib__site-packages__jinja2__ext.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/filters.py",
+    "title": "Jinja2 Built-in Filters",
+    "docKey": "myapp__Lib__site-packages__jinja2__filters.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/idtracking.py",
+    "title": "Jinja2 ID Tracking Symbols",
+    "docKey": "myapp__Lib__site-packages__jinja2__idtracking.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/lexer.py",
+    "title": "Jinja2 Lexer",
+    "docKey": "myapp__Lib__site-packages__jinja2__lexer.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/loaders.py",
+    "title": "Jinja2 Template Loaders",
+    "docKey": "myapp__Lib__site-packages__jinja2__loaders.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/meta.py",
+    "title": "Jinja2 Meta-Introspection",
+    "docKey": "myapp__Lib__site-packages__jinja2__meta.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/nativetypes.py",
+    "title": "Jinja2 Native Types Support",
+    "docKey": "myapp__Lib__site-packages__jinja2__nativetypes.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/nodes.py",
+    "title": "Jinja2 AST Nodes",
+    "docKey": "myapp__Lib__site-packages__jinja2__nodes.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/optimizer.py",
+    "title": "Jinja2 Optimizer",
+    "docKey": "myapp__Lib__site-packages__jinja2__optimizer.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/parser.py",
+    "title": "Jinja2 Parser",
+    "docKey": "myapp__Lib__site-packages__jinja2__parser.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/runtime.py",
+    "title": "Jinja2 Runtime",
+    "docKey": "myapp__Lib__site-packages__jinja2__runtime.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/sandbox.py",
+    "title": "Jinja2 Sandbox Module",
+    "docKey": "myapp__Lib__site-packages__jinja2__sandbox.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/tests.py",
+    "title": "Jinja2 Template Tests",
+    "docKey": "myapp__Lib__site-packages__jinja2__tests.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/utils.py",
+    "title": "Jinja2 Utilities",
+    "docKey": "myapp__Lib__site-packages__jinja2__utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/visitor.py",
+    "title": "Jinja2 AST Node Visitor and Transformer API",
+    "docKey": "myapp__Lib__site-packages__jinja2__visitor.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/markupsafe/__init__.py",
+    "title": "Markup Safe String Handling",
+    "docKey": "myapp__Lib__site-packages__markupsafe____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/markupsafe/_speedups.c",
+    "title": "markupsafe._speedups C Extension",
+    "docKey": "myapp__Lib__site-packages__markupsafe___speedups.c"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/__init__.py",
+    "title": "Pip Internal Entry Point",
+    "docKey": "myapp__Lib__site-packages__pip___internal____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/build_env.py",
+    "title": "Build Environment for Isolated Dependency Installation",
+    "docKey": "myapp__Lib__site-packages__pip___internal__build_env.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cache.py",
+    "title": "Pip Cache Management",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cache.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cli/autocompletion.py",
+    "title": "pip Autocompletion Logic",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cli__autocompletion.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cli/base_command.py",
+    "title": "Base Command Class for pip CLI",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cli__base_command.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cli/cmdoptions.py",
+    "title": "Pip Command Line Options",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cli__cmdoptions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cli/main_parser.py",
+    "title": "Pip Main Parser",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cli__main_parser.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cli/parser.py",
+    "title": "Custom Option Parser and Help Formatter",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cli__parser.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/__init__.py",
+    "title": "Pip Commands Module",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/check.py",
+    "title": "pip check Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__check.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/configuration.py",
+    "title": "Pip Configuration Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__configuration.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/debug.py",
+    "title": "Pip Debug Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__debug.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/download.py",
+    "title": "Pip Download Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__download.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/freeze.py",
+    "title": "pip freeze command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__freeze.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/hash.py",
+    "title": "Hash Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__hash.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/help.py",
+    "title": "Help Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__help.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/install.py",
+    "title": "Install Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__install.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/list.py",
+    "title": "pip list Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__list.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/search.py",
+    "title": "Pip Search Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__search.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/show.py",
+    "title": "pip show command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__show.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/uninstall.py",
+    "title": "Uninstall Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__uninstall.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/wheel.py",
+    "title": "pip wheel Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__wheel.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/configuration.py",
+    "title": "Pip Configuration Management",
+    "docKey": "myapp__Lib__site-packages__pip___internal__configuration.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/__init__.py",
+    "title": "Distribution Factory",
+    "docKey": "myapp__Lib__site-packages__pip___internal__distributions____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/base.py",
+    "title": "AbstractDistribution",
+    "docKey": "myapp__Lib__site-packages__pip___internal__distributions__base.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/source.py",
+    "title": "SourceDistribution Class",
+    "docKey": "myapp__Lib__site-packages__pip___internal__distributions__source.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/distributions/wheel.py",
+    "title": "WheelDistribution Class",
+    "docKey": "myapp__Lib__site-packages__pip___internal__distributions__wheel.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/download.py",
+    "title": "Download Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__download.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/exceptions.py",
+    "title": "Pip Internal Exceptions",
+    "docKey": "myapp__Lib__site-packages__pip___internal__exceptions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/index.py",
+    "title": "Package Indexing and Candidate Evaluation",
+    "docKey": "myapp__Lib__site-packages__pip___internal__index.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/legacy_resolve.py",
+    "title": "Dependency Resolution Logic",
+    "docKey": "myapp__Lib__site-packages__pip___internal__legacy_resolve.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/locations.py",
+    "title": "Pip Installation Locations",
+    "docKey": "myapp__Lib__site-packages__pip___internal__locations.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/candidate.py",
+    "title": "InstallationCandidate Model",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__candidate.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/format_control.py",
+    "title": "Format Control Helper",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__format_control.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/link.py",
+    "title": "Link Model",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__link.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/search_scope.py",
+    "title": "SearchScope Model",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__search_scope.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/selection_prefs.py",
+    "title": "SelectionPreferences",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__selection_prefs.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/target_python.py",
+    "title": "TargetPython Model",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__target_python.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/operations/check.py",
+    "title": "Dependency Check Operations",
+    "docKey": "myapp__Lib__site-packages__pip___internal__operations__check.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/operations/freeze.py",
+    "title": "Freeze Utility",
+    "docKey": "myapp__Lib__site-packages__pip___internal__operations__freeze.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/operations/prepare.py",
+    "title": "Requirement Preparer",
+    "docKey": "myapp__Lib__site-packages__pip___internal__operations__prepare.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/pep425tags.py",
+    "title": "PEP 425 Compatibility Tags",
+    "docKey": "myapp__Lib__site-packages__pip___internal__pep425tags.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/pyproject.py",
+    "title": "pyproject.py",
+    "docKey": "myapp__Lib__site-packages__pip___internal__pyproject.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/__init__.py",
+    "title": "pip.req: Requirement Installation and Management",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/constructors.py",
+    "title": "Install Requirement Constructors",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__constructors.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_file.py",
+    "title": "Requirements File Parsing (pip._internal.req.req_file)",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__req_file.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_install.py",
+    "title": "InstallRequirement Class",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__req_install.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_set.py",
+    "title": "RequirementSet Class",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__req_set.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_tracker.py",
+    "title": "Requirement Tracker",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__req_tracker.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_uninstall.py",
+    "title": "Uninstall Path Management",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__req_uninstall.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/compat.py",
+    "title": "Compatibility Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/deprecation.py",
+    "title": "Deprecation Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__deprecation.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/encoding.py",
+    "title": "Encoding Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__encoding.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/filesystem.py",
+    "title": "Filesystem Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__filesystem.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/glibc.py",
+    "title": "glibc Version Utility Functions",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__glibc.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/hashes.py",
+    "title": "pip's Hash Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__hashes.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/logging.py",
+    "title": "Logging Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__logging.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/marker_files.py",
+    "title": "Pip Delete Marker File Utility",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__marker_files.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/misc.py",
+    "title": "Pip Miscellaneous Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__misc.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/models.py",
+    "title": "KeyBasedCompareMixin",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__models.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/packaging.py",
+    "title": "Packaging Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__packaging.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/setuptools_build.py",
+    "title": "setuptools Shim Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__setuptools_build.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/temp_dir.py",
+    "title": "Temporary Directory Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__temp_dir.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/typing.py",
+    "title": "MYPY_CHECK_RUNNING Guard",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__typing.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/ui.py",
+    "title": "UI Utilities for Pip",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__ui.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/virtualenv.py",
+    "title": "Virtual Environment Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__virtualenv.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/bazaar.py",
+    "title": "Bazaar Version Control Integration",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__bazaar.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/git.py",
+    "title": "Git Version Control Integration",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__git.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/mercurial.py",
+    "title": "Mercurial VCS Integration",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__mercurial.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/subversion.py",
+    "title": "Subversion VCS Integration",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__subversion.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/versioncontrol.py",
+    "title": "Version Control Support",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__versioncontrol.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/wheel.py",
+    "title": "Wheel Package Support",
+    "docKey": "myapp__Lib__site-packages__pip___internal__wheel.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pkg_resources/__init__.py",
+    "title": "pkg_resources: Package Resource API",
+    "docKey": "myapp__Lib__site-packages__pkg_resources____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pkg_resources/extern/__init__.py",
+    "title": "pkg_resources.extern Vendor Importer",
+    "docKey": "myapp__Lib__site-packages__pkg_resources__extern____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pkg_resources/py31compat.py",
+    "title": "Python 3.1 Compatibility Utilities",
+    "docKey": "myapp__Lib__site-packages__pkg_resources__py31compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput-1.7.6.dist-info/METADATA",
+    "title": "pynput METADATA",
+    "docKey": "myapp__Lib__site-packages__pynput-1.7.6.dist-info__METADATA"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/__init__.py",
+    "title": "Pynput Core Module",
+    "docKey": "myapp__Lib__site-packages__pynput____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/__init__.py",
+    "title": "pynput._util",
+    "docKey": "myapp__Lib__site-packages__pynput___util____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/darwin_vks.py",
+    "title": "Darwin Virtual Key State Mapping",
+    "docKey": "myapp__Lib__site-packages__pynput___util__darwin_vks.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/darwin.py",
+    "title": "Darwin Backend Utilities",
+    "docKey": "myapp__Lib__site-packages__pynput___util__darwin.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/uinput.py",
+    "title": "uinput Utilities",
+    "docKey": "myapp__Lib__site-packages__pynput___util__uinput.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/win32_vks.py",
+    "title": "pynput Win32 Virtual Key Codes",
+    "docKey": "myapp__Lib__site-packages__pynput___util__win32_vks.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/win32.py",
+    "title": "Win32 Utilities for pynput",
+    "docKey": "myapp__Lib__site-packages__pynput___util__win32.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/xorg.py",
+    "title": "Xorg Backend Utilities",
+    "docKey": "myapp__Lib__site-packages__pynput___util__xorg.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/__init__.py",
+    "title": "pynput.keyboard",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/_base.py",
+    "title": "pynput Keyboard Base Module",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard___base.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/_darwin.py",
+    "title": "macOS Keyboard Implementation",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard___darwin.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/_uinput.py",
+    "title": "pynput Keyboard (_uinput)",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard___uinput.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/_win32.py",
+    "title": "Windows Keyboard Implementation (pynput)",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard___win32.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/keyboard/_xorg.py",
+    "title": "Xorg Keyboard Implementation",
+    "docKey": "myapp__Lib__site-packages__pynput__keyboard___xorg.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/mouse/__init__.py",
+    "title": "pynput Mouse Module",
+    "docKey": "myapp__Lib__site-packages__pynput__mouse____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/mouse/_base.py",
+    "title": "pynput Mouse Base Module",
+    "docKey": "myapp__Lib__site-packages__pynput__mouse___base.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/mouse/_darwin.py",
+    "title": "macOS Mouse Implementation for pynput",
+    "docKey": "myapp__Lib__site-packages__pynput__mouse___darwin.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/mouse/_win32.py",
+    "title": "pynput Windows Mouse Implementation",
+    "docKey": "myapp__Lib__site-packages__pynput__mouse___win32.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/mouse/_xorg.py",
+    "title": "Xorg Mouse Controller and Listener",
+    "docKey": "myapp__Lib__site-packages__pynput__mouse___xorg.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/__init__.py",
+    "title": "Setuptools Core API",
+    "docKey": "myapp__Lib__site-packages__setuptools____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/_deprecation_warning.py",
+    "title": "SetuptoolsDeprecationWarning",
+    "docKey": "myapp__Lib__site-packages__setuptools___deprecation_warning.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/archive_util.py",
+    "title": "Archive Extraction Utilities (setuptools.archive_util)",
+    "docKey": "myapp__Lib__site-packages__setuptools__archive_util.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/build_meta.py",
+    "title": "Setuptools Build Meta Backend",
+    "docKey": "myapp__Lib__site-packages__setuptools__build_meta.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/__init__.py",
+    "title": "Setuptools Command Module",
+    "docKey": "myapp__Lib__site-packages__setuptools__command____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/alias.py",
+    "title": "Setuptools Alias Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__alias.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/bdist_egg.py",
+    "title": "bdist_egg Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__bdist_egg.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/bdist_rpm.py",
+    "title": "Custom bdist_rpm command for Setuptools",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__bdist_rpm.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/bdist_wininst.py",
+    "title": "Custom bdist_wininst Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__bdist_wininst.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/build_clib.py",
+    "title": "setuptools build_clib command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__build_clib.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/build_ext.py",
+    "title": "Custom Build Extension Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__build_ext.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/build_py.py",
+    "title": "setuptools build_py command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__build_py.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/develop.py",
+    "title": "setuptools.command.develop",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__develop.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/dist_info.py",
+    "title": "setuptools.command.dist_info",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__dist_info.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/easy_install.py",
+    "title": "easy_install.py: Automatic Package Installation",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__easy_install.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/egg_info.py",
+    "title": "setuptools.command.egg_info",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__egg_info.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/install_egg_info.py",
+    "title": "install_egg_info Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__install_egg_info.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/install_scripts.py",
+    "title": "setuptools install_scripts command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__install_scripts.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/install.py",
+    "title": "Setuptools Install Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__install.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/py36compat.py",
+    "title": "setuptools.command.py36compat.sdist_add_defaults",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__py36compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/register.py",
+    "title": "Setuptools Register Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__register.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/rotate.py",
+    "title": "setuptools.command.rotate",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__rotate.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/saveopts.py",
+    "title": "Save Setuptools Options Command (`saveopts`)",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__saveopts.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/sdist.py",
+    "title": "setuptools.command.sdist",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__sdist.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/setopt.py",
+    "title": "setopt Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__setopt.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/test.py",
+    "title": "setuptools.command.test",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/upload_docs.py",
+    "title": "setuptools upload_docs Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__upload_docs.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/upload.py",
+    "title": "Setuptools Upload Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__upload.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/config.py",
+    "title": "setuptools Configuration Parsing",
+    "docKey": "myapp__Lib__site-packages__setuptools__config.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/dist.py",
+    "title": "setuptools.dist: Distribution Class",
+    "docKey": "myapp__Lib__site-packages__setuptools__dist.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/extension.py",
+    "title": "setuptools.extension Module",
+    "docKey": "myapp__Lib__site-packages__setuptools__extension.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/extern/__init__.py",
+    "title": "Vendor Importer Module",
+    "docKey": "myapp__Lib__site-packages__setuptools__extern____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/glibc.py",
+    "title": "glibc Version Utilities",
+    "docKey": "myapp__Lib__site-packages__setuptools__glibc.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/glob.py",
+    "title": "TwitchPokemon Glob Utility",
+    "docKey": "myapp__Lib__site-packages__setuptools__glob.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/launch.py",
+    "title": "setuptools Launch Script",
+    "docKey": "myapp__Lib__site-packages__setuptools__launch.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/lib2to3_ex.py",
+    "title": "setuptools lib2to3 Extension",
+    "docKey": "myapp__Lib__site-packages__setuptools__lib2to3_ex.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/monkey.py",
+    "title": "Setuptools Monkey Patching",
+    "docKey": "myapp__Lib__site-packages__setuptools__monkey.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/msvc.py",
+    "title": "Microsoft Visual C++ Compiler Support",
+    "docKey": "myapp__Lib__site-packages__setuptools__msvc.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/namespaces.py",
+    "title": "Namespace Package Installer",
+    "docKey": "myapp__Lib__site-packages__setuptools__namespaces.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/package_index.py",
+    "title": "PackageIndex",
+    "docKey": "myapp__Lib__site-packages__setuptools__package_index.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/pep425tags.py",
+    "title": "PEP 425 Compatibility Tags",
+    "docKey": "myapp__Lib__site-packages__setuptools__pep425tags.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/py27compat.py",
+    "title": "Python 2.7 Compatibility Layer",
+    "docKey": "myapp__Lib__site-packages__setuptools__py27compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/py31compat.py",
+    "title": "Python 3.1 Compatibility Layer",
+    "docKey": "myapp__Lib__site-packages__setuptools__py31compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/py33compat.py",
+    "title": "Python 3.3 Compatibility Layer",
+    "docKey": "myapp__Lib__site-packages__setuptools__py33compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/sandbox.py",
+    "title": "setuptools.sandbox",
+    "docKey": "myapp__Lib__site-packages__setuptools__sandbox.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/site-patch.py",
+    "title": "setuptools site-patch Module",
+    "docKey": "myapp__Lib__site-packages__setuptools__site-patch.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/ssl_support.py",
+    "title": "SSL Support Utilities",
+    "docKey": "myapp__Lib__site-packages__setuptools__ssl_support.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/unicode_utils.py",
+    "title": "Unicode Utility Functions",
+    "docKey": "myapp__Lib__site-packages__setuptools__unicode_utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/wheel.py",
+    "title": "Wheel Handling Utilities",
+    "docKey": "myapp__Lib__site-packages__setuptools__wheel.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/windows_support.py",
+    "title": "Windows Support Utilities",
+    "docKey": "myapp__Lib__site-packages__setuptools__windows_support.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/six.py",
+    "title": "Six Compatibility Utilities",
+    "docKey": "myapp__Lib__site-packages__six.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/__init__.py",
+    "title": "Werkzeug __init__.py",
+    "docKey": "myapp__Lib__site-packages__werkzeug____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/_internal.py",
+    "title": "Internal Werkzeug Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug___internal.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/_reloader.py",
+    "title": "Werkzeug Reloader",
+    "docKey": "myapp__Lib__site-packages__werkzeug___reloader.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/__init__.py",
+    "title": "Werkzeug Datastructures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/accept.py",
+    "title": "Werkzeug Accept Headers",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__accept.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/accept.pyi",
+    "title": "Werkzeug Accept Headers",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__accept.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/auth.py",
+    "title": "Werkzeug Authorization and WWW-Authenticate Header Structures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__auth.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/cache_control.py",
+    "title": "Werkzeug Cache Control Data Structures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__cache_control.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/cache_control.pyi",
+    "title": "Werkzeug Cache Control Data Structures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__cache_control.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/csp.pyi",
+    "title": "Content Security Policy (CSP) Data Structure",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__csp.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/etag.py",
+    "title": "Werkzeug ETags Datastructure",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__etag.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/file_storage.py",
+    "title": "FileStorage and FileMultiDict",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__file_storage.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/file_storage.pyi",
+    "title": "FileStorage and FileMultiDict",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__file_storage.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/headers.py",
+    "title": "Werkzeug Headers Data Structure",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__headers.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/headers.pyi",
+    "title": "Werkzeug Headers Datastructures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__headers.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/mixins.py",
+    "title": "Werkzeug Datastructures Mixins",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__mixins.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/mixins.pyi",
+    "title": "Werkzeug Datastructures Mixins",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__mixins.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/range.py",
+    "title": "Werkzeug Datastructures: Range, IfRange, ContentRange",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__range.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/range.pyi",
+    "title": "Werkzeug Datastructures: Range and ContentRange",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__range.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/structures.py",
+    "title": "Werkzeug Datastructures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__structures.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/structures.pyi",
+    "title": "Werkzeug Datastructures",
+    "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__structures.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/debug/__init__.py",
+    "title": "Werkzeug Debugger",
+    "docKey": "myapp__Lib__site-packages__werkzeug__debug____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/debug/console.py",
+    "title": "Werkzeug Debug Console",
+    "docKey": "myapp__Lib__site-packages__werkzeug__debug__console.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/debug/repr.py",
+    "title": "werkzeug.debug.repr",
+    "docKey": "myapp__Lib__site-packages__werkzeug__debug__repr.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/debug/shared/debugger.js",
+    "title": "Werkzeug Debugger JavaScript",
+    "docKey": "myapp__Lib__site-packages__werkzeug__debug__shared__debugger.js"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/debug/tbtools.py",
+    "title": "Werkzeug Debugger Traceback Tools",
+    "docKey": "myapp__Lib__site-packages__werkzeug__debug__tbtools.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/exceptions.py",
+    "title": "Werkzeug HTTP Exceptions",
+    "docKey": "myapp__Lib__site-packages__werkzeug__exceptions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/formparser.py",
+    "title": "Form Data Parser",
+    "docKey": "myapp__Lib__site-packages__werkzeug__formparser.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/http.py",
+    "title": "Werkzeug HTTP Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__http.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/local.py",
+    "title": "Werkzeug Locals and Proxies",
+    "docKey": "myapp__Lib__site-packages__werkzeug__local.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/dispatcher.py",
+    "title": "DispatcherMiddleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__dispatcher.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/http_proxy.py",
+    "title": "Werkzeug HTTP Proxy Middleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__http_proxy.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/lint.py",
+    "title": "Werkzeug WSGI Lint Middleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__lint.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/profiler.py",
+    "title": "Werkzeug Profiler Middleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__profiler.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/proxy_fix.py",
+    "title": "ProxyFix Middleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__proxy_fix.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/middleware/shared_data.py",
+    "title": "Shared Data Middleware",
+    "docKey": "myapp__Lib__site-packages__werkzeug__middleware__shared_data.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/__init__.py",
+    "title": "Werkzeug Routing",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/converters.py",
+    "title": "Werkzeug Routing Converters",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing__converters.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/exceptions.py",
+    "title": "Werkzeug Routing Exceptions",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing__exceptions.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/map.py",
+    "title": "Map and MapAdapter",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing__map.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/matcher.py",
+    "title": "StateMachineMatcher",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing__matcher.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/rules.py",
+    "title": "Werkzeug Routing Rules",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing__rules.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/sansio/http.py",
+    "title": "Werkzeug SansIO HTTP Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__sansio__http.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/sansio/multipart.py",
+    "title": "Werkzeug SansIO Multipart Decoder/Encoder",
+    "docKey": "myapp__Lib__site-packages__werkzeug__sansio__multipart.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/sansio/request.py",
+    "title": "Werkzeug SansIO Request",
+    "docKey": "myapp__Lib__site-packages__werkzeug__sansio__request.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/sansio/response.py",
+    "title": "werkzeug.sansio.response.Response",
+    "docKey": "myapp__Lib__site-packages__werkzeug__sansio__response.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/sansio/utils.py",
+    "title": "Werkzeug SansIO Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__sansio__utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/security.py",
+    "title": "Werkzeug Security Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__security.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/serving.py",
+    "title": "Werkzeug WSGI and HTTP Server (Development)",
+    "docKey": "myapp__Lib__site-packages__werkzeug__serving.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/test.py",
+    "title": "werkzeug.test",
+    "docKey": "myapp__Lib__site-packages__werkzeug__test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/testapp.py",
+    "title": "Werkzeug Test Application",
+    "docKey": "myapp__Lib__site-packages__werkzeug__testapp.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/user_agent.py",
+    "title": "UserAgent Class",
+    "docKey": "myapp__Lib__site-packages__werkzeug__user_agent.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/utils.py",
+    "title": "Werkzeug Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/wrappers/__init__.py",
+    "title": "Werkzeug Wrappers",
+    "docKey": "myapp__Lib__site-packages__werkzeug__wrappers____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/wrappers/request.py",
+    "title": "Werkzeug Request Object",
+    "docKey": "myapp__Lib__site-packages__werkzeug__wrappers__request.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/wrappers/response.py",
+    "title": "Response Object",
+    "docKey": "myapp__Lib__site-packages__werkzeug__wrappers__response.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/wsgi.py",
+    "title": "Werkzeug WSGI Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__wsgi.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/zipp/compat/py310.py",
+    "title": "Python 3.10 Compatibility for Text Encoding",
+    "docKey": "myapp__Lib__site-packages__zipp__compat__py310.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/zipp/glob.py",
+    "title": "zipp.glob Module",
+    "docKey": "myapp__Lib__site-packages__zipp__glob.py"
+  },
+  {
+    "filePath": "testbot/index.js",
+    "title": "Twitch Chat Bot for Game Input",
+    "docKey": "testbot__index.js"
+  }
+]
