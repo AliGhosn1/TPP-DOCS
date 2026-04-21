@@ -703,5 +703,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/req/constructors.py",
     "title": "Install Requirement Constructors",
     "docKey": "myapp__Lib__site-packages__pip___internal__req__constructors.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_file.py",
+    "title": "Requirements File Parsing (pip._internal.req.req_file)",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__req_file.py"
   }
 ]
