@@ -1405,6 +1405,11 @@
     "docKey": "myapp__Lib__site-packages__werkzeug__routing__exceptions.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/werkzeug/routing/map.py",
+    "title": "Map and MapAdapter",
+    "docKey": "myapp__Lib__site-packages__werkzeug__routing__map.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/werkzeug/routing/matcher.py",
     "title": "StateMachineMatcher",
     "docKey": "myapp__Lib__site-packages__werkzeug__routing__matcher.py"
