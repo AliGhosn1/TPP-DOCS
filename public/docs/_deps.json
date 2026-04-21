@@ -405,5 +405,11 @@
   "myapp/Lib/site-packages/jinja2/idtracking.py": [
     "./nodes",
     "./visitor"
+  ],
+  "myapp/Lib/site-packages/jinja2/lexer.py": [
+    "jinja2/_identifier.py",
+    "jinja2/exceptions.py",
+    "jinja2/utils.py",
+    "jinja2/environment.py"
   ]
 }
