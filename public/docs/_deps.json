@@ -361,5 +361,6 @@
     "myapp/Lib/site-packages/jinja2/visitor.py",
     "myapp/Lib/site-packages/jinja2/environment.py"
   ],
-  "myapp/Lib/site-packages/jinja2/bccache.py": []
+  "myapp/Lib/site-packages/jinja2/bccache.py": [],
+  "myapp/Lib/site-packages/jinja2/constants.py": []
 }
