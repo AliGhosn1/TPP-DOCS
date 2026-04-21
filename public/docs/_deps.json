@@ -27,5 +27,10 @@
     "./core",
     "./utils",
     "./globals"
+  ],
+  "myapp/Lib/site-packages/click/formatting.py": [
+    "._compat",
+    "._textwrap",
+    ".parser"
   ]
 }
