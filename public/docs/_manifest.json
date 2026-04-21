@@ -870,6 +870,11 @@
     "docKey": "myapp__Lib__site-packages__pynput___util____init__.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/darwin_vks.py",
+    "title": "Darwin Virtual Key State Mapping",
+    "docKey": "myapp__Lib__site-packages__pynput___util__darwin_vks.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/pynput/_util/darwin.py",
     "title": "Darwin Backend Utilities",
     "docKey": "myapp__Lib__site-packages__pynput___util__darwin.py"
