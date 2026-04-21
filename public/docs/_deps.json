@@ -84,5 +84,10 @@
     ".exceptions",
     ".globals"
   ],
-  "myapp/Lib/site-packages/colorama/ansi.py": []
+  "myapp/Lib/site-packages/colorama/ansi.py": [],
+  "myapp/Lib/site-packages/colorama/ansitowin32.py": [
+    ".\\ansi.py",
+    ".\\winterm.py",
+    ".\\win32.py"
+  ]
 }
