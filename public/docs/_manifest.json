@@ -418,5 +418,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/loaders.py",
     "title": "Jinja2 Template Loaders",
     "docKey": "myapp__Lib__site-packages__jinja2__loaders.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/meta.py",
+    "title": "Jinja2 Meta-Introspection",
+    "docKey": "myapp__Lib__site-packages__jinja2__meta.py"
   }
 ]
