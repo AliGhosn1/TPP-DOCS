@@ -1017,5 +1017,9 @@
     "pynput/_util/abstract.py"
   ],
   "myapp/Lib/site-packages/pynput/_util/darwin_vks.py": [],
-  "myapp/Lib/site-packages/pynput/_util/uinput.py": []
+  "myapp/Lib/site-packages/pynput/_util/uinput.py": [],
+  "myapp/Lib/site-packages/pynput/_util/win32.py": [
+    ".AbstractListener",
+    ".win32_vks as VK"
+  ]
 }
