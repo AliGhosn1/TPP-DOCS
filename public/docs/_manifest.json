@@ -93,5 +93,10 @@
     "filePath": "myapp/Lib/site-packages/click/utils.py",
     "title": "Click Utilities",
     "docKey": "myapp__Lib__site-packages__click__utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/ansi.py",
+    "title": "Colorama ANSI Escape Code Generation",
+    "docKey": "myapp__Lib__site-packages__colorama__ansi.py"
   }
 ]
