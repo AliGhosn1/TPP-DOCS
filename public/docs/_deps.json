@@ -1465,5 +1465,6 @@
     "../datastructures.py",
     "../http.py",
     "../wsgi.py"
-  ]
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/profiler.py": []
 }
