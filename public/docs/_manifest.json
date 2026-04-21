@@ -185,6 +185,11 @@
     "docKey": "myapp__Lib__site-packages__flask__ctx.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/flask/debughelpers.py",
+    "title": "Flask Debug Helpers",
+    "docKey": "myapp__Lib__site-packages__flask__debughelpers.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/flask/globals.py",
     "title": "Flask Globals",
     "docKey": "myapp__Lib__site-packages__flask__globals.py"
