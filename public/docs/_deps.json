@@ -247,5 +247,10 @@
     "./helpers",
     "werkzeug.exceptions",
     "werkzeug.wrappers"
+  ],
+  "myapp/Lib/site-packages/flask/testing.py": [
+    "./cli.py",
+    "./sessions.py",
+    "./app.py"
   ]
 }
