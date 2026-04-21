@@ -438,5 +438,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/optimizer.py",
     "title": "Jinja2 Optimizer",
     "docKey": "myapp__Lib__site-packages__jinja2__optimizer.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/parser.py",
+    "title": "Jinja2 Parser",
+    "docKey": "myapp__Lib__site-packages__jinja2__parser.py"
   }
 ]
