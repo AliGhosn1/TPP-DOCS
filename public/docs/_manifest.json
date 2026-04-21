@@ -148,5 +148,10 @@
     "filePath": "myapp/Lib/site-packages/colorama/win32.py",
     "title": "Colorama Win32 API Bindings",
     "docKey": "myapp__Lib__site-packages__colorama__win32.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/flask/__init__.py",
+    "title": "Flask Package Initialization",
+    "docKey": "myapp__Lib__site-packages__flask____init__.py"
   }
 ]
