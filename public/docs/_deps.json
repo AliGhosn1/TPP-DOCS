@@ -456,5 +456,12 @@
     "./runtime",
     "./utils",
     "./environment"
+  ],
+  "myapp/Lib/site-packages/jinja2/utils.py": [
+    "jinja2.runtime",
+    "jinja2.nodes",
+    "jinja2.environment",
+    "jinja2.lexer",
+    "jinja2.constants"
   ]
 }
