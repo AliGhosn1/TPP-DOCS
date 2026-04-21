@@ -1545,5 +1545,12 @@
     "../urls",
     "urllib.parse"
   ],
-  "myapp/Lib/site-packages/werkzeug/security.py": []
+  "myapp/Lib/site-packages/werkzeug/security.py": [],
+  "myapp/Lib/site-packages/werkzeug/serving.py": [
+    "myapp",
+    "werkzeug/_internal",
+    "werkzeug/exceptions",
+    "werkzeug/urls",
+    "werkzeug/debug/tbtools"
+  ]
 }
