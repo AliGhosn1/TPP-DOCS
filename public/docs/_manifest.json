@@ -828,5 +828,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/subversion.py",
     "title": "Subversion VCS Integration",
     "docKey": "myapp__Lib__site-packages__pip___internal__vcs__subversion.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/versioncontrol.py",
+    "title": "Version Control Support",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__versioncontrol.py"
   }
 ]
