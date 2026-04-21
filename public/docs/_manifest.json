@@ -718,5 +718,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_set.py",
     "title": "RequirementSet Class",
     "docKey": "myapp__Lib__site-packages__pip___internal__req__req_set.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_uninstall.py",
+    "title": "Uninstall Path Management",
+    "docKey": "myapp__Lib__site-packages__pip___internal__req__req_uninstall.py"
   }
 ]
