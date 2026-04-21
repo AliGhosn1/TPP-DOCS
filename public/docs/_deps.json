@@ -565,5 +565,16 @@
     "pip/_internal/utils/deprecation.py",
     "pip/_internal/utils/misc.py",
     "pip/_internal/utils/virtualenv.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/download.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/cli/base_command.py",
+    "pip/_internal/legacy_resolve.py",
+    "pip/_internal/operations/prepare.py",
+    "pip/_internal/req/requirement_set.py",
+    "pip/_internal/req/req_tracker.py",
+    "pip/_internal/utils/filesystem.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/temp_dir.py"
   ]
 }
