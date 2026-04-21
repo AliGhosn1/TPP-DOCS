@@ -19,5 +19,8 @@
     "click/_compat.py",
     "click/exceptions.py",
     "click/utils.py"
+  ],
+  "myapp/Lib/site-packages/click/_winconsole.py": [
+    "._compat"
   ]
 }
