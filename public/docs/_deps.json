@@ -1482,5 +1482,8 @@
     "./map",
     "./matcher",
     "./rules"
+  ],
+  "myapp/Lib/site-packages/werkzeug/routing/converters.py": [
+    ".map"
   ]
 }
