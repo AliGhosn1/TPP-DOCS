@@ -1048,5 +1048,18 @@
     "pynput._util.win32_vks",
     "pynput._util.AbstractListener",
     "pynput._base"
+  ],
+  "myapp/Lib/site-packages/pynput/keyboard/_xorg.py": [
+    "pynput._util.xorg",
+    "pynput._util",
+    "pynput.keyboard._base",
+    "Xlib.display",
+    "Xlib.ext",
+    "Xlib.ext.xtest",
+    "Xlib.X",
+    "Xlib.XK",
+    "Xlib.protocol",
+    "Xlib.keysymdef.xkb",
+    "pynput._util.xorg_keysyms"
   ]
 }
