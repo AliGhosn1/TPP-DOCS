@@ -1345,5 +1345,8 @@
     ".mixins",
     ".range",
     ".structures"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/accept.py": [
+    "./structures"
   ]
 }
