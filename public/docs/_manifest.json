@@ -408,5 +408,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/idtracking.py",
     "title": "Jinja2 ID Tracking Symbols",
     "docKey": "myapp__Lib__site-packages__jinja2__idtracking.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/lexer.py",
+    "title": "Jinja2 Lexer",
+    "docKey": "myapp__Lib__site-packages__jinja2__lexer.py"
   }
 ]
