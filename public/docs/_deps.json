@@ -1380,5 +1380,12 @@
     ".headers.Headers",
     "shutil.copyfileobj",
     "../http"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/headers.py": [
+    "werkzeug._internal",
+    "werkzeug.exceptions",
+    "werkzeug.datastructures.mixins",
+    "werkzeug.datastructures.structures",
+    "werkzeug.http"
   ]
 }
