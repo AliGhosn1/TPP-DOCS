@@ -433,5 +433,11 @@
     "jinja2/nodes.py",
     "jinja2/visitor.py",
     "jinja2/environment.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/parser.py": [
+    "./nodes",
+    "./exceptions",
+    "./lexer",
+    "./environment"
   ]
 }
