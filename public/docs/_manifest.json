@@ -658,5 +658,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/models/search_scope.py",
     "title": "SearchScope Model",
     "docKey": "myapp__Lib__site-packages__pip___internal__models__search_scope.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/models/selection_prefs.py",
+    "title": "SelectionPreferences",
+    "docKey": "myapp__Lib__site-packages__pip___internal__models__selection_prefs.py"
   }
 ]
