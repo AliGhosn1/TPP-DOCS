@@ -362,5 +362,9 @@
     "myapp/Lib/site-packages/jinja2/environment.py"
   ],
   "myapp/Lib/site-packages/jinja2/bccache.py": [],
-  "myapp/Lib/site-packages/jinja2/constants.py": []
+  "myapp/Lib/site-packages/jinja2/constants.py": [],
+  "myapp/Lib/site-packages/jinja2/debug.py": [
+    "myapp/Lib/site-packages/jinja2/exceptions.py",
+    "myapp/Lib/site-packages/jinja2/utils.py"
+  ]
 }
