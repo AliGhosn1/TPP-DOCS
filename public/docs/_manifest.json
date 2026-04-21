@@ -48,5 +48,10 @@
     "filePath": "myapp/Lib/site-packages/click/globals.py",
     "title": "Click Context Globals",
     "docKey": "myapp__Lib__site-packages__click__globals.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/parser.py",
+    "title": "Click Parser Module",
+    "docKey": "myapp__Lib__site-packages__click__parser.py"
   }
 ]
