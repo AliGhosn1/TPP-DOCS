@@ -1460,5 +1460,10 @@
     "../http",
     "../wsgi",
     "../exceptions"
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/lint.py": [
+    "../datastructures.py",
+    "../http.py",
+    "../wsgi.py"
   ]
 }
