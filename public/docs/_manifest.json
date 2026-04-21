@@ -1,5 +1,10 @@
 [
   {
+    "filePath": "myapp/app.py",
+    "title": "TwitchPokemon App - Keyboard Controller",
+    "docKey": "myapp__app.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/blinker/__init__.py",
     "title": "Blinker Package Initialization",
     "docKey": "myapp__Lib__site-packages__blinker____init__.py"
