@@ -1348,5 +1348,8 @@
   ],
   "myapp/Lib/site-packages/werkzeug/datastructures/accept.py": [
     "./structures"
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/accept.pyi": [
+    ".structures.ImmutableList"
   ]
 }
