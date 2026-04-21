@@ -1463,5 +1463,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/testapp.py",
     "title": "Werkzeug Test Application",
     "docKey": "myapp__Lib__site-packages__werkzeug__testapp.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/user_agent.py",
+    "title": "UserAgent Class",
+    "docKey": "myapp__Lib__site-packages__werkzeug__user_agent.py"
   }
 ]
