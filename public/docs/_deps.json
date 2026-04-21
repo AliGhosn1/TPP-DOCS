@@ -106,5 +106,10 @@
     "colorama/ansitowin32.py",
     "colorama/win32.py",
     "colorama/tests/utils.py"
+  ],
+  "myapp/Lib/site-packages/colorama/tests/initialise_test.py": [
+    "../ansitowin32.py",
+    "../initialise.py",
+    "utils.py"
   ]
 }
