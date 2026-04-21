@@ -953,5 +953,9 @@
     "os.path",
     "site",
     "sys"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/vcs/bazaar.py": [
+    "pip._internal.utils.misc",
+    "pip._internal.vcs.versioncontrol"
   ]
 }
