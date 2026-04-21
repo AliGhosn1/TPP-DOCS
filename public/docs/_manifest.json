@@ -1183,5 +1183,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/site-patch.py",
     "title": "setuptools site-patch Module",
     "docKey": "myapp__Lib__site-packages__setuptools__site-patch.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/ssl_support.py",
+    "title": "SSL Support Utilities",
+    "docKey": "myapp__Lib__site-packages__setuptools__ssl_support.py"
   }
 ]
