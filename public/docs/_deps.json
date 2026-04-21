@@ -1,0 +1,8 @@
+{
+  "myapp/Lib/site-packages/blinker/_saferef.py": [
+    "weakref",
+    "operator",
+    "sys",
+    "traceback"
+  ]
+}
