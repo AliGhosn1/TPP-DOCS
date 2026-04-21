@@ -373,5 +373,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/constants.py",
     "title": "Jinja2 Constants",
     "docKey": "myapp__Lib__site-packages__jinja2__constants.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/debug.py",
+    "title": "Jinja2 Debugging Utilities",
+    "docKey": "myapp__Lib__site-packages__jinja2__debug.py"
   }
 ]
