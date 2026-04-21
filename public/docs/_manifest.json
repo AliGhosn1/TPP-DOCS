@@ -318,5 +318,10 @@
     "filePath": "myapp/Lib/site-packages/itsdangerous/_json.py",
     "title": "Compact JSON Wrapper",
     "docKey": "myapp__Lib__site-packages__itsdangerous___json.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/encoding.py",
+    "title": "itsdangerous Encoding Utilities",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__encoding.py"
   }
 ]
