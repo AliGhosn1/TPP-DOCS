@@ -808,5 +808,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/utils/virtualenv.py",
     "title": "Virtual Environment Utilities",
     "docKey": "myapp__Lib__site-packages__pip___internal__utils__virtualenv.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/vcs/bazaar.py",
+    "title": "Bazaar Version Control Integration",
+    "docKey": "myapp__Lib__site-packages__pip___internal__vcs__bazaar.py"
   }
 ]
