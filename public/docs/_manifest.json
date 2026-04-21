@@ -128,5 +128,10 @@
     "filePath": "myapp/Lib/site-packages/colorama/tests/initialise_test.py",
     "title": "Colorama Initialization Tests",
     "docKey": "myapp__Lib__site-packages__colorama__tests__initialise_test.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/colorama/tests/isatty_test.py",
+    "title": "Colorama `isatty` Tests",
+    "docKey": "myapp__Lib__site-packages__colorama__tests__isatty_test.py"
   }
 ]
