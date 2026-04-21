@@ -423,5 +423,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/meta.py",
     "title": "Jinja2 Meta-Introspection",
     "docKey": "myapp__Lib__site-packages__jinja2__meta.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/nativetypes.py",
+    "title": "Jinja2 Native Types Support",
+    "docKey": "myapp__Lib__site-packages__jinja2__nativetypes.py"
   }
 ]
