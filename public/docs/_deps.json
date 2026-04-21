@@ -1597,5 +1597,17 @@
   "myapp/Lib/site-packages/werkzeug/wsgi.py": [
     "werkzeug/exceptions.py",
     "werkzeug/sansio/utils.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/wrappers/response.py": [
+    "../datastructures",
+    "../http",
+    "../sansio/response",
+    "../urls",
+    "../utils",
+    "../wsgi",
+    "werkzeug._internal",
+    "werkzeug.http",
+    "werkzeug.wrappers.request",
+    "_typeshed.wsgi"
   ]
 }
