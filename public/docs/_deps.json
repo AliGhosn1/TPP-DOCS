@@ -65,5 +65,12 @@
     "./globals",
     "./types",
     "./utils"
+  ],
+  "myapp/Lib/site-packages/click/testing.py": [
+    ".",
+    ".formatting",
+    ".termui",
+    ".utils",
+    "._compat"
   ]
 }
