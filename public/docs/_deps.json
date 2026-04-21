@@ -295,5 +295,6 @@
   "myapp/Lib/site-packages/importlib_metadata/_py39compat.py": [
     ".",
     "importlib_metadata"
-  ]
+  ],
+  "myapp/Lib/site-packages/importlib_metadata/_itertools.py": []
 }
