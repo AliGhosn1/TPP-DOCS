@@ -1498,5 +1498,10 @@
     "filePath": "myapp/Lib/site-packages/zipp/compat/py310.py",
     "title": "Python 3.10 Compatibility for Text Encoding",
     "docKey": "myapp__Lib__site-packages__zipp__compat__py310.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/zipp/glob.py",
+    "title": "zipp.glob Module",
+    "docKey": "myapp__Lib__site-packages__zipp__glob.py"
   }
 ]
