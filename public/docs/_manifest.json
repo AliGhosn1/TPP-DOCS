@@ -975,6 +975,11 @@
     "docKey": "myapp__Lib__site-packages__setuptools__build_meta.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/__init__.py",
+    "title": "Setuptools Command Module",
+    "docKey": "myapp__Lib__site-packages__setuptools__command____init__.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/setuptools/command/alias.py",
     "title": "Setuptools Alias Command",
     "docKey": "myapp__Lib__site-packages__setuptools__command__alias.py"
