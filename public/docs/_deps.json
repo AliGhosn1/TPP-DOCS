@@ -1451,5 +1451,8 @@
   "myapp/Lib/site-packages/werkzeug/http.py": [
     "werkzeug/_internal.py",
     "werkzeug/datastructures.py"
+  ],
+  "myapp/Lib/site-packages/werkzeug/middleware/dispatcher.py": [
+    "_typeshed.wsgi"
   ]
 }
