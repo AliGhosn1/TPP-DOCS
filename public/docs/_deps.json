@@ -1623,5 +1623,6 @@
     "zipp/compat/py310.py"
   ],
   "myapp/Lib/site-packages/zipp/glob.py": [],
-  "myapp/app.py": []
+  "myapp/app.py": [],
+  "testbot/index.js": []
 }
