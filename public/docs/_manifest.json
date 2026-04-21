@@ -1028,5 +1028,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/easy_install.py",
     "title": "easy_install.py: Automatic Package Installation",
     "docKey": "myapp__Lib__site-packages__setuptools__command__easy_install.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/egg_info.py",
+    "title": "setuptools.command.egg_info",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__egg_info.py"
   }
 ]
