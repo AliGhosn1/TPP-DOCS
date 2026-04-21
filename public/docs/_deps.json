@@ -1001,5 +1001,6 @@
     "pip/_vendor/distlib/scripts.py",
     "pip/_vendor/packaging/utils.py",
     "pip/_vendor/six.py"
-  ]
+  ],
+  "myapp/Lib/site-packages/pkg_resources/__init__.py": []
 }
