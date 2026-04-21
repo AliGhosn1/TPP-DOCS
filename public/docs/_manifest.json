@@ -43,5 +43,10 @@
     "filePath": "myapp/Lib/site-packages/click/formatting.py",
     "title": "click.formatting",
     "docKey": "myapp__Lib__site-packages__click__formatting.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/globals.py",
+    "title": "Click Context Globals",
+    "docKey": "myapp__Lib__site-packages__click__globals.py"
   }
 ]
