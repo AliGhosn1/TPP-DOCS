@@ -1104,5 +1104,9 @@
   "myapp/Lib/site-packages/setuptools/build_meta.py": [
     "setuptools.py31compat",
     "distutils"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/alias.py": [
+    "setuptools.extern.six.moves",
+    "setuptools.command.setopt"
   ]
 }
