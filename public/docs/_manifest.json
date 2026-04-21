@@ -578,5 +578,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/commands/show.py",
     "title": "pip show command",
     "docKey": "myapp__Lib__site-packages__pip___internal__commands__show.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/commands/uninstall.py",
+    "title": "Uninstall Command",
+    "docKey": "myapp__Lib__site-packages__pip___internal__commands__uninstall.py"
   }
 ]
