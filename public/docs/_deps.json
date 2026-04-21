@@ -632,5 +632,14 @@
   "myapp/Lib/site-packages/pip/_internal/commands/show.py": [
     "pip/_internal/cli/base_command.py",
     "pip/_internal/cli/status_codes.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/commands/search.py": [
+    "pip._internal.cli.base_command",
+    "pip._internal.cli.status_codes",
+    "pip._internal.download",
+    "pip._internal.exceptions",
+    "pip._internal.models.index",
+    "pip._internal.utils.compat",
+    "pip._internal.utils.logging"
   ]
 }
