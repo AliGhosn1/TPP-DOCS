@@ -728,5 +728,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/req/req_uninstall.py",
     "title": "Uninstall Path Management",
     "docKey": "myapp__Lib__site-packages__pip___internal__req__req_uninstall.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/utils/compat.py",
+    "title": "Compatibility Utilities",
+    "docKey": "myapp__Lib__site-packages__pip___internal__utils__compat.py"
   }
 ]
