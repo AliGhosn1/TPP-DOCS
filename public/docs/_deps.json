@@ -1533,5 +1533,10 @@
     "../utils",
     ".http",
     ".utils"
+  ],
+  "myapp/Lib/site-packages/werkzeug/sansio/response.py": [
+    "werkzeug.datastructures",
+    "werkzeug.http",
+    "werkzeug.utils"
   ]
 }
