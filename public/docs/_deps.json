@@ -45,5 +45,14 @@
     "click/parser.py",
     "click/utils.py"
   ],
-  "myapp/Lib/site-packages/click/_textwrap.py": []
+  "myapp/Lib/site-packages/click/_textwrap.py": [],
+  "myapp/Lib/site-packages/click/core.py": [
+    "./types",
+    "./exceptions",
+    "./formatting",
+    "./globals",
+    "./parser",
+    "./termui",
+    "./utils"
+  ]
 }
