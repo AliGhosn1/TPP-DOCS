@@ -120,5 +120,17 @@
   "myapp/Lib/site-packages/colorama/tests/winterm_test.py": [
     "../winterm.py"
   ],
-  "myapp/Lib/site-packages/colorama/win32.py": []
+  "myapp/Lib/site-packages/colorama/win32.py": [],
+  "myapp/Lib/site-packages/flask/__init__.py": [
+    "./json",
+    "./app",
+    "./blueprints",
+    "./config",
+    "./ctx",
+    "./globals",
+    "./helpers",
+    "./signals",
+    "./templating",
+    "./wrappers"
+  ]
 }
