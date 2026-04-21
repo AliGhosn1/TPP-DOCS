@@ -679,5 +679,8 @@
     "pip/_internal/build_env.py",
     "pip/_internal/distributions/base.py",
     "pip/_internal/exceptions.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/distributions/wheel.py": [
+    "pip/_internal/distributions/base.py"
   ]
 }
