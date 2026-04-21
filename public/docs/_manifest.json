@@ -1443,5 +1443,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/sansio/utils.py",
     "title": "Werkzeug SansIO Utilities",
     "docKey": "myapp__Lib__site-packages__werkzeug__sansio__utils.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/security.py",
+    "title": "Werkzeug Security Utilities",
+    "docKey": "myapp__Lib__site-packages__werkzeug__security.py"
   }
 ]
