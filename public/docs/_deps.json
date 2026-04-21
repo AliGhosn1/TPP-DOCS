@@ -1389,5 +1389,11 @@
     "werkzeug.http"
   ],
   "myapp/Lib/site-packages/werkzeug/datastructures/headers.pyi": [],
-  "myapp/Lib/site-packages/werkzeug/datastructures/mixins.py": []
+  "myapp/Lib/site-packages/werkzeug/datastructures/mixins.py": [],
+  "myapp/Lib/site-packages/werkzeug/datastructures/mixins.pyi": [
+    "werkzeug/datastructures/headers.pyi",
+    "_typeshed.pyi",
+    "collections.abc",
+    "typing"
+  ]
 }
