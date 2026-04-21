@@ -207,5 +207,9 @@
     "myapp/Lib/site-packages/flask/sansio/app.py",
     "myapp/Lib/site-packages/flask/wrappers.py",
     "myapp/Lib/site-packages/flask/sansio/scaffold.py"
+  ],
+  "myapp/Lib/site-packages/flask/helpers.py": [
+    "./globals",
+    "./signals"
   ]
 }
