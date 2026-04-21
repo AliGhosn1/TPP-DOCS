@@ -33,5 +33,10 @@
     "filePath": "myapp/Lib/site-packages/click/_winconsole.py",
     "title": "Windows Console Handling",
     "docKey": "myapp__Lib__site-packages__click___winconsole.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/click/decorators.py",
+    "title": "Click Decorators",
+    "docKey": "myapp__Lib__site-packages__click__decorators.py"
   }
 ]
