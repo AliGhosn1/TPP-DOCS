@@ -257,5 +257,14 @@
     "werkzeug.datastructures",
     "werkzeug.sansio.response",
     "_typeshed.wsgi"
+  ],
+  "myapp/Lib/site-packages/flask/templating.py": [
+    "flask/globals.py",
+    "flask/helpers.py",
+    "flask/signals.py",
+    "flask/app.py",
+    "flask/sansio/app.py",
+    "flask/sansio/scaffold.py",
+    "flask/debughelpers.py"
   ]
 }
