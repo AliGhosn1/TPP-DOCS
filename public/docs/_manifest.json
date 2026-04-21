@@ -428,5 +428,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/nativetypes.py",
     "title": "Jinja2 Native Types Support",
     "docKey": "myapp__Lib__site-packages__jinja2__nativetypes.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/nodes.py",
+    "title": "Jinja2 AST Nodes",
+    "docKey": "myapp__Lib__site-packages__jinja2__nodes.py"
   }
 ]
