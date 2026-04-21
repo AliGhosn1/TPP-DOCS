@@ -888,5 +888,8 @@
   ],
   "myapp/Lib/site-packages/pip/_internal/utils/compat.py": [
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/utils/encoding.py": [
+    "pip/_internal/utils/typing.py"
   ]
 }
