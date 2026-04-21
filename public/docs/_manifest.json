@@ -1173,5 +1173,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/py33compat.py",
     "title": "Python 3.3 Compatibility Layer",
     "docKey": "myapp__Lib__site-packages__setuptools__py33compat.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/sandbox.py",
+    "title": "setuptools.sandbox",
+    "docKey": "myapp__Lib__site-packages__setuptools__sandbox.py"
   }
 ]
