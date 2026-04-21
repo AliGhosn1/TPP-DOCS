@@ -968,5 +968,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/archive_util.py",
     "title": "Archive Extraction Utilities (setuptools.archive_util)",
     "docKey": "myapp__Lib__site-packages__setuptools__archive_util.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/build_meta.py",
+    "title": "Setuptools Build Meta Backend",
+    "docKey": "myapp__Lib__site-packages__setuptools__build_meta.py"
   }
 ]
