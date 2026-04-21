@@ -1035,6 +1035,11 @@
     "docKey": "myapp__Lib__site-packages__setuptools__command__egg_info.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/install_egg_info.py",
+    "title": "install_egg_info Command",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__install_egg_info.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/setuptools/command/install.py",
     "title": "Setuptools Install Command",
     "docKey": "myapp__Lib__site-packages__setuptools__command__install.py"
