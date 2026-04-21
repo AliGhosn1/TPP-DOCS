@@ -1139,5 +1139,9 @@
     "imp",
     "dl",
     "distutils.util"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/build_py.py": [
+    "setuptools.extern.six",
+    "setuptools.lib2to3_ex"
   ]
 }
