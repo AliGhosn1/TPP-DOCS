@@ -957,5 +957,12 @@
   "myapp/Lib/site-packages/pip/_internal/vcs/bazaar.py": [
     "pip._internal.utils.misc",
     "pip._internal.vcs.versioncontrol"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/vcs/git.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/compat.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/vcs/versioncontrol.py"
   ]
 }
