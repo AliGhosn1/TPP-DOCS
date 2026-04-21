@@ -1321,5 +1321,6 @@
     "setuptools.pep425tags",
     "setuptools.command.egg_info"
   ],
-  "myapp/Lib/site-packages/setuptools/windows_support.py": []
+  "myapp/Lib/site-packages/setuptools/windows_support.py": [],
+  "myapp/Lib/site-packages/six.py": []
 }
