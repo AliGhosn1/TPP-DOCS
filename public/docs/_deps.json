@@ -829,5 +829,13 @@
     "pip/_internal/req/req_install.py",
     "pip/_internal/req/req_tracker.py",
     "pip/_internal/index.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/req/req_file.py": [
+    "pip/_internal/cli/cmdoptions.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/models/search_scope.py",
+    "pip/_internal/req/constructors.py",
+    "pip/_internal/utils/typing.py"
   ]
 }
