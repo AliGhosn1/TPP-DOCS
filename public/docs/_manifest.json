@@ -290,6 +290,11 @@
     "docKey": "myapp__Lib__site-packages__importlib_metadata___functools.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/_itertools.py",
+    "title": "Importlib Metadata - Iterator Utilities",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata___itertools.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/importlib_metadata/_py39compat.py",
     "title": "Python 3.8/3.9 Compatibility Layer",
     "docKey": "myapp__Lib__site-packages__importlib_metadata___py39compat.py"
