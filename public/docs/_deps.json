@@ -1423,5 +1423,6 @@
     ".repr",
     ".tbtools"
   ],
-  "myapp/Lib/site-packages/werkzeug/debug/repr.py": []
+  "myapp/Lib/site-packages/werkzeug/debug/repr.py": [],
+  "myapp/Lib/site-packages/werkzeug/debug/shared/debugger.js": []
 }
