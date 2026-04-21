@@ -1128,5 +1128,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/launch.py",
     "title": "setuptools Launch Script",
     "docKey": "myapp__Lib__site-packages__setuptools__launch.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/lib2to3_ex.py",
+    "title": "setuptools lib2to3 Extension",
+    "docKey": "myapp__Lib__site-packages__setuptools__lib2to3_ex.py"
   }
 ]
