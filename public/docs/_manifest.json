@@ -868,5 +868,10 @@
     "filePath": "myapp/Lib/site-packages/pynput/_util/__init__.py",
     "title": "pynput._util",
     "docKey": "myapp__Lib__site-packages__pynput___util____init__.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pynput/_util/darwin.py",
+    "title": "Darwin Backend Utilities",
+    "docKey": "myapp__Lib__site-packages__pynput___util__darwin.py"
   }
 ]
