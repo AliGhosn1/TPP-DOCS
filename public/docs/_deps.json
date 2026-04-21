@@ -772,5 +772,11 @@
     "pip/_internal/pep425tags.py",
     "pip/_internal/utils/misc.py",
     "pip/_internal/utils/typing.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/operations/check.py": [
+    "pip/_internal/distributions",
+    "pip/_internal/utils/misc",
+    "pip/_internal/utils/typing",
+    "pip/_internal/req/req_install"
   ]
 }
