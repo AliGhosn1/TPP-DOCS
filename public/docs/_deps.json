@@ -1436,5 +1436,13 @@
     ".sansio.response",
     ".wrappers.request",
     ".wrappers.response"
+  ],
+  "myapp/Lib/site-packages/werkzeug/formparser.py": [
+    "._internal",
+    ".datastructures",
+    ".exceptions",
+    ".http",
+    ".sansio.multipart",
+    ".wsgi"
   ]
 }
