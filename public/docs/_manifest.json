@@ -328,5 +328,10 @@
     "filePath": "myapp/Lib/site-packages/itsdangerous/exc.py",
     "title": "itsdangerous Exceptions",
     "docKey": "myapp__Lib__site-packages__itsdangerous__exc.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/itsdangerous/serializer.py",
+    "title": "itsdangerous Serializer",
+    "docKey": "myapp__Lib__site-packages__itsdangerous__serializer.py"
   }
 ]
