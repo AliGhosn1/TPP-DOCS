@@ -988,5 +988,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/command/bdist_egg.py",
     "title": "bdist_egg Command",
     "docKey": "myapp__Lib__site-packages__setuptools__command__bdist_egg.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/command/bdist_rpm.py",
+    "title": "Custom bdist_rpm command for Setuptools",
+    "docKey": "myapp__Lib__site-packages__setuptools__command__bdist_rpm.py"
   }
 ]
