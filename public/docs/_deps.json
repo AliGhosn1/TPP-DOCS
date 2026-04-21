@@ -1387,5 +1387,6 @@
     "werkzeug.datastructures.mixins",
     "werkzeug.datastructures.structures",
     "werkzeug.http"
-  ]
+  ],
+  "myapp/Lib/site-packages/werkzeug/datastructures/headers.pyi": []
 }
