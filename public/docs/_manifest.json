@@ -493,5 +493,10 @@
     "filePath": "myapp/Lib/site-packages/pip/_internal/cache.py",
     "title": "Pip Cache Management",
     "docKey": "myapp__Lib__site-packages__pip___internal__cache.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/pip/_internal/cli/autocompletion.py",
+    "title": "pip Autocompletion Logic",
+    "docKey": "myapp__Lib__site-packages__pip___internal__cli__autocompletion.py"
   }
 ]
