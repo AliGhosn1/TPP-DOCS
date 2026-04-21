@@ -240,6 +240,11 @@
     "docKey": "myapp__Lib__site-packages__flask__signals.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/flask/templating.py",
+    "title": "Flask Templating Utilities",
+    "docKey": "myapp__Lib__site-packages__flask__templating.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/flask/testing.py",
     "title": "Flask Testing Utilities",
     "docKey": "myapp__Lib__site-packages__flask__testing.py"
