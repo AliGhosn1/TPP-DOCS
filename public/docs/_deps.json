@@ -366,5 +366,10 @@
   "myapp/Lib/site-packages/jinja2/debug.py": [
     "myapp/Lib/site-packages/jinja2/exceptions.py",
     "myapp/Lib/site-packages/jinja2/utils.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/defaults.py": [
+    "jinja2/filters.py",
+    "jinja2/tests.py",
+    "jinja2/utils.py"
   ]
 }
