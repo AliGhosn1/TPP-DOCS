@@ -463,5 +463,6 @@
     "jinja2.environment",
     "jinja2.lexer",
     "jinja2.constants"
-  ]
+  ],
+  "myapp/Lib/site-packages/markupsafe/__init__.py": []
 }
