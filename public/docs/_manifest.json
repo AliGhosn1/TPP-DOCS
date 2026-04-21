@@ -1313,5 +1313,10 @@
     "filePath": "myapp/Lib/site-packages/werkzeug/datastructures/structures.pyi",
     "title": "Werkzeug Datastructures",
     "docKey": "myapp__Lib__site-packages__werkzeug__datastructures__structures.pyi"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/werkzeug/debug/__init__.py",
+    "title": "Werkzeug Debugger",
+    "docKey": "myapp__Lib__site-packages__werkzeug__debug____init__.py"
   }
 ]
