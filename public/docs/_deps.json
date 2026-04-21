@@ -1263,5 +1263,6 @@
     "os",
     "re",
     "fnmatch"
-  ]
+  ],
+  "myapp/Lib/site-packages/setuptools/launch.py": []
 }
