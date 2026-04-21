@@ -1480,6 +1480,11 @@
     "docKey": "myapp__Lib__site-packages__werkzeug__wrappers____init__.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/werkzeug/wrappers/request.py",
+    "title": "Werkzeug Request Object",
+    "docKey": "myapp__Lib__site-packages__werkzeug__wrappers__request.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/werkzeug/wrappers/response.py",
     "title": "Response Object",
     "docKey": "myapp__Lib__site-packages__werkzeug__wrappers__response.py"
