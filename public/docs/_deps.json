@@ -1579,5 +1579,6 @@
     "./wrappers/request.py",
     "./wrappers/response.py",
     "./serving.py"
-  ]
+  ],
+  "myapp/Lib/site-packages/werkzeug/user_agent.py": []
 }
