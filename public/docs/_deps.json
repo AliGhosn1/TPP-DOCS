@@ -983,5 +983,23 @@
     "pip/_internal/utils/typing.py",
     "pip/_vendor/pkg_resources.py",
     "pip/_vendor/six/moves/urllib/parse.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/wheel.py": [
+    "pip/_internal/pep425tags.py",
+    "pip/_internal/download.py",
+    "pip/_internal/exceptions.py",
+    "pip/_internal/locations.py",
+    "pip/_internal/models/link.py",
+    "pip/_internal/utils/logging.py",
+    "pip/_internal/utils/marker_files.py",
+    "pip/_internal/utils/misc.py",
+    "pip/_internal/utils/setuptools_build.py",
+    "pip/_internal/utils/temp_dir.py",
+    "pip/_internal/utils/typing.py",
+    "pip/_internal/utils/ui.py",
+    "pip/_vendor/pkg_resources/__init__.py",
+    "pip/_vendor/distlib/scripts.py",
+    "pip/_vendor/packaging/utils.py",
+    "pip/_vendor/six.py"
   ]
 }
