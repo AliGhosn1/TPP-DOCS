@@ -1022,5 +1022,9 @@
     ".AbstractListener",
     ".win32_vks as VK"
   ],
-  "myapp/Lib/site-packages/pynput/_util/win32_vks.py": []
+  "myapp/Lib/site-packages/pynput/_util/win32_vks.py": [],
+  "myapp/Lib/site-packages/pynput/_util/xorg.py": [
+    "./AbstractListener",
+    "./xorg_keysyms"
+  ]
 }
