@@ -424,5 +424,9 @@
     "jinja2/nodes.py",
     "jinja2/compiler.py",
     "jinja2/environment.py"
+  ],
+  "myapp/Lib/site-packages/jinja2/nodes.py": [
+    "./utils",
+    "./environment"
   ]
 }
