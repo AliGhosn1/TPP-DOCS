@@ -1284,5 +1284,19 @@
   ],
   "myapp/Lib/site-packages/setuptools/namespaces.py": [
     "setuptools.extern.six.moves"
+  ],
+  "myapp/Lib/site-packages/setuptools/package_index.py": [
+    "setuptools.extern.six",
+    "setuptools.extern.six.moves",
+    "setuptools",
+    "pkg_resources",
+    "setuptools.ssl_support",
+    "distutils.log",
+    "distutils.errors",
+    "fnmatch",
+    "setuptools.py27compat",
+    "setuptools.py33compat",
+    "setuptools.wheel",
+    "setuptools.command.easy_install"
   ]
 }
