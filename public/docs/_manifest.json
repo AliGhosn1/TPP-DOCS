@@ -265,6 +265,11 @@
     "docKey": "myapp__Lib__site-packages__flask__wrappers.py"
   },
   {
+    "filePath": "myapp/Lib/site-packages/importlib_metadata/__init__.py",
+    "title": "importlib_metadata",
+    "docKey": "myapp__Lib__site-packages__importlib_metadata____init__.py"
+  },
+  {
     "filePath": "myapp/Lib/site-packages/importlib_metadata/_adapters.py",
     "title": "importlib_metadata Adapters",
     "docKey": "myapp__Lib__site-packages__importlib_metadata___adapters.py"
