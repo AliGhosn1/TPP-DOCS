@@ -161,5 +161,8 @@
     "flask/helpers.py",
     "flask/sansio/blueprints.py",
     "flask/wrappers.py"
+  ],
+  "myapp/Lib/site-packages/flask/config.py": [
+    "flask/sansio/app.py"
   ]
 }
