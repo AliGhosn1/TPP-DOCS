@@ -1203,5 +1203,12 @@
   ],
   "myapp/Lib/site-packages/setuptools/command/saveopts.py": [
     "setuptools.command.setopt"
+  ],
+  "myapp/Lib/site-packages/setuptools/command/sdist.py": [
+    "distutils/log",
+    "distutils/command/sdist.py",
+    "setuptools/extern/six.py",
+    "setuptools/command/py36compat.py",
+    "pkg_resources"
   ]
 }
