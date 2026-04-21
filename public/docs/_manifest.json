@@ -1148,5 +1148,10 @@
     "filePath": "myapp/Lib/site-packages/setuptools/namespaces.py",
     "title": "Namespace Package Installer",
     "docKey": "myapp__Lib__site-packages__setuptools__namespaces.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/setuptools/package_index.py",
+    "title": "PackageIndex",
+    "docKey": "myapp__Lib__site-packages__setuptools__package_index.py"
   }
 ]
