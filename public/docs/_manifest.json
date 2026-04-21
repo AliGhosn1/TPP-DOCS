@@ -433,5 +433,10 @@
     "filePath": "myapp/Lib/site-packages/jinja2/nodes.py",
     "title": "Jinja2 AST Nodes",
     "docKey": "myapp__Lib__site-packages__jinja2__nodes.py"
+  },
+  {
+    "filePath": "myapp/Lib/site-packages/jinja2/optimizer.py",
+    "title": "Jinja2 Optimizer",
+    "docKey": "myapp__Lib__site-packages__jinja2__optimizer.py"
   }
 ]
