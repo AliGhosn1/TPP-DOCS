@@ -806,5 +806,9 @@
     "pip/_internal/utils/typing.py",
     "pip/_internal/vcs/__init__.py",
     "pip/_internal/wheel.py"
+  ],
+  "myapp/Lib/site-packages/pip/_internal/pyproject.py": [
+    "pip/_internal/exceptions.py",
+    "pip/_internal/utils/typing.py"
   ]
 }
